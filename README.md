@@ -1,8 +1,9 @@
 # Decision Support System für HR-Management
 ## Projektziel
 Das Ziel dieses Projekts ist die Entwicklung eines Decision Support Systems (DSS), das HR-Abteilungen in zwei zentralen Bereichen unterstützt:
-1. **Fluktuationsvorhersage:** Identifikation von Mitarbeitern mit erhöhtem Kündigungsrisiko auf Basis historischer HR-Daten.
-2. **Szenariosimulation:** Simulation der Auswirkungen von HR-Maßnahmen (z. B. Gehaltsanpassungen, flexible Arbeitszeitmodelle) auf die Fluktuationsrate.
+1. **Datenanalyse:** Überblick über den vorliegenden Datensatz
+2. **Fluktuationsvorhersage:** Identifikation von Mitarbeitern mit erhöhtem Kündigungsrisiko auf Basis historischer HR-Daten.
+3. **Szenariosimulation:** Simulation der Auswirkungen von HR-Maßnahmen (z. B. Gehaltsanpassungen, flexible Arbeitszeitmodelle) auf die Fluktuationsrate.
 Das System soll datenbasiert Empfehlungen für die Mitarbeiterbindung und die strategische Personalplanung geben.
 ## Verwendete Technologien
 Das Projekt verwendet folgende Programmiersprache und Bibliotheken:
