@@ -40,7 +40,10 @@ Weitere Bibliotheken können je nach verwendetem Modul oder Notebook benötigt w
 	- `App.py`: Hauptanwendung
 	- `ml_forest.py`, `ml_lightgbm.py`, ...: Verschiedene ML-Modelle
 	- `shap_analysis.py`: Modellinterpretation mit SHAP
-	- `PUB_CausalML_Gehaltsentwicklung.ipynb`: Beispiel-Notebook zur Gehaltsentwicklung
+    - `preprocessing_ordinal.py`: Datenvorverarbeitung
+    - `PUB_ML.ipynb`: Notebook zur Untersuchung der ML Modelle
+	- `PUB_CausalML_Gehaltsentwicklung.ipynb`, `PUB_CausalML_zeitaufPos.ipynb`: Notebook zur kausalen Untersuchung von Gehaltsentwicklung
+
 *Weitere Hinweise zur Ausführung und zu den Daten können hier ergänzt werden.*
 ## Daten
 - Die Analyse basiert auf historischen HR-Daten (z. B. `data_randomized.csv`).
