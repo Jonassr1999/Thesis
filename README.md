@@ -32,8 +32,8 @@ Weitere Bibliotheken können je nach verwendetem Modul oder Notebook benötigt w
 	```
 2. Abhängigkeiten installieren:
 	```bash
-	# Beispiel für Python
-	pip install -r requirements.txt
+	# Beispiel für SHAP
+	pip install shap
 	```
 ## Nutzung
 - Die wichtigsten Skripte und Notebooks:
