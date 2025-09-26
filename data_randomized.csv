@@ -1,0 +1,1373 @@
+Alter;Geschlecht;Vertragsenddatum;Bereich;Standort;Vertragsart;Austrittsdatum;Betriebszugehoerigkeit;FTE;FK;Abteilungsgroeﬂe;Zeit_auf_Position;Mitarbeiterstatus;Aktiv;2023_Ziele;2023_Pers_Beurteilung;2024_Ziele;2024_Pers_Beurteilung;Krankenstand_2023;Krankenstand_2024;Gehaltsentwicklung
+41-50;M;;Werk;E;Permanent;;18-20;1.0;0;6.08898337928127;18-20;Active;1;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;3,1 - 5%;5%-9%
+18-24;M;;Gesch‰ftsbereich;G;Permanent;;0-2;0.0;0;264.24340925969256;0-2;Active;0;Unterdurchschnitt;Durchschnitt;#NV;#NV;3,1 - 5%;3,1 - 5%;
+41-50;M;;Werk;E;Permanent;30.09.2024;27-29;0.0;1;7.487001650741511;"""6-8""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;5%-9%
+31-40;M;;Gesch‰ftsbereich;E;Fixed term contract;28.02.2025;"""3-5""";999.0;1;27.56917869676387;"""3-5""";Terminated;0;‹berdurchschnitt;#NV;#NV;Durchschnitt;;;
+51-60;M;30.09.2026;Gesch‰ftsbereich;G;Fixed term contract;;15-17;0.0;1;2.6404450178402223;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;;
+31-40;F;31.03.2025;Gesch‰ftsbereich;A;Permanent;;"""9-11""";1.0;1;15.422760193128694;"""9-11""";Terminated;1;Durchschnitt;#NV;#NV;Unrated;3,1 - 5%;;15%-19%
+18-24;M;;HQ;D;Permanent;;0-2;999.0;0;262.8753192069671;0-2;Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;;
+31-40;F;;Werk;E;Fixed term contract;;"""6-8""";999.0;1;53.4551672359144;"""6-8""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+31-40;M;28.04.2023;Gesch‰ftsbereich;B;Permanent;;0-2;0.0;0;101.63730221048858;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;;
+31-40;M;;Gesch‰ftsbereich;C;Permanent;31.07.2022;"""12-14""";0.0;0;165.8060610428866;0-2;Active;1;Durchschnitt;#NV;Durchschnitt;Unterdurchschnitt;;3,1 - 5%;25%-29%
+51-60;F;;Gesch‰ftsbereich;E;Permanent;;"""9-11""";1.0;1;96.00813876400872;"""3-5""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;1 % - 3 %;5,1 - 10%;5%-9%
+41-50;F;;HQ;B;Permanent;;27-29;999.0;1;62.22338187282868;"""3-5""";Terminated;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;5%-9%
+31-40;F;;Werk;G;Permanent;;"""6-8""";0.0;0;26.058820882595736;0-2;Terminated;0;#NV;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+41-50;F;;Gesch‰ftsbereich;E;Permanent;;"""3-5""";1.0;1;73.87297884251127;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;kleiner 1%;
+‹ber 60;M;;Werk;G;Permanent;;27-29;0.0;1;58.491429861715;18-20;Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;10,1 - 15%;
+51-60;M;;HQ;E;Permanent;;33-35;1.0;0;13.296769015590305;18-20;Active;1;#NV;#NV;#NV;Durchschnitt;;40,1 - 60%;5%-9%
+41-50;F;;Gesch‰ftsbereich;D;Permanent;;27-29;0.0;0;53.361216105519;"""6-8""";Active;1;Durchschnitt;#NV;Durchschnitt;#NV;;1,0 - 3 %;10%-14%
+51-60;M;;Werk;B;Permanent;;39-41;999.0;0;36.415240336290694;18-20;Terminated;1;#NV;Durchschnitt;#NV;Durchschnitt;20,01 - 40%;kleiner 1%;5%-9%
+31-40;M;;Gesch‰ftsbereich;C;Fixed term contract;31.10.2022;"""6-8""";0.0;1;42.244711365493814;"""6-8""";Dormant;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;1,0 - 3 %;10%-14%
+31-40;F;;Gesch‰ftsbereich;F;Permanent;30.06.2025;"""6-8""";1.0;0;36.05833039904518;"""3-5""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;kleiner 1%;
+51-60;M;;HQ;D;Permanent;;27-29;1.0;0;22.086111483690495;15-17;Active;1;#NV;#NV;#NV;Unrated;;;5%-9%
+25-30;M;31.01.2023;Gesch‰ftsbereich;G;Permanent;31.07.2022;"""12-14""";999.0;1;28.812600172912646;"""9-11""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;;;5%-9%
+31-40;M;;Werk;C;Permanent;31.07.2024;"""3-5""";0.5;0;5.92159017685651;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;
+18-24;F;28.02.2026;HQ;G;Permanent;31.01.2025;0-2;0.0;1;265.04022355501814;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;;
+41-50;M;;Werk;E;Permanent;;"""12-14""";999.0;1;35.32470606648;"""12-14""";Active;1;#NV;#NV;Durchschnitt;Durchschnitt;;5,1 - 10%;10%-14%
+41-50;F;;Werk;B;Permanent;;"""9-11""";0.5;1;95.75721426684356;0-2;Terminated;1;#NV;Durchschnitt;Durchschnitt;Unrated;kleiner 1 %;;10%-14%
+41-50;M;;Werk;C;Permanent;;"""6-8""";1.0;1;20.29999125907515;"""6-8""";Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;
+18-24;M;;Gesch‰ftsbereich;D;Permanent;;0-2;0.5;1;10.26747574087325;0-2;Active;0;#NV;#NV;#NV;#NV;;1,0 - 3 %;
+51-60;M;;Gesch‰ftsbereich;A;Permanent;;39-41;0.5;0;76.2021418265038;"""12-14""";Terminated;0;#NV;Durchschnitt;#NV;#NV;;10,1 - 15%;
+18-24;M;;Werk;E;Permanent;23.10.2023;0-2;0.5;0;14.982801626440448;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;
+31-40;F;;Gesch‰ftsbereich;B;Permanent;30.09.2024;"""9-11""";0.5;1;51.23675410389194;"""3-5""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;Durchschnitt;20,01 - 40%;;5%-9%
+41-50;M;14.03.2027;HQ;C;Fixed term contract;30.04.2023;15-17;0.5;0;98.95423304048933;0-2;Terminated;1;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;;5%-9%
+31-40;F;;Werk;F;Permanent;;18-20;999.0;1;64.55655068204248;15-17;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;5,1 - 10%;5,1 - 10%;10%-14%
+41-50;M;;HQ;G;Permanent;;24-26;1.0;0;15.857485103814128;"""6-8""";Terminated;1;#NV;‹berdurchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+41-50;M;;HQ;B;Permanent;;"""9-11""";0.5;1;9.7310671650232;"""6-8""";Dormant;0;Durchschnitt;Durchschnitt;#NV;Durchschnitt;3,1 - 5%;;5%-9%
+51-60;M;22.12.2023;Gesch‰ftsbereich;A;Permanent;;27-29;0.0;0;58.893304224748924;"""9-11""";Dormant;0;‹berdurchschnitt;#NV;#NV;#NV;15,1 - 20 %;;10%-14%
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;"""6-8""";1.0;0;9.532534304328106;"""6-8""";Active;1;#NV;#NV;‹berdurchschnitt;#NV;10,1 - 15 %;1,0 - 3 %;20%-24%
+51-60;M;;Werk;C;Fixed term contract;;0-2;999.0;0;7.814481500258107;0-2;Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;3,1 - 5%;;
+25-30;M;;Gesch‰ftsbereich;D;Permanent;;"""6-8""";0.5;0;70.21838821726021;"""6-8""";Dormant;1;#NV;‹berdurchschnitt;#NV;#NV;;3,1 - 5%;5%-9%
+51-60;F;31.03.2025;HQ;A;Permanent;31.12.2022;15-17;0.5;0;10.246699198964144;15-17;Active;0;Durchschnitt;#NV;#NV;Durchschnitt;;3,1 - 5%;
+41-50;F;;Werk;G;Permanent;;"""6-8""";1.0;1;46.78411785996171;"""6-8""";Active;0;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;15%-19%
+41-50;M;;Gesch‰ftsbereich;B;Permanent;;"""9-11""";0.0;1;178.0807901177118;"""3-5""";Active;0;#NV;#NV;#NV;Durchschnitt;;;15%-19%
+41-50;M;;Werk;A;Fixed term contract;;"""6-8""";0.0;0;16.629347838340404;"""6-8""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;;10,1 - 15%;5%-9%
+18-24;M;;Werk;G;Permanent;;"""3-5""";1.0;0;11.918209267156161;0-2;Active;0;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;3,1 - 5%;
+‹ber 60;M;;Werk;A;Permanent;31.12.2022;33-35;1.0;1;24.797545344117218;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+51-60;F;;Werk;D;Permanent;;24-26;0.0;1;198.71240356684714;15-17;Active;0;Unrated;Durchschnitt;#NV;Durchschnitt;;5,1 - 10%;
+51-60;M;;Werk;E;Permanent;;24-26;0.5;0;44.73827091379098;15-17;Dormant;0;Durchschnitt;#NV;#NV;Durchschnitt;3,1 - 5%;kleiner 1%;10%-14%
+‹ber 60;M;;HQ;G;Permanent;;33-35;0.5;1;177.82193265280955;"""3-5""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;1,0 - 3 %;5%-9%
+31-40;M;28.02.2025;HQ;G;Permanent;;0-2;0.5;0;101.60536415842624;0-2;Active;1;#NV;#NV;#NV;‹berdurchschnitt;15,1 - 20 %;3,1 - 5%;
+18-24;F;;Gesch‰ftsbereich;A;Permanent;30.09.2024;0-2;0.5;1;26.0657508559317;0-2;Active;0;Durchschnitt;Durchschnitt;Durchschnitt;‹berdurchschnitt;3,1 - 5%;;
+25-30;F;17.02.2026;HQ;D;Permanent;;0-2;0.5;1;121.12235962077938;0-2;Active;0;#NV;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;15,1 - 20%;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;;"""9-11""";1.0;0;14.803228780128302;"""3-5""";Dormant;1;Durchschnitt;#NV;Unrated;#NV;1 % - 3 %;;
+31-40;F;31.08.2023;Werk;G;Permanent;31.08.2023;21-23;1.0;0;8.359913907782055;"""3-5""";Active;1;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;;3,1 - 5%;15%-19%
+51-60;M;;HQ;F;Permanent;31.03.2025;42-44;0.0;1;100.84362178770373;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+25-30;F;;Gesch‰ftsbereich;E;Permanent;;"""9-11""";0.0;1;2.9222943048144874;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;5,1 - 10%;10,1 - 15%;20%-24%
+41-50;M;10.06.2022;HQ;A;Permanent;;"""9-11""";999.0;0;17.578506303365007;"""9-11""";Active;0;‹berdurchschnitt;Durchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;;5%-9%
+41-50;F;;HQ;F;Fixed term contract;;"""9-11""";0.5;1;22.33943741446863;"""9-11""";Active;0;Durchschnitt;#NV;Durchschnitt;Durchschnitt;1 % - 3 %;;10%-14%
+51-60;M;;HQ;B;Permanent;;15-17;0.5;0;57.4187704012515;"""3-5""";Terminated;0;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;
+41-50;M;28.02.2025;Gesch‰ftsbereich;A;Permanent;;21-23;0.5;1;45.77976597573716;18-20;Active;0;‹berdurchschnitt;#NV;#NV;#NV;;;5%-9%
+41-50;F;;Werk;B;Permanent;;"""12-14""";0.5;1;79.7237934667097;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;;;10%-14%
+25-30;M;31.03.2025;Gesch‰ftsbereich;G;Permanent;;"""9-11""";1.0;0;2.747284659347502;0-2;Active;1;Unterdurchschnitt;#NV;#NV;#NV;;1,0 - 3 %;20%-24%
+25-30;M;;Werk;F;Permanent;;"""9-11""";0.0;1;32.210751534270884;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;3,1 - 5%;10,1 - 15%;20%-24%
+41-50;M;;HQ;F;Permanent;;0-2;0.0;1;155.90038464373797;0-2;Terminated;1;#NV;Unrated;‹berdurchschnitt;#NV;5,1 - 10%;kleiner 1%;
+25-30;M;;Werk;C;Fixed term contract;29.02.2024;0-2;1.0;0;23.388720200008024;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;5,1 - 10%;;
+‹ber 60;M;;HQ;C;Permanent;;27-29;1.0;0;78.6373364388166;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;;21-23;999.0;1;25.041446868712306;"""12-14""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;20%-24%
+31-40;M;;Werk;E;Permanent;;"""9-11""";0.5;1;25.56334283317776;0-2;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;1 % - 3 %;3,1 - 5%;15%-19%
+41-50;F;;HQ;F;Fixed term contract;;"""9-11""";999.0;0;18.699101518278805;"""9-11""";Active;0;#NV;Durchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;20%-24%
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""9-11""";0.5;0;63.63571702091791;0-2;Terminated;0;#NV;#NV;‹berdurchschnitt;#NV;;3,1 - 5%;20%-24%
+41-50;M;;Werk;C;Permanent;;30-32;0.5;0;46.207348534795344;18-20;Active;1;#NV;‹berdurchschnitt;Unrated;Durchschnitt;kleiner 1 %;;"""-5%-1%"""
+31-40;M;30.06.2025;Werk;E;Permanent;30.04.2023;"""12-14""";1.0;1;162.19668459804467;"""3-5""";Terminated;0;#NV;Durchschnitt;Unterdurchschnitt;Durchschnitt;5,1 - 10%;1,0 - 3 %;20%-24%
+51-60;M;;Werk;B;Permanent;;36-38;1.0;1;153.7973111408629;"""6-8""";Active;0;Durchschnitt;#NV;#NV;Unrated;1 % - 3 %;;
+41-50;M;;Werk;F;Permanent;;24-26;1.0;1;67.83264411758833;"""9-11""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;10,1 - 15%;5%-9%
+25-30;M;;HQ;D;Fixed term contract;21.08.2024;"""3-5""";1.0;1;23.70161779338408;"""3-5""";Active;0;#NV;#NV;#NV;Unrated;;;95%-100%
+25-30;M;;Gesch‰ftsbereich;G;Permanent;;0-2;1.0;0;94.87983230642787;0-2;Dormant;1;#NV;#NV;#NV;‹berdurchschnitt;10,1 - 15 %;3,1 - 5%;
+31-40;M;;Werk;A;Permanent;31.12.2024;0-2;0.0;1;182.1526318153202;0-2;Dormant;0;#NV;#NV;‹berdurchschnitt;Durchschnitt;;;
+31-40;F;;Werk;F;Permanent;;"""9-11""";0.5;1;10.567500010211216;0-2;Active;0;Unrated;#NV;#NV;#NV;;5,1 - 10%;
+51-60;F;;Werk;F;Fixed term contract;;21-23;0.5;0;190.77289413169711;"""3-5""";Active;1;#NV;#NV;#NV;#NV;;5,1 - 10%;5%-9%
+18-24;M;;Werk;B;Fixed term contract;;0-2;1.0;1;263.70979997493936;0-2;Active;0;#NV;#NV;#NV;#NV;;;
+41-50;M;;Werk;F;Permanent;;"""9-11""";0.5;1;4.027549827464508;"""6-8""";Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;
+41-50;M;;Werk;A;Permanent;;24-26;0.0;0;54.22803446416813;"""12-14""";Active;0;#NV;#NV;#NV;#NV;;15,1 - 20%;5%-9%
+41-50;M;;HQ;F;Permanent;30.06.2022;15-17;999.0;1;143.94608723273248;"""6-8""";Dormant;1;Durchschnitt;#NV;#NV;#NV;;;10%-14%
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";0.5;0;63.5724338978879;0-2;Terminated;1;#NV;Durchschnitt;Unrated;‹berdurchschnitt;5,1 - 10%;;15%-19%
+31-40;M;;Gesch‰ftsbereich;A;Permanent;04.11.2022;"""12-14""";0.0;0;51.79500691575551;"""12-14""";Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;;3,1 - 5%;5%-9%
+51-60;M;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";0.0;1;20.318097830894054;"""9-11""";Terminated;0;#NV;#NV;#NV;#NV;;1,0 - 3 %;15%-19%
+41-50;M;;Werk;D;Permanent;;"""6-8""";0.5;0;13.477077220742823;0-2;Active;1;#NV;#NV;#NV;#NV;5,1 - 10%;;5%-9%
+31-40;M;;Werk;E;Permanent;;"""6-8""";999.0;0;60.31795151518836;"""6-8""";Active;0;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;;40,1 - 60%;20%-24%
+41-50;F;;Gesch‰ftsbereich;C;Permanent;;"""9-11""";999.0;1;26.863404958759638;"""6-8""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;3,1 - 5%;10%-14%
+41-50;F;;Werk;E;Permanent;;33-35;0.0;0;6.418647559425294;"""6-8""";Active;1;#NV;#NV;Unrated;‹berdurchschnitt;;;5%-9%
+41-50;M;;Werk;B;Permanent;;"""6-8""";0.5;1;11.74993644939467;0-2;Terminated;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;3,1 - 5%;1,0 - 3 %;
+25-30;M;;Werk;B;Fixed term contract;;"""6-8""";0.5;0;2.4824454454690628;0-2;Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;;20%-24%
+41-50;M;;Gesch‰ftsbereich;D;Permanent;31.05.2024;0-2;0.0;0;129.538941971599;0-2;Active;0;#NV;#NV;#NV;#NV;3,1 - 5%;;
+51-60;M;;Werk;A;Permanent;;18-20;999.0;1;105.13973429132801;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;3,1 - 5%;;10%-14%
+41-50;M;;HQ;F;Permanent;;27-29;999.0;1;57.55439128206485;"""3-5""";Active;1;#NV;Durchschnitt;Unterdurchschnitt;‹berdurchschnitt;3,1 - 5%;;5%-9%
+‹ber 60;F;;HQ;A;Permanent;;30-32;0.0;0;84.4099152087045;"""3-5""";Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;20,1 - 40%;
+18-24;M;;Gesch‰ftsbereich;G;Permanent;;0-2;1.0;1;20.919872878328327;0-2;Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;;;
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;21-23;1.0;0;15.05456301685408;18-20;Active;1;Durchschnitt;#NV;#NV;#NV;;10,1 - 15%;5%-9%
+25-30;M;;HQ;E;Permanent;;0-2;0.0;0;75.48838422584495;0-2;Terminated;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;;
+31-40;M;;HQ;F;Fixed term contract;;"""6-8""";1.0;0;27.46533548855662;"""6-8""";Terminated;0;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;
+51-60;M;;Werk;F;Permanent;31.08.2024;36-38;0.0;1;116.26861698203042;15-17;Active;1;‹berdurchschnitt;Unterdurchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+25-30;M;29.02.2024;HQ;E;Permanent;;0-2;999.0;0;184.86212407245117;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;3,1 - 5%;
+31-40;M;;Werk;C;Permanent;;"""9-11""";1.0;1;185.2258996934979;"""3-5""";Active;0;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;;3,1 - 5%;5%-9%
+18-24;M;;Gesch‰ftsbereich;E;Permanent;30.09.2023;"""3-5""";0.0;0;163.6844016766764;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;Unrated;;1,0 - 3 %;65%-69%
+51-60;M;;Werk;B;Permanent;;36-38;1.0;1;51.51788864413109;0-2;Active;0;#NV;#NV;Durchschnitt;‹berdurchschnitt;1 % - 3 %;5,1 - 10%;"""-5%-1%"""
+25-30;M;;Gesch‰ftsbereich;A;Permanent;;"""3-5""";0.0;1;9.702675557903232;"""3-5""";Active;1;Unrated;#NV;Durchschnitt;Durchschnitt;;kleiner 1%;
+18-24;M;;Werk;C;Permanent;;0-2;0.0;0;130.17902104728583;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;kleiner 1%;
+31-40;M;;Gesch‰ftsbereich;D;Permanent;;"""12-14""";0.5;1;6.823208575998733;"""12-14""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;3,1 - 5%;3,1 - 5%;
+31-40;F;;Werk;B;Permanent;30.04.2023;"""9-11""";999.0;0;46.320874775427015;"""9-11""";Dormant;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;5,1 - 10%;;15%-19%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;0-2;0.5;1;16.512009893025752;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+51-60;M;;Werk;C;Permanent;;24-26;999.0;0;6.831300319018048;"""6-8""";Terminated;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;;;5%-9%
+18-24;M;;Gesch‰ftsbereich;B;Fixed term contract;;"""3-5""";0.0;1;181.89671060227215;0-2;Active;0;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;15,1 - 20 %;40,1 - 60%;20%-24%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""3-5""";1.0;0;16.66722285724469;"""3-5""";Dormant;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;1,0 - 3 %;15%-19%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";1.0;1;98.91617125426657;0-2;Terminated;1;Durchschnitt;Unrated;Durchschnitt;#NV;kleiner 1 %;3,1 - 5%;10%-14%
+31-40;M;30.09.2025;Gesch‰ftsbereich;F;Permanent;;15-17;0.5;0;59.15375965857283;"""9-11""";Terminated;1;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;45%-49%
+31-40;M;;Gesch‰ftsbereich;B;Fixed term contract;;"""12-14""";0.0;1;3.7456912896589243;"""9-11""";Active;0;‹berdurchschnitt;#NV;#NV;Durchschnitt;;kleiner 1%;10%-14%
+41-50;M;31.01.2025;Werk;F;Permanent;;"""12-14""";1.0;0;63.37701176628575;"""9-11""";Terminated;1;#NV;‹berdurchschnitt;#NV;#NV;10,1 - 15 %;10,1 - 15%;"""-30%-26%"""
+51-60;M;;HQ;G;Permanent;10.09.2023;33-35;1.0;1;25.947417822177886;0-2;Terminated;1;#NV;‹berdurchschnitt;#NV;#NV;5,1 - 10%;;10%-14%
+41-50;F;;Werk;D;Permanent;31.05.2024;15-17;0.5;0;0.9549827574672758;"""3-5""";Active;1;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;;;25%-29%
+31-40;F;;Gesch‰ftsbereich;D;Permanent;;0-2;0.0;0;159.9450361569107;0-2;Active;0;#NV;#NV;#NV;#NV;10,1 - 15 %;;
+‹ber 60;M;;Werk;F;Permanent;;36-38;0.5;0;44.780545869520246;"""9-11""";Active;0;#NV;Durchschnitt;#NV;#NV;;kleiner 1%;
+41-50;M;;Werk;B;Permanent;;"""12-14""";0.5;1;38.31781543326546;"""12-14""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;Durchschnitt;3,1 - 5%;kleiner 1%;
+18-24;M;;Gesch‰ftsbereich;G;Fixed term contract;;0-2;0.5;0;268.3573566376259;0-2;Active;1;#NV;Durchschnitt;#NV;#NV;75,01 - 100 %;1,0 - 3 %;
+41-50;M;;Werk;A;Permanent;;18-20;1.0;1;-0.5081225990537894;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;#NV;5,1 - 10%;;15%-19%
+31-40;M;;Werk;D;Permanent;28.02.2023;"""3-5""";0.0;1;17.496043310879838;0-2;Dormant;0;‹berdurchschnitt;Unrated;#NV;#NV;;;25%-29%
+31-40;M;;HQ;F;Permanent;14.03.2025;"""12-14""";0.5;1;18.66389815406321;0-2;Active;1;#NV;Unrated;#NV;#NV;;kleiner 1%;20%-24%
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;"""9-11""";999.0;1;16.51937666676764;"""9-11""";Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;3,1 - 5%;;5%-9%
+41-50;M;;Werk;E;Permanent;;"""12-14""";0.5;1;0.43454047775102067;"""12-14""";Dormant;0;#NV;‹berdurchschnitt;#NV;#NV;5,1 - 10%;;
+25-30;F;15.11.2024;Gesch‰ftsbereich;B;Permanent;;0-2;0.5;0;72.6489462805005;0-2;Active;0;#NV;Unrated;Durchschnitt;#NV;;;
+‹ber 60;M;;Werk;G;Permanent;30.11.2022;18-20;0.0;1;51.530260810257474;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+25-30;M;;HQ;D;Permanent;;0-2;0.0;1;30.004967200023795;0-2;Terminated;1;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;5,1 - 10%;15,1 - 20%;
+‹ber 60;M;;Gesch‰ftsbereich;E;Permanent;31.07.2022;21-23;0.5;1;45.96488015953008;18-20;Active;1;‹berdurchschnitt;#NV;#NV;Unrated;15,1 - 20 %;;
+31-40;F;;Werk;B;Permanent;;"""6-8""";999.0;1;55.3002383001992;0-2;Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;;60,1 - 75 %;
+31-40;M;;HQ;G;Permanent;;"""6-8""";1.0;1;59.5799806096498;"""6-8""";Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;#NV;;;15%-19%
+41-50;M;31.07.2023;Werk;E;Fixed term contract;;"""9-11""";0.0;1;27.513643816023503;"""6-8""";Active;1;#NV;#NV;#NV;Unrated;1 % - 3 %;3,1 - 5%;15%-19%
+31-40;F;;Werk;D;Permanent;;0-2;999.0;0;33.72389265672306;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+‹ber 60;F;;Gesch‰ftsbereich;B;Permanent;31.12.2024;24-26;0.0;0;38.20287887851701;0-2;Active;1;Durchschnitt;Unrated;#NV;Durchschnitt;kleiner 1 %;;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;30.06.2025;"""12-14""";0.0;1;40.753427773835405;"""12-14""";Active;0;#NV;#NV;Unrated;#NV;;;10%-14%
+41-50;F;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.0;1;15.419430811371518;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;15,1 - 20 %;;20%-24%
+41-50;M;14.12.2024;Gesch‰ftsbereich;B;Permanent;;15-17;1.0;0;102.0691048301898;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;5,1 - 10%;kleiner 1%;10%-14%
+18-24;F;30.11.2024;HQ;D;Fixed term contract;31.05.2023;"""6-8""";0.5;1;7.585947496039549;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;;"""-5%-1%"""
+31-40;M;;Gesch‰ftsbereich;G;Permanent;;"""9-11""";0.5;1;37.077827041517224;"""3-5""";Active;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;10,1 - 15 %;3,1 - 5%;15%-19%
+51-60;M;;Werk;G;Permanent;;39-41;1.0;1;37.97670143588827;15-17;Terminated;1;#NV;Unrated;#NV;#NV;3,1 - 5%;;5%-9%
+51-60;M;;Gesch‰ftsbereich;B;Permanent;;24-26;999.0;0;35.22279961597066;"""6-8""";Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+‹ber 60;M;;Werk;G;Permanent;;24-26;999.0;0;67.5775093519501;18-20;Active;1;‹berdurchschnitt;Durchschnitt;Durchschnitt;Durchschnitt;kleiner 1 %;1,0 - 3 %;5%-9%
+51-60;M;;Gesch‰ftsbereich;C;Permanent;;24-26;0.5;1;12.646819617374799;18-20;Active;1;#NV;Durchschnitt;#NV;#NV;;1,0 - 3 %;5%-9%
+25-30;M;;Gesch‰ftsbereich;D;Permanent;;"""3-5""";0.5;0;61.66928783956121;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;
+51-60;M;;Werk;G;Permanent;;"""6-8""";0.5;0;11.170766420861732;"""6-8""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;Durchschnitt;;15,1 - 20%;5%-9%
+Unter 18;M;;HQ;G;Permanent;;0-2;0.5;0;265.29400601799097;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;kleiner 1 %;3,1 - 5%;
+31-40;M;;Werk;F;Permanent;;15-17;0.5;0;21.514843484128498;"""9-11""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;Durchschnitt;5,1 - 10%;;
+41-50;M;15.07.2023;HQ;D;Permanent;;15-17;0.0;0;63.073084199458144;"""6-8""";Active;1;#NV;#NV;#NV;Durchschnitt;;;10%-14%
+25-30;M;;Werk;F;Permanent;;0-2;999.0;0;34.42693793190913;0-2;Terminated;0;#NV;Durchschnitt;Unrated;#NV;;;
+51-60;M;;HQ;D;Permanent;;33-35;0.0;1;5.465513812269377;15-17;Terminated;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;kleiner 1%;
+31-40;M;14.08.2022;Werk;B;Fixed term contract;;"""6-8""";1.0;1;11.270015765270182;"""3-5""";Active;0;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;5,1 - 10%;
+25-30;M;15.04.2025;Werk;F;Permanent;30.06.2023;"""6-8""";0.0;1;17.66411668501131;"""3-5""";Dormant;1;#NV;Durchschnitt;Durchschnitt;‹berdurchschnitt;;;
+51-60;M;;HQ;C;Permanent;;39-41;1.0;0;57.477499455057085;"""9-11""";Active;1;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;3,1 - 5%;5%-9%
+51-60;M;30.09.2024;Gesch‰ftsbereich;A;Permanent;;0-2;0.0;1;7.763171639322902;0-2;Dormant;0;#NV;Unrated;Durchschnitt;#NV;;;
+51-60;M;;Werk;F;Permanent;;21-23;999.0;1;45.36539664231003;"""6-8""";Dormant;0;Unterdurchschnitt;#NV;#NV;Durchschnitt;;;5%-9%
+51-60;M;;Werk;B;Permanent;;33-35;1.0;0;194.91110987516788;"""3-5""";Dormant;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;;5,1 - 10%;5%-9%
+31-40;M;;HQ;B;Permanent;31.01.2024;"""12-14""";999.0;1;178.29593884695245;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;#NV;;;5%-9%
+25-30;M;;Gesch‰ftsbereich;A;Fixed term contract;;0-2;999.0;0;120.80999595122304;0-2;Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;#NV;;;
+41-50;M;;Werk;B;Permanent;;"""12-14""";1.0;0;72.39435696116388;"""12-14""";Active;0;#NV;#NV;#NV;#NV;;;10%-14%
+41-50;M;;Werk;E;Permanent;;"""9-11""";0.0;1;51.09557963523899;"""9-11""";Active;1;#NV;Durchschnitt;#NV;#NV;;10,1 - 15%;10%-14%
+31-40;M;;Werk;E;Permanent;;"""9-11""";999.0;0;4.70753171073707;0-2;Active;1;#NV;Durchschnitt;#NV;Unrated;;5,1 - 10%;15%-19%
+18-24;M;;Gesch‰ftsbereich;G;Permanent;;0-2;999.0;0;63.94249217760647;0-2;Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;20,01 - 40%;;
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;18-20;999.0;0;5.9719385794003506;15-17;Active;1;#NV;Durchschnitt;Durchschnitt;Durchschnitt;;;20%-24%
+41-50;F;31.03.2025;HQ;D;Permanent;;15-17;0.0;1;12.543502537487406;"""9-11""";Terminated;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;5,1 - 10%;;5%-9%
+51-60;M;;Werk;C;Permanent;;"""9-11""";0.0;0;9.03136911895407;"""9-11""";Active;1;#NV;#NV;‹berdurchschnitt;#NV;;;5%-9%
+25-30;M;;Werk;A;Permanent;;"""3-5""";1.0;0;4.841433456874014;"""3-5""";Terminated;0;Durchschnitt;Unrated;#NV;#NV;kleiner 1 %;kleiner 1%;
+31-40;F;;HQ;F;Permanent;;"""9-11""";1.0;0;34.795287215225066;"""3-5""";Active;1;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;1,0 - 3 %;5%-9%
+51-60;M;;Werk;C;Permanent;;36-38;0.5;0;51.30522233986878;0-2;Active;0;‹berdurchschnitt;#NV;#NV;#NV;;10,1 - 15%;5%-9%
+41-50;M;28.02.2025;HQ;G;Fixed term contract;28.02.2025;21-23;0.0;0;61.58188215455254;"""9-11""";Active;1;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;;;
+51-60;F;;Werk;G;Permanent;;39-41;1.0;1;101.77896197018622;"""3-5""";Active;1;#NV;Durchschnitt;#NV;Durchschnitt;3,1 - 5%;1,0 - 3 %;10%-14%
+41-50;F;30.09.2024;Gesch‰ftsbereich;F;Permanent;;"""6-8""";0.0;1;11.348993894633178;"""6-8""";Terminated;1;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;3,1 - 5%;;5%-9%
+31-40;F;;Werk;A;Permanent;;21-23;999.0;0;14.614695302414123;"""12-14""";Active;0;Durchschnitt;Unrated;‹berdurchschnitt;#NV;3,1 - 5%;;5%-9%
+41-50;M;;Werk;D;Permanent;;0-2;999.0;0;52.24838412277478;0-2;Dormant;0;Unrated;#NV;Durchschnitt;#NV;;;
+51-60;M;;HQ;B;Permanent;30.06.2022;27-29;999.0;0;86.9043364363917;"""3-5""";Dormant;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;10,1 - 15 %;3,1 - 5%;10%-14%
+31-40;M;;Werk;B;Permanent;;0-2;999.0;1;162.01039305361527;0-2;Active;0;Durchschnitt;#NV;#NV;Unrated;5,1 - 10%;;
+41-50;M;31.12.2023;Gesch‰ftsbereich;F;Permanent;;"""3-5""";999.0;1;184.0444699260689;0-2;Active;1;#NV;#NV;‹berdurchschnitt;Unrated;1 % - 3 %;3,1 - 5%;35%-39%
+41-50;M;;Werk;B;Permanent;;15-17;999.0;1;32.259769657364416;"""12-14""";Dormant;0;#NV;#NV;Unrated;#NV;1 % - 3 %;1,0 - 3 %;5%-9%
+51-60;F;14.09.2023;HQ;G;Permanent;31.07.2023;21-23;999.0;0;21.00741524108377;18-20;Active;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;5,1 - 10%;kleiner 1%;5%-9%
+41-50;M;;Werk;A;Permanent;;18-20;0.0;0;97.423578897863;"""3-5""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;;10%-14%
+51-60;M;;Werk;A;Permanent;31.05.2025;33-35;0.0;0;46.79834497680085;"""3-5""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;;5%-9%
+31-40;M;;HQ;F;Permanent;31.07.2024;"""6-8""";0.0;0;9.096906949527208;"""6-8""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;;
+25-30;M;;HQ;F;Permanent;;0-2;0.0;0;9.945666963104095;0-2;Dormant;0;Durchschnitt;#NV;#NV;#NV;10,1 - 15 %;15,1 - 20%;
+51-60;M;;Gesch‰ftsbereich;F;Permanent;;24-26;999.0;0;91.18398897281627;"""3-5""";Active;1;Unterdurchschnitt;#NV;#NV;#NV;3,1 - 5%;kleiner 1%;10%-14%
+18-24;F;;Werk;B;Permanent;31.10.2022;0-2;0.0;1;194.78196919436687;0-2;Dormant;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;
+41-50;M;;Gesch‰ftsbereich;G;Permanent;;33-35;0.0;0;108.5374572957767;18-20;Active;1;#NV;Durchschnitt;#NV;#NV;;;5%-9%
+31-40;F;;Werk;E;Permanent;;"""9-11""";0.0;0;63.2309474306769;"""9-11""";Active;0;#NV;#NV;‹berdurchschnitt;#NV;1 % - 3 %;3,1 - 5%;15%-19%
+31-40;M;;HQ;B;Permanent;;"""3-5""";0.5;0;132.40802374273875;0-2;Terminated;1;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;;
+31-40;M;28.02.2023;Gesch‰ftsbereich;G;Permanent;;"""6-8""";0.0;1;105.957718226667;"""3-5""";Active;0;Unrated;#NV;#NV;‹berdurchschnitt;10,1 - 15 %;kleiner 1%;
+18-24;M;;Gesch‰ftsbereich;D;Permanent;;0-2;1.0;0;19.31553664072052;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;3,1 - 5%;kleiner 1%;
+31-40;M;;Werk;B;Permanent;;"""12-14""";0.0;0;141.95085092165314;0-2;Active;0;#NV;#NV;Unrated;Durchschnitt;;1,0 - 3 %;5%-9%
+41-50;F;;Werk;B;Permanent;28.02.2023;15-17;1.0;0;153.79274662093832;"""3-5""";Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;kleiner 1 %;kleiner 1%;5%-9%
+41-50;M;;HQ;B;Fixed term contract;;33-35;0.5;0;58.75451471485379;"""12-14""";Active;0;#NV;#NV;Durchschnitt;Durchschnitt;1 % - 3 %;;5%-9%
+31-40;M;;Werk;A;Permanent;;"""6-8""";0.0;0;11.502016314108074;0-2;Active;0;Unterdurchschnitt;#NV;Durchschnitt;#NV;kleiner 1 %;3,1 - 5%;
+51-60;F;;Werk;G;Fixed term contract;;21-23;0.0;0;16.091285040476997;"""3-5""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;;5,1 - 10%;
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;"""6-8""";1.0;1;14.632399057130852;"""3-5""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;10,1 - 15%;15%-19%
+31-40;M;;HQ;C;Permanent;;"""9-11""";0.0;1;36.513638436279486;"""9-11""";Active;0;#NV;#NV;#NV;#NV;;;20%-24%
+51-60;M;;Werk;E;Fixed term contract;;"""3-5""";0.5;1;7.378063180730852;0-2;Terminated;1;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;10%-14%
+18-24;M;;Gesch‰ftsbereich;A;Permanent;;0-2;0.5;0;256.127875815569;0-2;Active;0;‹berdurchschnitt;Unrated;#NV;#NV;3,1 - 5%;20,1 - 40%;
+31-40;F;;Gesch‰ftsbereich;C;Permanent;;15-17;999.0;1;8.461653420078871;0-2;Active;1;Unrated;Durchschnitt;Durchschnitt;‹berdurchschnitt;;20,1 - 40%;45%-49%
+41-50;M;;Werk;B;Permanent;28.02.2023;15-17;1.0;1;15.39770279271728;"""9-11""";Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;20%-24%
+51-60;M;;HQ;C;Permanent;;27-29;0.0;0;44.09857503375474;18-20;Active;0;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;kleiner 1 %;1,0 - 3 %;5%-9%
+51-60;M;;HQ;B;Permanent;;24-26;1.0;1;6.656617013388854;18-20;Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;;
+‹ber 60;F;29.08.2022;Werk;E;Fixed term contract;;33-35;0.5;0;40.76389880751952;18-20;Active;1;#NV;Unrated;#NV;#NV;1 % - 3 %;3,1 - 5%;
+51-60;M;29.02.2028;Werk;A;Permanent;30.09.2022;"""9-11""";1.0;1;105.59622231910059;"""3-5""";Active;1;#NV;#NV;Durchschnitt;Unrated;20,01 - 40%;;10%-14%
+25-30;M;;Gesch‰ftsbereich;G;Permanent;;0-2;999.0;1;18.006897147704766;0-2;Terminated;0;#NV;#NV;‹berdurchschnitt;Unrated;;;
+41-50;F;14.03.2027;Werk;D;Permanent;;0-2;999.0;0;113.92552424461329;0-2;Active;0;‹berdurchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;
+51-60;M;;HQ;A;Permanent;;27-29;999.0;1;54.46471296223815;"""3-5""";Terminated;1;Durchschnitt;Durchschnitt;#NV;#NV;1 % - 3 %;;
+51-60;F;;HQ;E;Permanent;;33-35;1.0;1;104.66162493478637;18-20;Active;1;#NV;#NV;#NV;#NV;;1,0 - 3 %;5%-9%
+‹ber 60;M;;Werk;C;Permanent;;39-41;0.5;0;153.92560492852823;"""9-11""";Active;1;‹berdurchschnitt;Unrated;#NV;#NV;;;
+51-60;M;30.06.2025;Gesch‰ftsbereich;E;Permanent;;27-29;0.5;1;9.040437158362854;18-20;Active;1;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;20,1 - 40%;10%-14%
+18-24;F;;Werk;E;Permanent;;"""3-5""";0.5;1;23.549282995368117;0-2;Active;1;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;3,1 - 5%;10,1 - 15%;70%-74%
+‹ber 60;F;;Gesch‰ftsbereich;A;Permanent;;39-41;999.0;1;113.65514647952443;"""6-8""";Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;
+31-40;F;;Werk;A;Permanent;31.01.2024;"""3-5""";0.0;0;32.64125583961266;"""3-5""";Active;0;Durchschnitt;Durchschnitt;#NV;Durchschnitt;;1,0 - 3 %;20%-24%
+25-30;M;;Gesch‰ftsbereich;G;Permanent;;0-2;1.0;0;12.403831184661945;0-2;Active;1;#NV;Durchschnitt;Unrated;#NV;3,1 - 5%;;
+18-24;M;;HQ;A;Fixed term contract;;0-2;0.0;1;106.18529033400735;0-2;Active;1;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;;;
+25-30;M;29.02.2024;Werk;A;Permanent;;0-2;0.5;1;94.61370807131073;0-2;Dormant;0;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;;10,1 - 15%;
+31-40;F;;HQ;D;Permanent;;0-2;0.5;1;62.273315008991354;0-2;Terminated;0;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;1 % - 3 %;5,1 - 10%;
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""9-11""";0.0;1;54.117149067305604;"""3-5""";Terminated;0;Durchschnitt;‹berdurchschnitt;#NV;Durchschnitt;kleiner 1 %;1,0 - 3 %;10%-14%
+31-40;M;;HQ;A;Permanent;;"""12-14""";999.0;0;189.1135828332301;"""3-5""";Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;#NV;1 % - 3 %;;"""-35%-31%"""
+41-50;F;;Gesch‰ftsbereich;G;Permanent;;"""6-8""";999.0;1;16.06463125476914;"""6-8""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;15%-19%
+18-24;M;31.05.2024;HQ;C;Permanent;;0-2;1.0;1;177.967668433893;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;
+18-24;F;31.01.2024;Werk;D;Permanent;;0-2;0.0;1;176.81965054931865;0-2;Active;0;#NV;#NV;#NV;#NV;3,1 - 5%;kleiner 1%;
+31-40;M;31.08.2023;Werk;A;Permanent;30.06.2022;"""9-11""";0.5;1;24.944353950917087;"""9-11""";Active;0;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;;"""-80%-76%"""
+31-40;F;31.08.2024;Werk;G;Fixed term contract;;0-2;0.5;1;13.610325371445194;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;3,1 - 5%;5,1 - 10%;
+51-60;M;;Werk;D;Permanent;;39-41;0.5;0;137.68953093383413;"""3-5""";Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;5%-9%
+41-50;M;;Werk;E;Permanent;;0-2;999.0;1;19.583671953863156;0-2;Dormant;0;#NV;#NV;#NV;Unrated;;10,1 - 15%;
+31-40;M;30.09.2024;Werk;D;Permanent;;"""12-14""";0.0;0;151.5718795326686;"""3-5""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;Unrated;;;20%-24%
+25-30;M;;Gesch‰ftsbereich;C;Permanent;30.11.2022;0-2;999.0;0;50.3983680963836;0-2;Dormant;1;#NV;Unrated;#NV;#NV;;15,1 - 20%;
+51-60;M;;Werk;B;Permanent;;39-41;0.5;0;43.54477597009669;"""6-8""";Terminated;1;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;10,1 - 15%;5%-9%
+41-50;F;30.11.2023;HQ;D;Fixed term contract;31.05.2024;"""12-14""";1.0;1;139.32326368029354;0-2;Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;20,01 - 40%;1,0 - 3 %;30%-34%
+31-40;F;;Gesch‰ftsbereich;E;Permanent;30.11.2022;"""3-5""";999.0;1;69.12755939905456;"""3-5""";Terminated;0;Durchschnitt;#NV;#NV;Durchschnitt;5,1 - 10%;;10%-14%
+25-30;F;;HQ;F;Fixed term contract;;"""3-5""";0.5;1;5.64889120112964;"""6-8""";Dormant;1;#NV;#NV;#NV;#NV;1 % - 3 %;;
+31-40;F;14.04.2025;Werk;E;Permanent;;"""6-8""";0.0;0;49.645582090633454;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;3,1 - 5%;1,0 - 3 %;15%-19%
+51-60;M;;Werk;E;Permanent;;27-29;0.0;1;68.27321973858949;18-20;Active;1;#NV;Durchschnitt;#NV;#NV;;;5%-9%
+41-50;M;;Werk;C;Permanent;;24-26;0.5;1;73.45957029275046;"""3-5""";Active;1;Durchschnitt;#NV;Unterdurchschnitt;#NV;;10,1 - 15%;5%-9%
+51-60;F;;Werk;B;Permanent;30.06.2023;"""12-14""";1.0;0;45.61592851458674;"""3-5""";Active;1;#NV;#NV;#NV;Unrated;;;5%-9%
+‹ber 60;M;;Werk;C;Permanent;31.05.2024;39-41;0.5;0;178.45428985779034;"""3-5""";Active;1;#NV;#NV;#NV;Durchschnitt;;1,0 - 3 %;
+25-30;M;;HQ;G;Permanent;;"""6-8""";0.0;0;24.944318758207267;"""3-5""";Active;0;Durchschnitt;#NV;#NV;#NV;3,1 - 5%;kleiner 1%;
+41-50;F;;Werk;E;Permanent;;"""12-14""";1.0;0;144.92221509635678;"""6-8""";Terminated;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;5%-9%
+18-24;M;;Gesch‰ftsbereich;D;Permanent;;0-2;0.5;0;268.03840635514007;0-2;Dormant;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;20,01 - 40%;;
+Unter 18;M;;Gesch‰ftsbereich;F;Permanent;;0-2;1.0;0;264.88213592266817;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;E;Permanent;18.12.2024;18-20;1.0;1;25.587754438473183;"""6-8""";Active;0;#NV;#NV;#NV;#NV;;1,0 - 3 %;10%-14%
+31-40;F;14.03.2024;Werk;G;Permanent;31.07.2023;"""9-11""";999.0;0;151.49593687163724;0-2;Active;1;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;5%-9%
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;0-2;0.5;0;62.606228137486625;0-2;Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+25-30;M;;HQ;A;Fixed term contract;;0-2;1.0;1;23.07788266905987;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;15-17;0.5;1;12.505429769195088;15-17;Terminated;0;Durchschnitt;#NV;#NV;#NV;3,1 - 5%;;"""-5%-1%"""
+18-24;M;;Gesch‰ftsbereich;C;Permanent;31.01.2024;"""3-5""";999.0;0;68.03176371907873;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;kleiner 1 %;kleiner 1%;
+51-60;F;;Werk;G;Permanent;31.05.2024;0-2;0.5;0;121.3635536410716;0-2;Active;1;#NV;#NV;#NV;#NV;;40,1 - 60%;
+18-24;M;;Werk;D;Permanent;30.04.2022;0-2;1.0;1;13.524085586428683;0-2;Terminated;0;Durchschnitt;#NV;#NV;#NV;;20,1 - 40%;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";999.0;0;7.685079413690055;0-2;Active;0;#NV;Durchschnitt;Unrated;‹berdurchschnitt;;;
+18-24;M;;Werk;A;Permanent;14.03.2025;0-2;0.5;1;265.67875143022184;0-2;Active;1;#NV;Durchschnitt;Durchschnitt;Unrated;;;
+31-40;M;;Werk;F;Permanent;30.09.2022;0-2;0.5;0;178.26607636845776;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;;;
+18-24;F;;Werk;E;Permanent;;"""3-5""";1.0;1;7.656135180723691;0-2;Dormant;1;‹berdurchschnitt;Durchschnitt;#NV;Unrated;40,01 - 60 %;3,1 - 5%;
+41-50;M;;Werk;D;Fixed term contract;31.12.2024;15-17;0.5;1;192.76256852499517;0-2;Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;1 % - 3 %;;5%-9%
+31-40;M;;HQ;B;Permanent;;"""9-11""";0.5;0;45.99387846249316;"""9-11""";Active;1;Durchschnitt;‹berdurchschnitt;Unrated;#NV;1 % - 3 %;;10%-14%
+41-50;M;;Gesch‰ftsbereich;G;Permanent;;21-23;0.5;0;183.8423623886869;0-2;Dormant;1;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;kleiner 1%;5%-9%
+31-40;M;30.06.2025;HQ;F;Fixed term contract;;0-2;0.5;0;75.0369963494088;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;;
+‹ber 60;F;;Werk;E;Permanent;;33-35;1.0;0;174.7795369932075;15-17;Active;1;#NV;#NV;#NV;#NV;;;
+31-40;M;;Gesch‰ftsbereich;G;Fixed term contract;;"""6-8""";999.0;1;39.444303875878255;"""6-8""";Terminated;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;;10%-14%
+25-30;M;;Werk;E;Fixed term contract;;"""3-5""";0.0;1;32.99576688508675;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;75,01 - 100 %;15,1 - 20%;15%-19%
+31-40;M;;Werk;E;Permanent;;0-2;999.0;0;9.441497001083816;0-2;Active;0;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;;40,1 - 60%;
+31-40;M;;Gesch‰ftsbereich;B;Permanent;15.09.2023;"""3-5""";0.0;0;65.4144278914911;"""3-5""";Active;0;#NV;#NV;#NV;#NV;kleiner 1 %;3,1 - 5%;5%-9%
+31-40;M;;Werk;G;Permanent;;"""9-11""";1.0;1;41.43718426386817;"""9-11""";Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;10%-14%
+41-50;M;;HQ;C;Permanent;;"""3-5""";1.0;1;4.392290839372447;0-2;Active;0;#NV;#NV;‹berdurchschnitt;#NV;;3,1 - 5%;
+51-60;F;;Gesch‰ftsbereich;E;Fixed term contract;;33-35;999.0;1;65.31545878460491;"""3-5""";Active;0;‹berdurchschnitt;#NV;#NV;Unrated;3,1 - 5%;;5%-9%
+41-50;M;;Werk;B;Permanent;31.10.2024;15-17;0.0;0;24.028518231060342;"""3-5""";Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;5%-9%
+41-50;M;;Werk;B;Permanent;;21-23;999.0;0;27.21304872443284;"""12-14""";Active;1;Durchschnitt;Unrated;#NV;#NV;;5,1 - 10%;5%-9%
+25-30;M;;Werk;D;Permanent;;0-2;0.0;1;40.76117746968928;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;
+41-50;M;;Werk;E;Permanent;;18-20;1.0;1;13.519643548550244;"""9-11""";Active;0;‹berdurchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;;10%-14%
+31-40;F;;HQ;F;Permanent;;0-2;999.0;1;37.31971534194759;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;20,01 - 40%;10,1 - 15%;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""9-11""";0.0;1;94.7335165248433;0-2;Active;0;‹berdurchschnitt;Durchschnitt;Unrated;#NV;15,1 - 20 %;;5%-9%
+31-40;M;;HQ;G;Permanent;;"""6-8""";0.5;1;3.0484494120511307;"""3-5""";Terminated;0;#NV;#NV;#NV;Durchschnitt;5,1 - 10%;;
+41-50;M;;Werk;D;Permanent;14.05.2024;24-26;999.0;0;15.992344078129747;"""9-11""";Active;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;;5%-9%
+31-40;M;;Gesch‰ftsbereich;D;Fixed term contract;30.06.2023;"""9-11""";0.0;0;2.0573380006946613;0-2;Active;1;#NV;#NV;#NV;#NV;;;15%-19%
+41-50;M;;HQ;A;Permanent;;30-32;0.0;0;151.19161325434368;15-17;Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;;1,0 - 3 %;5%-9%
+41-50;M;;HQ;F;Permanent;;15-17;0.0;1;34.52792289697358;"""6-8""";Active;1;#NV;Durchschnitt;Durchschnitt;#NV;1 % - 3 %;1,0 - 3 %;5%-9%
+31-40;M;31.03.2023;Gesch‰ftsbereich;A;Permanent;;21-23;1.0;1;14.595135958885168;"""6-8""";Active;0;‹berdurchschnitt;Unrated;‹berdurchschnitt;‹berdurchschnitt;;20,1 - 40%;5%-9%
+‹ber 60;M;;HQ;A;Fixed term contract;;36-38;1.0;0;9.1958597347086;18-20;Active;1;#NV;#NV;Unrated;#NV;1 % - 3 %;1,0 - 3 %;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";1.0;1;56.76010664978972;"""6-8""";Terminated;0;#NV;#NV;#NV;Durchschnitt;kleiner 1 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;30.11.2022;"""3-5""";999.0;1;75.50901471439464;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;10%-14%
+25-30;M;;HQ;E;Fixed term contract;;"""3-5""";999.0;1;22.601459987772067;"""3-5""";Terminated;1;#NV;Durchschnitt;#NV;Unrated;;;
+‹ber 60;M;;Gesch‰ftsbereich;F;Permanent;;36-38;1.0;1;149.61780931588464;0-2;Dormant;1;‹berdurchschnitt;‹berdurchschnitt;Unrated;#NV;;;
+41-50;F;;HQ;F;Permanent;;15-17;0.0;1;185.10392253174038;15-17;Active;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;5,1 - 10%;;5%-9%
+51-60;M;;Gesch‰ftsbereich;A;Permanent;;24-26;999.0;1;9.620310076147764;0-2;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;5,1 - 10%;5%-9%
+31-40;M;06.02.2025;Gesch‰ftsbereich;E;Permanent;;0-2;0.0;0;10.02083131319199;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;;1,0 - 3 %;
+25-30;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";999.0;0;32.498311494257834;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+51-60;M;;HQ;F;Permanent;;33-35;999.0;1;103.45054741082474;"""3-5""";Active;1;#NV;#NV;#NV;Durchschnitt;10,1 - 15 %;;5%-9%
+‹ber 60;M;;Gesch‰ftsbereich;C;Permanent;;27-29;1.0;1;145.60633514576946;"""6-8""";Active;1;#NV;Durchschnitt;Durchschnitt;#NV;15,1 - 20 %;1,0 - 3 %;5%-9%
+51-60;M;;Werk;A;Permanent;;18-20;1.0;1;13.476675510950923;15-17;Active;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;;5,1 - 10%;5%-9%
+41-50;M;;Werk;D;Permanent;;"""6-8""";0.0;0;12.657891582698912;0-2;Active;1;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+31-40;F;;HQ;C;Fixed term contract;30.06.2023;0-2;0.0;1;73.33670852141447;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;15,1 - 20 %;20,1 - 40%;
+51-60;M;;Gesch‰ftsbereich;D;Fixed term contract;29.11.2023;33-35;0.0;1;38.166108363764835;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;
+25-30;M;;HQ;A;Permanent;;0-2;0.5;1;48.33002738883596;0-2;Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;
+31-40;F;;Werk;F;Permanent;;0-2;1.0;1;1.4238756981443723;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;;10,1 - 15%;
+41-50;M;;Werk;B;Permanent;;24-26;0.0;1;17.177773810213438;"""9-11""";Active;1;Durchschnitt;Durchschnitt;#NV;#NV;10,1 - 15 %;3,1 - 5%;5%-9%
+41-50;F;;Werk;C;Permanent;;"""12-14""";1.0;1;164.08386523713733;"""6-8""";Active;0;#NV;#NV;‹berdurchschnitt;#NV;kleiner 1 %;;35%-39%
+51-60;M;31.08.2025;Werk;G;Permanent;;"""3-5""";0.5;0;5.093304626147401;"""3-5""";Active;1;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;;5%-9%
+25-30;M;;Werk;A;Permanent;30.06.2025;0-2;0.5;0;16.555456295051684;0-2;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;;;
+41-50;F;;HQ;A;Permanent;30.06.2023;0-2;999.0;0;13.47201998839572;0-2;Active;0;#NV;#NV;#NV;Unrated;;;
+‹ber 60;M;;Gesch‰ftsbereich;A;Permanent;;33-35;0.5;0;163.0588881554487;"""3-5""";Active;1;Durchschnitt;Durchschnitt;‹berdurchschnitt;Durchschnitt;;;
+41-50;M;;Gesch‰ftsbereich;F;Fixed term contract;29.04.2023;15-17;0.5;0;13.904662100806116;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;
+‹ber 60;M;;Gesch‰ftsbereich;C;Permanent;;45-47;1.0;0;147.85530417352973;15-17;Dormant;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;;;
+51-60;M;;Werk;A;Permanent;31.12.2023;33-35;999.0;0;156.56230009666078;0-2;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;20,01 - 40%;;5%-9%
+18-24;M;;Werk;A;Permanent;31.07.2022;"""3-5""";1.0;1;53.49547524337209;0-2;Terminated;0;#NV;#NV;‹berdurchschnitt;Durchschnitt;3,1 - 5%;1,0 - 3 %;65%-69%
+31-40;M;;Gesch‰ftsbereich;A;Permanent;;"""9-11""";0.5;0;99.5090168503652;"""3-5""";Active;0;Unrated;‹berdurchschnitt;#NV;#NV;1 % - 3 %;3,1 - 5%;15%-19%
+51-60;M;;Werk;D;Permanent;;33-35;999.0;0;46.03298383981337;18-20;Active;0;#NV;#NV;Durchschnitt;‹berdurchschnitt;10,1 - 15 %;3,1 - 5%;5%-9%
+31-40;M;31.08.2022;Werk;D;Permanent;;"""6-8""";999.0;0;104.15255437791686;"""3-5""";Active;0;Durchschnitt;Durchschnitt;Durchschnitt;Unrated;1 % - 3 %;;
+‹ber 60;M;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";0.0;1;23.42624874295788;"""9-11""";Active;1;#NV;#NV;#NV;#NV;;;"""-5%-1%"""
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;"""9-11""";0.0;0;51.195147332516825;"""3-5""";Active;0;Durchschnitt;Durchschnitt;‹berdurchschnitt;Durchschnitt;3,1 - 5%;1,0 - 3 %;25%-29%
+‹ber 60;M;;Gesch‰ftsbereich;F;Permanent;;24-26;0.5;0;44.70648718240757;0-2;Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;;
+25-30;M;;Werk;D;Fixed term contract;30.11.2024;0-2;1.0;1;25.40840246633201;0-2;Active;1;#NV;Durchschnitt;‹berdurchschnitt;Unrated;10,1 - 15 %;;
+41-50;F;;Werk;C;Fixed term contract;;"""12-14""";1.0;1;22.963966310954294;"""9-11""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;Unrated;;5,1 - 10%;15%-19%
+25-30;M;;Gesch‰ftsbereich;D;Permanent;;"""6-8""";999.0;1;38.18745605694947;"""3-5""";Active;0;#NV;Unrated;‹berdurchschnitt;#NV;;;
+18-24;F;;Werk;F;Fixed term contract;;0-2;0.5;0;269.1800222596379;0-2;Active;0;#NV;Durchschnitt;‹berdurchschnitt;#NV;;5,1 - 10%;
+‹ber 60;M;;Gesch‰ftsbereich;F;Permanent;;18-20;0.5;1;13.905915288665607;"""12-14""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;20,01 - 40%;;
+51-60;F;;HQ;F;Permanent;;24-26;0.5;0;164.1517950574818;0-2;Terminated;1;Durchschnitt;Durchschnitt;#NV;#NV;60,01 - 75%;;5%-9%
+25-30;F;;Werk;D;Permanent;;"""6-8""";1.0;1;13.21306504235077;0-2;Terminated;0;#NV;Unrated;#NV;#NV;20,01 - 40%;kleiner 1%;30%-34%
+41-50;M;;Werk;B;Permanent;;30-32;0.0;0;59.47457787005613;"""12-14""";Active;1;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;10,1 - 15%;5%-9%
+31-40;M;;HQ;G;Permanent;31.10.2023;21-23;1.0;1;32.714465348894734;18-20;Active;0;Unrated;#NV;#NV;#NV;;;20%-24%
+31-40;M;;Werk;F;Fixed term contract;;"""9-11""";1.0;0;52.32376262837931;"""6-8""";Terminated;1;‹berdurchschnitt;#NV;Durchschnitt;#NV;3,1 - 5%;;10%-14%
+18-24;F;;Gesch‰ftsbereich;D;Permanent;;0-2;0.5;0;166.1654566813384;0-2;Terminated;0;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;"""9-11""";999.0;1;11.205242405881569;"""9-11""";Active;0;Durchschnitt;#NV;#NV;Durchschnitt;kleiner 1 %;kleiner 1%;
+51-60;M;;Werk;C;Permanent;31.12.2023;24-26;0.0;1;63.815772823282316;"""12-14""";Active;1;#NV;Durchschnitt;Durchschnitt;Unrated;;5,1 - 10%;5%-9%
+51-60;F;;Gesch‰ftsbereich;G;Permanent;30.06.2023;27-29;999.0;0;139.2574437355421;15-17;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;5%-9%
+51-60;M;30.09.2025;Werk;D;Permanent;;"""3-5""";0.0;0;124.4593594165364;0-2;Terminated;0;#NV;Durchschnitt;Durchschnitt;Durchschnitt;3,1 - 5%;kleiner 1%;
+31-40;M;31.05.2024;Werk;D;Permanent;;"""6-8""";0.0;0;4.351743120221133;"""6-8""";Active;0;Unrated;#NV;Durchschnitt;#NV;;5,1 - 10%;15%-19%
+‹ber 60;M;;Werk;C;Permanent;;39-41;1.0;1;33.37532346858001;0-2;Active;1;Durchschnitt;#NV;Durchschnitt;#NV;;kleiner 1%;
+18-24;M;;HQ;D;Permanent;;"""3-5""";1.0;0;43.53056071317121;0-2;Terminated;1;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;1,0 - 3 %;70%-74%
+31-40;M;;HQ;E;Fixed term contract;;"""9-11""";0.5;1;27.535268650743564;"""3-5""";Active;0;#NV;Durchschnitt;#NV;#NV;;;"""-15%-11%"""
+41-50;F;;Werk;D;Permanent;;30-32;0.0;1;70.48102873418661;18-20;Terminated;1;#NV;#NV;#NV;#NV;;;5%-9%
+31-40;M;;Werk;G;Permanent;;"""12-14""";0.5;0;12.14504883027661;"""6-8""";Active;0;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;15%-19%
+‹ber 60;M;;Gesch‰ftsbereich;E;Permanent;20.09.2024;45-47;1.0;1;155.4105729258711;0-2;Terminated;1;#NV;#NV;#NV;#NV;;5,1 - 10%;
+18-24;M;;Gesch‰ftsbereich;C;Permanent;;0-2;999.0;1;9.76124858661126;0-2;Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;;;
+31-40;F;09.08.2022;HQ;G;Permanent;;"""6-8""";999.0;1;106.76057316347962;"""3-5""";Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;Unrated;;;5%-9%
+25-30;F;;Werk;B;Permanent;31.12.2022;0-2;1.0;1;5.271665323820569;0-2;Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;5,1 - 10%;
+18-24;M;;Werk;E;Permanent;;0-2;1.0;0;25.706438147153953;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;Unrated;1 % - 3 %;3,1 - 5%;
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;24-26;1.0;1;86.0776578923986;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;3,1 - 5%;10%-14%
+25-30;M;30.09.2024;Werk;B;Permanent;;"""9-11""";999.0;0;26.42828198099439;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;10,1 - 15%;20%-24%
+31-40;M;;HQ;D;Fixed term contract;;"""12-14""";999.0;1;40.3956507299027;"""9-11""";Active;0;#NV;#NV;#NV;#NV;;10,1 - 15%;"""-35%-31%"""
+41-50;M;;Werk;A;Fixed term contract;;27-29;1.0;1;58.86339417922065;18-20;Terminated;0;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;;5%-9%
+25-30;M;31.01.2025;Werk;G;Permanent;;"""3-5""";0.5;0;32.78935567921052;"""3-5""";Active;1;Durchschnitt;Durchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;
+41-50;M;;Werk;A;Permanent;;21-23;0.5;0;5.729422901995317;18-20;Active;1;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;15,1 - 20 %;kleiner 1%;10%-14%
+31-40;M;;Werk;C;Permanent;;"""6-8""";0.0;0;144.28967839809823;"""6-8""";Terminated;1;#NV;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;;;20%-24%
+51-60;M;;HQ;F;Permanent;;30-32;0.5;1;19.72254240438038;0-2;Active;1;‹berdurchschnitt;Durchschnitt;Durchschnitt;#NV;;5,1 - 10%;5%-9%
+31-40;M;;HQ;A;Fixed term contract;;"""6-8""";0.0;1;33.486687929502764;"""6-8""";Active;0;#NV;#NV;Durchschnitt;Unrated;;5,1 - 10%;
+18-24;F;;Gesch‰ftsbereich;A;Permanent;;"""3-5""";0.5;1;123.39363030238259;"""3-5""";Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;;5,1 - 10%;
+31-40;F;;Werk;E;Permanent;;"""6-8""";1.0;0;180.04311053095753;"""3-5""";Active;0;‹berdurchschnitt;Unrated;#NV;#NV;15,1 - 20 %;1,0 - 3 %;15%-19%
+51-60;F;;Werk;F;Permanent;08.03.2024;36-38;0.0;0;40.33454605920531;0-2;Terminated;0;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;;
+51-60;M;;Werk;F;Fixed term contract;;18-20;0.5;0;161.98106693337027;15-17;Active;1;#NV;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;10%-14%
+51-60;M;;Werk;C;Permanent;;21-23;999.0;1;20.43359093441075;18-20;Active;1;#NV;#NV;#NV;Durchschnitt;15,1 - 20 %;;
+25-30;M;;HQ;G;Permanent;;"""9-11""";0.0;0;0.843887250226695;"""6-8""";Active;1;#NV;#NV;#NV;Durchschnitt;;60,1 - 75 %;
+51-60;M;;HQ;B;Permanent;;36-38;1.0;0;56.669767546585405;18-20;Active;0;#NV;Durchschnitt;#NV;#NV;20,01 - 40%;;5%-9%
+31-40;M;;Werk;A;Permanent;;18-20;0.0;0;14.939211254024151;"""6-8""";Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+31-40;M;;HQ;D;Permanent;14.03.2023;18-20;999.0;1;265.5960022511426;18-20;Active;1;#NV;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;;;10%-14%
+25-30;M;;Werk;A;Permanent;;0-2;0.0;1;54.83786374890655;0-2;Active;0;#NV;#NV;#NV;#NV;;;
+25-30;M;31.07.2024;HQ;A;Permanent;;0-2;0.0;0;36.15517779485569;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;3,1 - 5%;
+18-24;M;;HQ;A;Permanent;;0-2;0.0;1;261.187119006962;0-2;Active;0;Durchschnitt;#NV;Durchschnitt;Durchschnitt;;3,1 - 5%;
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;33-35;999.0;0;178.52739900038085;0-2;Terminated;1;#NV;#NV;#NV;#NV;5,1 - 10%;;5%-9%
+31-40;M;;Werk;C;Permanent;31.07.2023;"""9-11""";999.0;1;143.68619933909798;0-2;Terminated;1;#NV;#NV;Unrated;#NV;kleiner 1 %;5,1 - 10%;
+31-40;M;08.09.2024;HQ;A;Permanent;31.05.2024;"""6-8""";999.0;1;9.067484438659555;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;kleiner 1 %;;10%-14%
+51-60;F;;HQ;F;Permanent;;18-20;0.0;0;72.59784675201232;"""6-8""";Active;0;#NV;#NV;Durchschnitt;#NV;;;10%-14%
+‹ber 60;M;;Werk;E;Permanent;;33-35;0.0;1;175.7622349923921;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;10,1 - 15 %;1,0 - 3 %;
+41-50;M;;HQ;G;Permanent;;18-20;0.0;0;13.002616423970471;0-2;Active;0;#NV;Durchschnitt;Unrated;#NV;75,01 - 100 %;60,1 - 75 %;5%-9%
+51-60;M;;Werk;G;Permanent;;24-26;0.5;0;9.200907978072411;15-17;Active;1;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;1 % - 3 %;5,1 - 10%;5%-9%
+31-40;M;;Gesch‰ftsbereich;E;Fixed term contract;;"""12-14""";1.0;0;188.39185588198612;0-2;Dormant;1;‹berdurchschnitt;#NV;#NV;#NV;5,1 - 10%;;5%-9%
+51-60;M;28.02.2026;Werk;A;Permanent;;36-38;1.0;0;78.14246472251754;18-20;Terminated;0;#NV;‹berdurchschnitt;#NV;Unrated;;;5%-9%
+31-40;M;;HQ;A;Permanent;;0-2;0.5;1;258.96956084821437;0-2;Terminated;0;#NV;Unrated;#NV;Durchschnitt;;;
+51-60;F;;Gesch‰ftsbereich;C;Permanent;30.04.2022;33-35;1.0;0;181.35871227316204;0-2;Active;0;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;1,0 - 3 %;10%-14%
+31-40;F;;Werk;F;Permanent;;0-2;0.0;0;26.417124424203212;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;;;
+41-50;M;;Werk;D;Permanent;;"""6-8""";0.5;0;54.8739286136159;0-2;Terminated;1;#NV;#NV;#NV;#NV;5,1 - 10%;kleiner 1%;25%-29%
+51-60;F;;Werk;A;Permanent;;36-38;0.0;0;57.75489316476525;15-17;Active;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;0%-4%
+31-40;M;;Gesch‰ftsbereich;G;Permanent;31.12.2024;"""3-5""";0.5;0;56.779230292485956;"""3-5""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+‹ber 60;F;30.09.2023;Werk;D;Permanent;;21-23;999.0;0;42.677818638515895;0-2;Dormant;1;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;;
+31-40;M;13.12.2025;Gesch‰ftsbereich;E;Permanent;;"""3-5""";0.5;0;16.943942827175178;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;1,0 - 3 %;30%-34%
+31-40;M;;Werk;G;Permanent;;"""6-8""";0.0;0;63.0186591945882;"""6-8""";Active;0;#NV;Unrated;#NV;Durchschnitt;kleiner 1 %;;10%-14%
+25-30;M;31.05.2022;Gesch‰ftsbereich;A;Permanent;31.12.2023;0-2;0.0;1;24.81049112024563;0-2;Active;1;#NV;#NV;#NV;#NV;;3,1 - 5%;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;15-17;0.5;0;48.808299280593275;"""6-8""";Active;0;‹berdurchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;;5%-9%
+51-60;M;28.02.2025;Werk;F;Permanent;;24-26;0.0;0;42.82104689190966;18-20;Terminated;1;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;5,1 - 10%;5%-9%
+41-50;M;;Gesch‰ftsbereich;D;Permanent;30.06.2025;"""12-14""";0.0;1;42.01580918144811;"""9-11""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;;5,1 - 10%;10%-14%
+51-60;M;;Gesch‰ftsbereich;A;Fixed term contract;;36-38;1.0;0;179.83903768583662;"""3-5""";Active;1;#NV;#NV;Durchschnitt;Unrated;kleiner 1 %;1,0 - 3 %;5%-9%
+25-30;M;;Gesch‰ftsbereich;E;Permanent;30.09.2023;0-2;0.0;1;44.0623486911315;0-2;Active;1;‹berdurchschnitt;Durchschnitt;Unrated;#NV;1 % - 3 %;;
+41-50;M;;Werk;B;Permanent;;24-26;0.5;1;113.91265400312803;0-2;Active;0;Unrated;#NV;#NV;Durchschnitt;;;5%-9%
+51-60;M;;Gesch‰ftsbereich;A;Permanent;11.10.2022;27-29;1.0;1;192.54979131948764;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;;;5%-9%
+18-24;M;;Werk;G;Permanent;;"""3-5""";1.0;1;15.281425990073261;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;5,1 - 10%;3,1 - 5%;70%-74%
+41-50;M;28.02.2027;Werk;B;Fixed term contract;30.09.2023;"""9-11""";0.5;1;21.263994548703092;"""9-11""";Active;1;#NV;#NV;#NV;Durchschnitt;3,1 - 5%;;5%-9%
+31-40;M;;Werk;E;Permanent;;"""6-8""";999.0;1;41.066518687260015;"""6-8""";Dormant;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;;;5%-9%
+41-50;M;;Gesch‰ftsbereich;F;Permanent;30.06.2023;15-17;0.5;1;58.09300640061793;"""12-14""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;20,01 - 40%;kleiner 1%;5%-9%
+41-50;F;31.05.2025;Werk;F;Permanent;;27-29;1.0;0;142.15890809981374;"""3-5""";Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;;;10%-14%
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;27-29;0.0;0;12.320858563559833;"""12-14""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;5,1 - 10%;;5%-9%
+25-30;M;28.02.2023;HQ;D;Fixed term contract;;"""3-5""";0.5;1;10.40893407959864;0-2;Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;1 % - 3 %;;25%-29%
+51-60;M;;Gesch‰ftsbereich;C;Permanent;;24-26;0.0;0;44.42287617687673;18-20;Terminated;0;‹berdurchschnitt;#NV;#NV;#NV;10,1 - 15 %;;10%-14%
+51-60;M;;HQ;E;Permanent;;21-23;1.0;0;143.17558560681726;"""9-11""";Active;1;#NV;#NV;#NV;#NV;;5,1 - 10%;10%-14%
+31-40;M;;Werk;E;Permanent;;"""9-11""";1.0;0;92.72116117021136;0-2;Terminated;1;Durchschnitt;#NV;#NV;#NV;;kleiner 1%;5%-9%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;24-26;999.0;0;117.76553657710163;0-2;Active;0;#NV;Unrated;#NV;#NV;1 % - 3 %;;10%-14%
+25-30;M;;Werk;A;Permanent;;"""9-11""";999.0;1;10.362135504315235;0-2;Dormant;0;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;Durchschnitt;5,1 - 10%;;10%-14%
+31-40;M;;Werk;B;Permanent;;21-23;0.0;1;20.21904418728942;0-2;Active;1;‹berdurchschnitt;Unterdurchschnitt;Durchschnitt;Unrated;5,1 - 10%;3,1 - 5%;"""-75%-71%"""
+25-30;M;;HQ;B;Permanent;31.03.2025;"""3-5""";999.0;1;164.0610427789186;"""3-5""";Active;1;#NV;Durchschnitt;Durchschnitt;Unrated;1 % - 3 %;;20%-24%
+51-60;F;;HQ;B;Permanent;;33-35;0.0;1;20.421453841539286;"""9-11""";Active;1;#NV;Durchschnitt;Durchschnitt;‹berdurchschnitt;;3,1 - 5%;10%-14%
+‹ber 60;M;;Werk;F;Permanent;31.12.2022;45-47;1.0;1;174.205795195809;15-17;Active;1;#NV;#NV;#NV;#NV;;3,1 - 5%;
+‹ber 60;F;;HQ;G;Permanent;30.06.2025;33-35;1.0;1;44.5041948986287;"""6-8""";Terminated;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+31-40;M;;Gesch‰ftsbereich;G;Fixed term contract;;"""6-8""";999.0;1;49.91053320145105;"""6-8""";Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;3,1 - 5%;20%-24%
+‹ber 60;M;;Gesch‰ftsbereich;B;Permanent;;36-38;999.0;0;40.01357166735927;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;
+51-60;M;;Werk;C;Permanent;;33-35;0.5;1;165.9642543055161;"""3-5""";Dormant;1;#NV;#NV;#NV;Durchschnitt;;1,0 - 3 %;5%-9%
+25-30;M;30.09.2024;Gesch‰ftsbereich;C;Permanent;;"""3-5""";0.0;0;10.542832545771624;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;
+18-24;M;;Gesch‰ftsbereich;D;Permanent;;"""6-8""";0.0;1;62.8777986983055;"""3-5""";Active;0;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;70%-74%
+41-50;F;;Gesch‰ftsbereich;E;Permanent;;33-35;0.5;1;7.793536072204616;"""6-8""";Active;1;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;;5%-9%
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;36-38;999.0;0;58.76705460339075;18-20;Active;1;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;5,1 - 10%;3,1 - 5%;10%-14%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;0-2;1.0;0;138.54862380923007;0-2;Active;1;#NV;#NV;#NV;#NV;3,1 - 5%;5,1 - 10%;
+51-60;F;;Gesch‰ftsbereich;D;Permanent;;27-29;0.5;1;52.4758436301311;15-17;Terminated;1;#NV;#NV;#NV;#NV;;;5%-9%
+25-30;M;;Werk;B;Permanent;;0-2;0.0;1;176.5268596814137;0-2;Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;
+31-40;M;;Werk;F;Permanent;;"""6-8""";0.5;0;8.969008027485664;"""6-8""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;5,1 - 10%;;5%-9%
+18-24;M;;Gesch‰ftsbereich;F;Permanent;31.05.2024;"""6-8""";0.5;0;9.147436155123366;0-2;Active;1;#NV;Durchschnitt;#NV;Durchschnitt;;;"""-5%-1%"""
+41-50;M;;Werk;A;Fixed term contract;;"""9-11""";999.0;1;186.9268140818012;0-2;Terminated;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;3,1 - 5%;;10%-14%
+41-50;M;15.10.2023;HQ;F;Fixed term contract;;21-23;1.0;1;15.14313442378111;"""9-11""";Active;1;‹berdurchschnitt;#NV;Durchschnitt;#NV;kleiner 1 %;20,1 - 40%;15%-19%
+41-50;M;;HQ;A;Permanent;;"""12-14""";1.0;1;8.604147694027958;"""3-5""";Terminated;0;‹berdurchschnitt;#NV;#NV;#NV;;;10%-14%
+41-50;M;28.02.2027;Gesch‰ftsbereich;A;Permanent;;21-23;0.0;1;35.713953973682905;"""3-5""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;40,01 - 60 %;;10%-14%
+‹ber 60;M;;Werk;F;Permanent;;45-47;0.5;0;106.75864662160903;18-20;Active;1;Durchschnitt;#NV;Durchschnitt;‹berdurchschnitt;kleiner 1 %;;
+51-60;M;;HQ;A;Permanent;31.12.2022;15-17;1.0;0;8.813227568001128;"""6-8""";Active;0;Durchschnitt;#NV;‹berdurchschnitt;‹berdurchschnitt;3,1 - 5%;;
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""6-8""";0.5;1;5.249866884471401;"""3-5""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;kleiner 1 %;40,1 - 60%;
+51-60;M;;Werk;D;Permanent;30.06.2024;21-23;0.5;1;14.756845875437325;18-20;Terminated;1;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;;10%-14%
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;15-17;999.0;0;34.041804017867484;"""6-8""";Dormant;0;#NV;#NV;#NV;Durchschnitt;5,1 - 10%;;5%-9%
+51-60;F;;Gesch‰ftsbereich;C;Permanent;30.04.2023;"""6-8""";1.0;0;14.399313966717113;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;10,1 - 15%;5%-9%
+18-24;M;;HQ;G;Fixed term contract;;0-2;999.0;1;50.02184442667965;0-2;Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;;
+51-60;M;;Werk;B;Fixed term contract;;24-26;0.0;1;51.499314330516526;"""6-8""";Active;1;#NV;#NV;‹berdurchschnitt;#NV;;10,1 - 15%;5%-9%
+31-40;F;;HQ;A;Permanent;;0-2;0.0;1;95.93577928878491;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;;1,0 - 3 %;
+31-40;M;;Werk;G;Permanent;;"""6-8""";999.0;0;46.92937907404921;"""3-5""";Active;0;#NV;#NV;#NV;Unterdurchschnitt;40,01 - 60 %;;
+51-60;M;;Werk;A;Permanent;;24-26;1.0;1;79.0327063363614;15-17;Terminated;1;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;10,1 - 15%;5%-9%
+31-40;M;;Werk;G;Permanent;;"""9-11""";0.0;0;33.27328759348514;0-2;Terminated;0;Durchschnitt;#NV;‹berdurchschnitt;Unrated;;10,1 - 15%;35%-39%
+31-40;M;;HQ;G;Fixed term contract;31.12.2023;"""6-8""";1.0;0;38.903810899258715;"""6-8""";Terminated;0;#NV;Durchschnitt;#NV;#NV;;;15%-19%
+25-30;M;;Werk;C;Permanent;;0-2;999.0;0;70.19203770176647;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;;kleiner 1%;
+31-40;F;31.08.2024;HQ;G;Permanent;;"""6-8""";1.0;0;19.481826627273705;"""6-8""";Active;1;‹berdurchschnitt;Durchschnitt;Durchschnitt;‹berdurchschnitt;kleiner 1 %;kleiner 1%;15%-19%
+41-50;M;;HQ;G;Permanent;;"""12-14""";0.5;0;15.698861157716586;"""12-14""";Active;1;#NV;Unterdurchschnitt;#NV;#NV;5,1 - 10%;3,1 - 5%;5%-9%
+51-60;M;;HQ;F;Permanent;;24-26;1.0;0;12.64249987225239;18-20;Active;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;1 % - 3 %;1,0 - 3 %;5%-9%
+31-40;M;;Gesch‰ftsbereich;D;Fixed term contract;;18-20;0.5;1;101.79181183701108;0-2;Dormant;1;#NV;#NV;#NV;Unrated;;;10%-14%
+41-50;M;;Werk;E;Permanent;;15-17;1.0;0;13.894686734471847;"""3-5""";Terminated;0;#NV;Unterdurchschnitt;Durchschnitt;#NV;1 % - 3 %;;
+31-40;F;;Werk;A;Permanent;;"""12-14""";0.5;0;183.04713338265105;"""3-5""";Active;0;#NV;#NV;#NV;Durchschnitt;;;5%-9%
+51-60;M;;HQ;C;Permanent;11.10.2024;15-17;1.0;1;0.24769140941360446;0-2;Active;0;#NV;Unrated;#NV;#NV;10,1 - 15 %;1,0 - 3 %;
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;15-17;999.0;1;60.55124525876308;"""6-8""";Active;0;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;5%-9%
+41-50;M;;Gesch‰ftsbereich;G;Permanent;29.02.2024;0-2;999.0;0;186.34838725906167;0-2;Active;1;#NV;#NV;#NV;#NV;;;
+31-40;M;;HQ;E;Permanent;;"""12-14""";1.0;1;56.74391629356795;"""6-8""";Terminated;0;#NV;#NV;#NV;#NV;;10,1 - 15%;10%-14%
+18-24;M;;Gesch‰ftsbereich;G;Permanent;;0-2;999.0;0;23.96787545406789;0-2;Active;0;#NV;#NV;#NV;#NV;;;
+31-40;F;;HQ;E;Permanent;;0-2;0.5;0;190.0149342672071;0-2;Terminated;1;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;;;
+31-40;M;;Werk;F;Permanent;30.04.2024;"""3-5""";999.0;0;57.071225271854836;"""3-5""";Active;0;#NV;Durchschnitt;#NV;#NV;10,1 - 15 %;;5%-9%
+41-50;F;;Werk;E;Fixed term contract;;"""9-11""";1.0;1;19.515092484142656;0-2;Active;1;Durchschnitt;#NV;‹berdurchschnitt;Unrated;20,01 - 40%;5,1 - 10%;10%-14%
+41-50;F;;Werk;E;Permanent;;24-26;0.5;1;31.20386260175855;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;;10,1 - 15%;5%-9%
+31-40;F;;Werk;A;Permanent;;18-20;0.5;0;18.459557351700234;"""3-5""";Terminated;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+31-40;M;;HQ;F;Permanent;;"""6-8""";0.0;1;10.489950411859674;"""6-8""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;5,1 - 10%;75,01 - 100 %;10%-14%
+31-40;M;;HQ;D;Permanent;31.05.2024;15-17;0.5;0;10.39453450862582;"""3-5""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;;1,0 - 3 %;"""-15%-11%"""
+41-50;M;;HQ;G;Permanent;;"""6-8""";1.0;0;60.787588518079204;"""6-8""";Active;1;#NV;Durchschnitt;#NV;#NV;;5,1 - 10%;0%-4%
+31-40;M;15.08.2023;HQ;B;Permanent;;"""12-14""";0.5;1;81.15067489710972;"""12-14""";Terminated;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;10,1 - 15 %;kleiner 1%;10%-14%
+25-30;M;;Gesch‰ftsbereich;D;Permanent;31.01.2024;0-2;0.5;1;33.083104406598004;0-2;Dormant;0;#NV;#NV;#NV;Durchschnitt;;;
+51-60;M;;HQ;A;Permanent;;39-41;0.0;1;106.94740163182601;18-20;Terminated;1;Durchschnitt;#NV;#NV;#NV;;;5%-9%
+31-40;M;;Gesch‰ftsbereich;D;Permanent;;15-17;0.0;0;19.76336320631282;0-2;Active;1;#NV;Durchschnitt;‹berdurchschnitt;#NV;;5,1 - 10%;15%-19%
+25-30;M;;Werk;B;Permanent;;"""9-11""";1.0;1;84.41163070471023;"""6-8""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;10,1 - 15 %;1,0 - 3 %;10%-14%
+51-60;F;14.01.2024;Werk;E;Permanent;;18-20;0.5;1;18.431506365142805;18-20;Active;1;#NV;#NV;Durchschnitt;#NV;kleiner 1 %;;5%-9%
+‹ber 60;F;;Gesch‰ftsbereich;C;Fixed term contract;30.09.2022;45-47;0.5;0;72.05116651135634;"""3-5""";Active;0;#NV;#NV;‹berdurchschnitt;Durchschnitt;;3,1 - 5%;
+41-50;M;31.01.2024;HQ;C;Permanent;31.03.2025;15-17;999.0;0;147.15976828649485;15-17;Active;1;#NV;Unterdurchschnitt;#NV;#NV;;kleiner 1%;5%-9%
+31-40;M;;Gesch‰ftsbereich;D;Fixed term contract;;15-17;0.0;0;8.219413756567327;"""9-11""";Active;0;#NV;#NV;#NV;#NV;;;5%-9%
+‹ber 60;M;31.12.2023;HQ;E;Fixed term contract;14.02.2023;36-38;0.5;1;40.46623689901258;"""3-5""";Terminated;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;10,1 - 15%;
+41-50;M;;Werk;D;Permanent;;0-2;999.0;1;179.3369174733306;0-2;Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;29.02.2024;0-2;0.5;1;145.17599437016293;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;;
+31-40;F;;Werk;E;Fixed term contract;;0-2;1.0;0;3.241359932376568;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;3,1 - 5%;;
+31-40;M;;Werk;C;Fixed term contract;;"""6-8""";1.0;0;9.266334938264754;0-2;Active;0;#NV;#NV;Durchschnitt;#NV;;1,0 - 3 %;10%-14%
+31-40;M;;Gesch‰ftsbereich;G;Permanent;;"""12-14""";999.0;0;139.8095895004915;"""3-5""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;15%-19%
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";1.0;1;104.44264486962157;"""3-5""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;;;
+18-24;F;;Werk;B;Permanent;;0-2;999.0;0;21.71296069251393;0-2;Active;1;#NV;Unrated;Durchschnitt;‹berdurchschnitt;;10,1 - 15%;
+31-40;M;;HQ;B;Permanent;;"""9-11""";1.0;1;29.757776746904767;0-2;Terminated;0;‹berdurchschnitt;Unrated;#NV;#NV;kleiner 1 %;3,1 - 5%;25%-29%
+41-50;M;31.12.2024;Gesch‰ftsbereich;C;Permanent;;"""12-14""";0.0;1;18.235087920345865;"""3-5""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;3,1 - 5%;20%-24%
+51-60;M;;HQ;A;Permanent;;27-29;999.0;0;50.50570487275435;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;5,1 - 10%;10%-14%
+‹ber 60;M;;Werk;F;Permanent;30.09.2023;33-35;0.5;1;87.16718528706282;"""3-5""";Active;0;Durchschnitt;Durchschnitt;#NV;#NV;20,01 - 40%;1,0 - 3 %;
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;"""9-11""";1.0;0;54.505352792362714;"""9-11""";Active;0;#NV;#NV;Durchschnitt;‹berdurchschnitt;10,1 - 15 %;;10%-14%
+25-30;M;;Gesch‰ftsbereich;A;Permanent;;"""3-5""";0.0;1;127.2090125133199;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;10,1 - 15%;25%-29%
+51-60;M;;HQ;A;Permanent;;"""12-14""";0.0;0;3.937488821450949;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;10,1 - 15%;5%-9%
+18-24;M;;Werk;G;Permanent;;0-2;0.5;1;120.50540133907421;0-2;Terminated;0;Durchschnitt;#NV;Durchschnitt;Durchschnitt;kleiner 1 %;;
+51-60;M;;Werk;G;Permanent;;33-35;0.0;0;158.29224175234415;0-2;Active;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;;kleiner 1%;5%-9%
+25-30;M;;Werk;B;Permanent;;0-2;0.5;0;176.87549185593988;0-2;Dormant;1;Durchschnitt;#NV;#NV;#NV;20,01 - 40%;;
+41-50;M;;Gesch‰ftsbereich;E;Permanent;23.09.2022;18-20;1.0;0;13.768703150685594;"""3-5""";Dormant;1;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;3,1 - 5%;10%-14%
+41-50;M;;HQ;B;Permanent;;15-17;0.5;0;3.0080771185744397;"""6-8""";Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;kleiner 1 %;3,1 - 5%;10%-14%
+51-60;M;;HQ;B;Permanent;;30-32;0.5;1;74.2381641149354;"""3-5""";Active;1;#NV;#NV;#NV;#NV;;kleiner 1%;5%-9%
+‹ber 60;M;;Gesch‰ftsbereich;G;Permanent;31.01.2025;45-47;999.0;1;203.5502908411042;"""3-5""";Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;1 % - 3 %;;
+31-40;M;;Gesch‰ftsbereich;A;Fixed term contract;;"""12-14""";0.5;0;104.9864864476898;"""6-8""";Active;1;#NV;#NV;#NV;#NV;3,1 - 5%;5,1 - 10%;35%-39%
+41-50;F;30.06.2022;Werk;C;Permanent;;"""9-11""";1.0;1;19.182726233629975;0-2;Dormant;1;#NV;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;;5,1 - 10%;10%-14%
+‹ber 60;M;;Werk;D;Permanent;;33-35;999.0;1;19.888679940725194;0-2;Active;1;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;3,1 - 5%;
+41-50;M;31.03.2025;HQ;E;Permanent;;"""12-14""";999.0;1;44.22808320797977;"""3-5""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;;5,1 - 10%;0%-4%
+41-50;M;31.05.2023;HQ;B;Permanent;;"""12-14""";1.0;1;35.83881724493405;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;kleiner 1 %;;35%-39%
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;30-32;0.0;0;15.21366410609253;"""3-5""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;Durchschnitt;1 % - 3 %;;0%-4%
+51-60;M;;Gesch‰ftsbereich;B;Permanent;;0-2;1.0;1;57.82677488223367;0-2;Terminated;1;#NV;#NV;#NV;#NV;10,1 - 15 %;;
+51-60;M;;Werk;E;Fixed term contract;;36-38;0.5;0;56.33267404793139;"""3-5""";Active;1;‹berdurchschnitt;#NV;Durchschnitt;Durchschnitt;;5,1 - 10%;5%-9%
+18-24;M;;Gesch‰ftsbereich;F;Permanent;13.03.2023;"""6-8""";999.0;1;48.46434659954347;"""3-5""";Terminated;0;Durchschnitt;Durchschnitt;Durchschnitt;Unrated;15,1 - 20 %;;
+51-60;F;;HQ;A;Permanent;;15-17;0.0;0;23.17069070122473;15-17;Active;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;3,1 - 5%;5,1 - 10%;5%-9%
+51-60;M;;Werk;B;Permanent;;0-2;999.0;1;18.39481054819165;0-2;Active;0;Durchschnitt;Unrated;#NV;#NV;20,01 - 40%;;
+25-30;F;;Gesch‰ftsbereich;A;Permanent;30.09.2022;"""9-11""";0.0;0;180.16674214147605;"""3-5""";Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;20%-24%
+25-30;F;;Werk;E;Permanent;;0-2;0.0;1;8.519056221411063;0-2;Active;0;#NV;#NV;#NV;#NV;;;
+41-50;M;;Werk;G;Permanent;;0-2;0.0;1;101.33526275456308;0-2;Active;0;#NV;#NV;Durchschnitt;Unrated;15,1 - 20 %;3,1 - 5%;
+31-40;M;;HQ;F;Permanent;;"""12-14""";999.0;0;19.25439441640314;"""9-11""";Active;0;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;kleiner 1%;5%-9%
+18-24;M;;Werk;E;Permanent;28.02.2025;0-2;999.0;0;262.82950703054246;0-2;Terminated;0;#NV;Durchschnitt;#NV;Unrated;;20,1 - 40%;
+51-60;M;;Werk;E;Fixed term contract;;30-32;999.0;0;63.67120168210066;"""12-14""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;kleiner 1%;30%-34%
+41-50;M;31.08.2022;Gesch‰ftsbereich;E;Permanent;;"""9-11""";0.5;1;20.36759277087059;"""9-11""";Active;0;Unterdurchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;10,1 - 15 %;1,0 - 3 %;10%-14%
+18-24;M;;HQ;F;Permanent;;0-2;0.0;0;22.80413548394973;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;;5,1 - 10%;
+18-24;M;;Gesch‰ftsbereich;B;Permanent;;"""3-5""";0.5;0;182.1590485703412;0-2;Dormant;0;Unrated;#NV;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;;
+51-60;F;;Werk;B;Permanent;;33-35;999.0;0;14.005006784822386;18-20;Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;1 % - 3 %;;5%-9%
+51-60;M;;Werk;D;Fixed term contract;;30-32;0.5;1;77.49868060484387;"""3-5""";Active;0;#NV;Durchschnitt;#NV;Unterdurchschnitt;;;5%-9%
+41-50;M;;Werk;F;Permanent;31.12.2023;"""9-11""";0.5;1;9.940124456222755;"""9-11""";Dormant;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;10,1 - 15 %;;
+51-60;M;;Werk;C;Permanent;;27-29;0.0;0;119.5519391713129;"""3-5""";Terminated;0;Unrated;Durchschnitt;#NV;#NV;3,1 - 5%;;5%-9%
+25-30;F;;Werk;C;Permanent;;"""6-8""";1.0;1;73.59447276281148;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;;;20%-24%
+41-50;M;31.03.2024;HQ;E;Permanent;;"""12-14""";1.0;1;51.00124656477179;"""12-14""";Active;1;#NV;#NV;Unrated;Durchschnitt;3,1 - 5%;10,1 - 15%;10%-14%
+41-50;F;;Werk;A;Permanent;;27-29;0.5;1;19.238162355934463;"""9-11""";Active;1;Unrated;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;10%-14%
+31-40;F;;Gesch‰ftsbereich;E;Permanent;;"""6-8""";999.0;0;46.81964529404449;"""3-5""";Terminated;0;Durchschnitt;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;;5%-9%
+31-40;M;;HQ;A;Permanent;31.01.2024;"""6-8""";999.0;0;19.53234023880298;0-2;Terminated;0;#NV;Unrated;Durchschnitt;Unrated;;3,1 - 5%;10%-14%
+41-50;F;;HQ;G;Permanent;;"""6-8""";999.0;0;148.98172226276546;"""6-8""";Terminated;0;#NV;#NV;‹berdurchschnitt;#NV;;;15%-19%
+18-24;M;;HQ;E;Permanent;;0-2;1.0;0;22.52497287608824;0-2;Terminated;0;#NV;#NV;Durchschnitt;#NV;5,1 - 10%;kleiner 1%;
+‹ber 60;M;;Werk;G;Permanent;;33-35;0.0;0;140.60140344339652;"""3-5""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;;;
+51-60;M;14.10.2024;Werk;A;Permanent;;24-26;999.0;0;69.33646292728682;18-20;Active;1;#NV;#NV;‹berdurchschnitt;#NV;;3,1 - 5%;5%-9%
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.0;1;142.69842628576595;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;10,1 - 15 %;10,1 - 15%;10%-14%
+51-60;M;;HQ;F;Permanent;;"""12-14""";999.0;0;138.15125902407235;0-2;Active;1;Durchschnitt;#NV;Durchschnitt;#NV;;kleiner 1%;
+31-40;M;;HQ;A;Permanent;;0-2;0.0;1;53.2937090659166;0-2;Dormant;0;#NV;#NV;#NV;#NV;;1,0 - 3 %;
+51-60;F;30.04.2025;Gesch‰ftsbereich;E;Permanent;;24-26;0.5;1;22.28977394351555;18-20;Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;kleiner 1 %;;5%-9%
+18-24;M;;Werk;E;Permanent;;"""3-5""";1.0;1;113.42700172870184;0-2;Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;;3,1 - 5%;20%-24%
+51-60;F;;HQ;A;Permanent;22.09.2022;"""9-11""";0.0;1;181.08484877959842;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;15,1 - 20 %;1,0 - 3 %;5%-9%
+51-60;M;;HQ;E;Permanent;;24-26;0.5;1;27.062026254721708;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;Durchschnitt;;3,1 - 5%;5%-9%
+31-40;F;;Gesch‰ftsbereich;D;Fixed term contract;30.04.2024;"""9-11""";0.0;0;9.2282072631569;"""9-11""";Active;0;#NV;#NV;‹berdurchschnitt;Durchschnitt;;3,1 - 5%;15%-19%
+31-40;M;;HQ;A;Permanent;;"""6-8""";1.0;0;21.17986585793935;"""6-8""";Active;1;#NV;#NV;‹berdurchschnitt;#NV;60,01 - 75%;;15%-19%
+‹ber 60;M;;HQ;E;Permanent;30.09.2022;27-29;999.0;1;74.05335436139056;"""3-5""";Active;0;#NV;Durchschnitt;Durchschnitt;#NV;;1,0 - 3 %;
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.5;1;139.7837974031301;"""6-8""";Terminated;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;3,1 - 5%;5%-9%
+25-30;M;;Gesch‰ftsbereich;E;Permanent;;0-2;0.5;0;37.50338336142579;0-2;Active;1;#NV;Durchschnitt;#NV;#NV;;;95%-100%
+51-60;M;;HQ;A;Permanent;;42-44;999.0;1;5.569613945587853;15-17;Active;0;#NV;#NV;Durchschnitt;Durchschnitt;5,1 - 10%;5,1 - 10%;5%-9%
+18-24;M;;HQ;C;Permanent;31.01.2025;0-2;1.0;0;10.623838475448073;0-2;Active;1;#NV;#NV;#NV;‹berdurchschnitt;;;
+31-40;M;;HQ;B;Permanent;;"""6-8""";0.0;0;27.449648619103225;"""6-8""";Terminated;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;1 % - 3 %;15,1 - 20%;15%-19%
+51-60;M;;Werk;D;Permanent;;15-17;1.0;0;103.77892932007843;"""12-14""";Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;;;5%-9%
+18-24;F;;Werk;E;Permanent;;0-2;0.0;1;16.884499397958795;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;;
+51-60;F;;Werk;E;Permanent;;21-23;1.0;1;14.910029148928617;18-20;Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;;15%-19%
+31-40;M;31.08.2025;Gesch‰ftsbereich;A;Permanent;;"""6-8""";0.0;0;25.671317351812338;"""6-8""";Active;0;Durchschnitt;Durchschnitt;Durchschnitt;#NV;20,01 - 40%;;15%-19%
+18-24;M;;HQ;E;Permanent;;0-2;0.5;0;64.7752219698807;0-2;Active;0;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;15,1 - 20 %;;
+31-40;M;;Gesch‰ftsbereich;A;Permanent;;"""3-5""";0.0;1;58.17134944644872;"""3-5""";Active;0;Durchschnitt;#NV;#NV;Unrated;;;10%-14%
+‹ber 60;M;;HQ;A;Permanent;24.02.2023;"""9-11""";1.0;0;51.536328948792956;0-2;Terminated;1;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;10,1 - 15 %;;
+41-50;M;;HQ;A;Permanent;;"""12-14""";999.0;1;3.6232061713423405;"""12-14""";Active;1;#NV;#NV;Unrated;#NV;;kleiner 1%;5%-9%
+41-50;F;;HQ;F;Permanent;;"""12-14""";1.0;0;1.2433188610683317;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;;10,1 - 15%;
+31-40;F;;Werk;A;Permanent;30.09.2023;"""6-8""";1.0;0;2.0033242817095847;"""3-5""";Terminated;0;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;;
+‹ber 60;M;;Werk;B;Permanent;;39-41;1.0;1;40.75373987043511;0-2;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;;;
+18-24;M;;Gesch‰ftsbereich;G;Fixed term contract;;"""3-5""";0.0;1;28.8157352174743;"""3-5""";Terminated;0;#NV;#NV;#NV;#NV;1 % - 3 %;;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""3-5""";999.0;1;23.03923957087663;"""3-5""";Active;0;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;;;
+51-60;M;;HQ;F;Permanent;;21-23;1.0;1;3.9237713990866374;"""6-8""";Dormant;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;5,1 - 10%;;10%-14%
+25-30;M;31.08.2023;HQ;E;Permanent;;0-2;1.0;1;195.54272223003846;0-2;Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;;
+51-60;M;;Werk;D;Permanent;;15-17;0.0;0;48.67148012399436;15-17;Dormant;0;Unrated;#NV;#NV;#NV;;;5%-9%
+51-60;F;;Gesch‰ftsbereich;C;Permanent;15.03.2023;15-17;0.5;0;15.526686324182316;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;;
+25-30;F;31.07.2022;HQ;A;Permanent;;"""6-8""";0.5;1;41.18773945537191;"""6-8""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;Durchschnitt;1 % - 3 %;kleiner 1%;35%-39%
+31-40;M;;HQ;B;Permanent;;"""9-11""";0.0;0;7.586515716280702;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;5,1 - 10%;;"""-50%-46%"""
+25-30;M;;Werk;D;Permanent;31.12.2023;"""9-11""";0.5;0;29.075478437026618;"""6-8""";Active;0;Durchschnitt;#NV;#NV;#NV;10,1 - 15 %;;
+31-40;M;28.02.2027;Werk;G;Permanent;;"""12-14""";999.0;1;70.95790714044328;"""3-5""";Dormant;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;10%-14%
+41-50;M;;HQ;C;Permanent;;"""12-14""";0.5;1;7.893227886508105;0-2;Active;1;#NV;Durchschnitt;Durchschnitt;‹berdurchschnitt;;;5%-9%
+51-60;M;;Werk;G;Permanent;31.12.2022;39-41;1.0;1;42.50530019213637;"""3-5""";Active;0;Durchschnitt;#NV;#NV;Durchschnitt;20,01 - 40%;3,1 - 5%;
+25-30;M;;Werk;C;Permanent;;0-2;0.5;0;182.09942411689468;0-2;Terminated;0;#NV;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;5,1 - 10%;5,1 - 10%;
+25-30;M;;Werk;G;Permanent;;"""9-11""";0.5;1;24.161127076562067;"""3-5""";Active;0;‹berdurchschnitt;#NV;Durchschnitt;#NV;20,01 - 40%;;10%-14%
+‹ber 60;M;;HQ;B;Permanent;;30-32;999.0;0;75.84467362058518;"""3-5""";Active;1;#NV;#NV;#NV;#NV;;;
+31-40;M;;Werk;A;Permanent;;"""6-8""";999.0;0;64.57766175526667;"""6-8""";Active;0;#NV;#NV;Durchschnitt;#NV;;;20%-24%
+25-30;M;;Gesch‰ftsbereich;B;Fixed term contract;;"""3-5""";0.5;0;4.106718827728706;0-2;Active;1;#NV;Durchschnitt;Durchschnitt;#NV;1 % - 3 %;kleiner 1%;15%-19%
+31-40;M;;Werk;A;Permanent;31.08.2023;"""3-5""";0.5;1;3.5248181901096194;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;;;25%-29%
+18-24;M;;Gesch‰ftsbereich;C;Permanent;;0-2;0.5;0;65.2504356716473;0-2;Active;1;#NV;Unrated;#NV;‹berdurchschnitt;kleiner 1 %;5,1 - 10%;
+41-50;M;28.02.2027;Gesch‰ftsbereich;B;Permanent;;"""12-14""";0.0;1;4.41611638136877;"""3-5""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;15,1 - 20%;20%-24%
+41-50;M;30.09.2025;Gesch‰ftsbereich;C;Permanent;;21-23;999.0;1;30.617775982319987;"""12-14""";Terminated;0;#NV;Durchschnitt;#NV;#NV;;20,1 - 40%;5%-9%
+31-40;M;;Werk;A;Permanent;;"""12-14""";999.0;1;45.375152295010565;"""6-8""";Dormant;0;#NV;#NV;#NV;‹berdurchschnitt;;;20%-24%
+51-60;M;;Gesch‰ftsbereich;B;Permanent;;21-23;999.0;1;147.37433814701043;"""12-14""";Active;0;Durchschnitt;Unrated;‹berdurchschnitt;‹berdurchschnitt;5,1 - 10%;1,0 - 3 %;
+51-60;F;;Werk;B;Fixed term contract;;24-26;0.0;0;161.33628966471042;"""3-5""";Terminated;1;Durchschnitt;#NV;Unterdurchschnitt;#NV;;kleiner 1%;5%-9%
+25-30;M;;HQ;C;Permanent;31.01.2023;0-2;0.0;1;23.65898537617631;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;10,1 - 15 %;5,1 - 10%;
+25-30;M;;Werk;D;Permanent;;0-2;1.0;0;55.96626307635468;0-2;Active;1;#NV;Unrated;‹berdurchschnitt;#NV;;5,1 - 10%;
+41-50;M;;Werk;B;Permanent;;"""12-14""";1.0;0;16.73932912821292;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;3,1 - 5%;1,0 - 3 %;20%-24%
+41-50;M;;Gesch‰ftsbereich;B;Permanent;;"""9-11""";1.0;1;7.942795641204585;"""3-5""";Active;1;Durchschnitt;#NV;Durchschnitt;#NV;;;10%-14%
+51-60;M;;Gesch‰ftsbereich;B;Fixed term contract;;33-35;999.0;0;12.05470176039433;15-17;Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;;10%-14%
+41-50;M;31.07.2025;Gesch‰ftsbereich;C;Permanent;;"""12-14""";999.0;1;15.834575631207297;"""12-14""";Active;1;#NV;Durchschnitt;#NV;Durchschnitt;;10,1 - 15%;
+51-60;F;;Gesch‰ftsbereich;D;Fixed term contract;;"""12-14""";0.0;1;20.805249352991265;"""3-5""";Terminated;1;#NV;Unterdurchschnitt;#NV;#NV;kleiner 1 %;20,1 - 40%;5%-9%
+31-40;M;31.05.2024;Werk;B;Permanent;;"""12-14""";0.5;0;63.865045888617914;"""9-11""";Dormant;1;‹berdurchschnitt;#NV;#NV;#NV;;;
+18-24;M;;Gesch‰ftsbereich;C;Fixed term contract;31.07.2022;0-2;999.0;0;21.58480740673052;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;kleiner 1 %;;
+25-30;F;;Werk;E;Permanent;;"""3-5""";1.0;1;18.260934494243298;"""3-5""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;Unterdurchschnitt;;;20%-24%
+41-50;M;;Werk;E;Fixed term contract;;"""9-11""";999.0;1;45.96284316372531;"""6-8""";Terminated;1;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;;15%-19%
+41-50;F;;Gesch‰ftsbereich;C;Permanent;;"""12-14""";1.0;0;58.85938649142853;"""12-14""";Active;1;Durchschnitt;#NV;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;;5%-9%
+‹ber 60;M;;Werk;G;Fixed term contract;;27-29;999.0;0;56.61789562496736;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;5%-9%
+51-60;M;;Werk;A;Permanent;;0-2;999.0;0;72.54852955170156;0-2;Terminated;1;Durchschnitt;#NV;#NV;#NV;;;
+51-60;M;;Werk;B;Permanent;;39-41;1.0;1;53.85934875102653;15-17;Active;1;Durchschnitt;#NV;#NV;#NV;3,1 - 5%;kleiner 1%;10%-14%
+25-30;F;;HQ;F;Fixed term contract;;0-2;0.0;1;265.22058259317254;0-2;Active;1;‹berdurchschnitt;#NV;#NV;#NV;10,1 - 15 %;;
+51-60;M;;HQ;E;Permanent;;21-23;1.0;0;12.249401975616808;"""12-14""";Dormant;1;Unrated;‹berdurchschnitt;#NV;Durchschnitt;;;15%-19%
+51-60;M;;Werk;F;Permanent;;33-35;0.0;1;8.579740762333236;"""6-8""";Terminated;0;#NV;#NV;#NV;#NV;5,1 - 10%;;
+Unter 18;M;31.08.2025;Werk;E;Permanent;31.08.2023;0-2;1.0;0;264.74326072996206;0-2;Active;0;Durchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;1,0 - 3 %;
+31-40;M;;Werk;A;Permanent;14.07.2024;"""12-14""";0.5;1;40.16772104091575;0-2;Active;0;#NV;#NV;Durchschnitt;Durchschnitt;;;15%-19%
+‹ber 60;F;;HQ;D;Permanent;;15-17;0.0;0;53.69426749876974;0-2;Active;1;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;;
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;24-26;999.0;0;192.36761464569418;0-2;Terminated;1;#NV;#NV;#NV;Unrated;40,01 - 60 %;;25%-29%
+41-50;M;;Werk;B;Fixed term contract;;"""3-5""";0.0;0;71.58571286477087;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;10%-14%
+51-60;M;30.06.2025;Werk;A;Permanent;;24-26;1.0;0;27.00390706406442;"""9-11""";Terminated;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+41-50;F;;Werk;D;Permanent;;24-26;0.0;1;36.58726559103066;"""3-5""";Active;1;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;10,1 - 15%;5%-9%
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;27-29;0.5;1;4.104168345689215;18-20;Active;1;#NV;Durchschnitt;#NV;Durchschnitt;1 % - 3 %;;5%-9%
+31-40;M;;Werk;D;Permanent;30.09.2023;15-17;1.0;1;9.202957839355905;0-2;Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;;1,0 - 3 %;5%-9%
+41-50;M;;HQ;A;Permanent;;0-2;0.0;0;40.53849610048037;0-2;Active;1;#NV;#NV;Durchschnitt;#NV;5,1 - 10%;1,0 - 3 %;
+51-60;M;;Werk;G;Permanent;;0-2;999.0;1;74.34109415200473;0-2;Terminated;1;#NV;Durchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;5,1 - 10%;
+18-24;M;;HQ;B;Fixed term contract;31.03.2024;0-2;999.0;1;26.117953801301166;0-2;Active;1;‹berdurchschnitt;#NV;Durchschnitt;#NV;;1,0 - 3 %;
+31-40;F;30.04.2025;Werk;B;Permanent;30.11.2023;0-2;0.5;0;99.72799922194116;0-2;Active;1;#NV;#NV;#NV;Unrated;;20,1 - 40%;
+51-60;M;;HQ;F;Permanent;;"""9-11""";0.0;1;187.22666825825885;"""3-5""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;;kleiner 1%;5%-9%
+41-50;F;;HQ;B;Permanent;;21-23;0.0;0;4.554529155304623;"""3-5""";Active;0;#NV;#NV;#NV;#NV;kleiner 1 %;1,0 - 3 %;
+25-30;M;;Gesch‰ftsbereich;B;Permanent;30.11.2024;"""6-8""";1.0;0;-4.041302981072256;"""3-5""";Active;0;#NV;#NV;#NV;Unrated;;;
+18-24;M;;HQ;D;Permanent;;0-2;1.0;1;268.9311669847749;0-2;Active;1;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;;
+‹ber 60;M;;Werk;A;Permanent;;33-35;1.0;0;190.8660157379783;15-17;Terminated;1;#NV;Durchschnitt;#NV;Unterdurchschnitt;10,1 - 15 %;;
+41-50;M;;Werk;F;Permanent;;24-26;1.0;0;30.334772355859688;"""9-11""";Dormant;0;#NV;‹berdurchschnitt;#NV;#NV;;;10%-14%
+25-30;M;;Gesch‰ftsbereich;E;Permanent;;0-2;999.0;0;185.18689488691297;0-2;Terminated;0;#NV;#NV;Unrated;#NV;5,1 - 10%;;
+41-50;M;;HQ;B;Permanent;;"""12-14""";0.5;0;45.68669369129332;"""12-14""";Active;0;#NV;#NV;#NV;#NV;10,1 - 15 %;;10%-14%
+51-60;M;;Werk;C;Permanent;;24-26;0.0;0;66.7605591419146;0-2;Terminated;1;#NV;Durchschnitt;#NV;Durchschnitt;3,1 - 5%;5,1 - 10%;5%-9%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.5;0;19.363841051202055;"""6-8""";Active;0;Unrated;#NV;‹berdurchschnitt;#NV;5,1 - 10%;1,0 - 3 %;"""-45%-41%"""
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";1.0;1;26.20040939574905;"""6-8""";Active;0;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;5,1 - 10%;5,1 - 10%;
+51-60;F;;Werk;D;Fixed term contract;;"""6-8""";1.0;1;47.06167685361491;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;Unrated;1 % - 3 %;3,1 - 5%;5%-9%
+41-50;M;30.09.2024;Werk;C;Permanent;;"""6-8""";0.0;0;86.08369574132752;"""3-5""";Active;0;#NV;#NV;‹berdurchschnitt;#NV;;;15%-19%
+‹ber 60;M;11.07.2025;Werk;A;Permanent;;21-23;0.0;0;157.56849114468437;0-2;Terminated;0;#NV;#NV;‹berdurchschnitt;#NV;;3,1 - 5%;
+25-30;M;;Werk;G;Permanent;;0-2;0.0;0;18.657961099493924;0-2;Active;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;;1,0 - 3 %;
+31-40;M;;Gesch‰ftsbereich;E;Permanent;31.05.2024;18-20;999.0;0;69.67276711210799;0-2;Active;0;#NV;#NV;Durchschnitt;#NV;;1,0 - 3 %;20%-24%
+41-50;M;31.12.2025;HQ;A;Permanent;;"""9-11""";0.5;0;13.808924560432857;"""3-5""";Terminated;0;Durchschnitt;#NV;#NV;Durchschnitt;;kleiner 1%;
+‹ber 60;M;;Werk;B;Permanent;;39-41;999.0;1;204.003677861506;"""3-5""";Active;1;#NV;Durchschnitt;Durchschnitt;#NV;1 % - 3 %;;
+51-60;M;;Gesch‰ftsbereich;D;Permanent;31.08.2022;36-38;0.0;1;184.36981363404834;18-20;Terminated;1;‹berdurchschnitt;Unrated;‹berdurchschnitt;#NV;3,1 - 5%;1,0 - 3 %;5%-9%
+31-40;M;;Werk;G;Permanent;;"""9-11""";1.0;0;32.044658130388896;"""9-11""";Active;1;#NV;#NV;‹berdurchschnitt;#NV;;1,0 - 3 %;10%-14%
+41-50;F;;Werk;F;Permanent;;"""12-14""";1.0;1;15.30030000744446;"""6-8""";Dormant;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;10%-14%
+41-50;M;;Gesch‰ftsbereich;E;Permanent;;0-2;0.0;1;94.26369442486491;0-2;Active;0;#NV;Unrated;Durchschnitt;‹berdurchschnitt;5,1 - 10%;3,1 - 5%;
+‹ber 60;M;;Gesch‰ftsbereich;F;Permanent;31.01.2024;18-20;0.5;0;13.384977765958105;"""9-11""";Terminated;0;#NV;Durchschnitt;#NV;#NV;;;10%-14%
+41-50;M;;HQ;A;Permanent;;18-20;0.5;1;185.09421692838814;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;;3,1 - 5%;15%-19%
+31-40;M;;Werk;C;Permanent;;"""6-8""";999.0;1;27.81698463059065;"""6-8""";Terminated;1;Durchschnitt;#NV;#NV;Durchschnitt;;;
+51-60;F;;HQ;G;Fixed term contract;;24-26;999.0;1;13.81725844313557;"""12-14""";Active;1;#NV;#NV;Unterdurchschnitt;#NV;1 % - 3 %;1,0 - 3 %;5%-9%
+‹ber 60;F;31.12.2023;Gesch‰ftsbereich;D;Permanent;;15-17;0.0;0;53.00257091189776;15-17;Terminated;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;5,1 - 10%;1,0 - 3 %;10%-14%
+31-40;M;;HQ;G;Permanent;;0-2;1.0;0;176.9771644960632;0-2;Active;1;Unrated;#NV;#NV;#NV;5,1 - 10%;;
+31-40;M;;Werk;B;Permanent;31.01.2023;"""6-8""";0.0;1;6.2502226044994345;"""3-5""";Terminated;1;#NV;#NV;#NV;#NV;kleiner 1 %;;10%-14%
+25-30;M;;Werk;A;Permanent;;0-2;1.0;1;-0.7481995744936034;0-2;Terminated;0;#NV;Durchschnitt;#NV;#NV;;kleiner 1%;
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;15-17;999.0;0;51.38644681256465;"""12-14""";Active;1;Durchschnitt;Unrated;#NV;#NV;1 % - 3 %;10,1 - 15%;15%-19%
+25-30;M;14.03.2025;Gesch‰ftsbereich;B;Permanent;31.10.2024;0-2;0.5;1;11.499880811111392;0-2;Terminated;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;
+41-50;M;;Werk;A;Permanent;;15-17;999.0;1;58.41297291733153;"""3-5""";Active;0;#NV;Unrated;#NV;#NV;1 % - 3 %;kleiner 1%;10%-14%
+41-50;M;;HQ;G;Permanent;30.09.2022;0-2;0.5;1;8.661715120871676;0-2;Active;0;Durchschnitt;#NV;Durchschnitt;#NV;20,01 - 40%;5,1 - 10%;
+25-30;F;;HQ;C;Permanent;;0-2;999.0;1;-1.296542434805442;0-2;Active;0;Durchschnitt;Durchschnitt;Durchschnitt;‹berdurchschnitt;;5,1 - 10%;
+51-60;M;;Werk;F;Permanent;;33-35;0.5;0;88.87382316784426;"""3-5""";Terminated;1;#NV;#NV;#NV;#NV;20,01 - 40%;1,0 - 3 %;10%-14%
+31-40;F;;HQ;E;Permanent;31.10.2022;15-17;1.0;0;18.19506976385663;"""12-14""";Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;5,1 - 10%;15%-19%
+25-30;M;01.06.2022;Werk;G;Permanent;31.12.2023;0-2;0.0;1;14.845587852210063;0-2;Active;1;#NV;#NV;#NV;#NV;;;
+25-30;M;;Gesch‰ftsbereich;G;Permanent;;0-2;0.5;1;189.18517608974062;0-2;Active;1;Unrated;‹berdurchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;;95%-100%
+31-40;M;;Werk;C;Permanent;;"""9-11""";1.0;1;53.86184363871967;"""9-11""";Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+41-50;M;;Werk;G;Fixed term contract;31.10.2022;"""3-5""";1.0;0;197.4443942096132;0-2;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;;5,1 - 10%;20%-24%
+31-40;M;28.02.2023;Werk;A;Permanent;;"""3-5""";999.0;0;158.51190219583643;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;20%-24%
+25-30;M;;Werk;B;Permanent;;"""6-8""";1.0;0;8.435662061135822;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;
+25-30;M;;Werk;E;Permanent;;0-2;1.0;1;116.34009532148357;0-2;Active;0;#NV;#NV;#NV;#NV;;5,1 - 10%;
+25-30;M;;Gesch‰ftsbereich;F;Permanent;31.03.2023;0-2;0.5;0;13.193693459995528;0-2;Active;0;Unrated;#NV;#NV;Durchschnitt;kleiner 1 %;;
+51-60;M;;Gesch‰ftsbereich;B;Permanent;;33-35;999.0;0;67.4850072343598;"""3-5""";Active;1;#NV;#NV;Durchschnitt;#NV;5,1 - 10%;;5%-9%
+51-60;F;;Werk;E;Permanent;30.09.2022;"""12-14""";999.0;0;36.70359683563297;"""9-11""";Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;;;5%-9%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""6-8""";999.0;0;32.13065570191098;"""6-8""";Terminated;0;‹berdurchschnitt;#NV;Durchschnitt;‹berdurchschnitt;5,1 - 10%;1,0 - 3 %;"""-10%-6%"""
+31-40;M;;Gesch‰ftsbereich;A;Permanent;;"""6-8""";1.0;1;40.59972479617391;0-2;Terminated;1;#NV;Unterdurchschnitt;Durchschnitt;#NV;;;10%-14%
+25-30;M;;Gesch‰ftsbereich;G;Permanent;30.11.2022;0-2;1.0;0;184.34809307261258;0-2;Dormant;0;Durchschnitt;Durchschnitt;#NV;#NV;kleiner 1 %;;
+31-40;F;;Werk;E;Permanent;;"""6-8""";999.0;1;130.13478438758074;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;;;25%-29%
+41-50;M;;Gesch‰ftsbereich;F;Fixed term contract;;"""12-14""";999.0;0;7.375227824535967;"""3-5""";Terminated;0;#NV;Durchschnitt;#NV;#NV;;1,0 - 3 %;
+25-30;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.5;1;55.80058553966462;0-2;Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;3,1 - 5%;15%-19%
+31-40;F;;Werk;B;Permanent;;"""12-14""";1.0;1;94.05838545534547;"""12-14""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;3,1 - 5%;5%-9%
+31-40;M;30.04.2026;Werk;B;Permanent;;"""12-14""";1.0;0;46.217218458139094;"""12-14""";Active;0;Unterdurchschnitt;#NV;#NV;Durchschnitt;;5,1 - 10%;5%-9%
+41-50;F;;Gesch‰ftsbereich;G;Permanent;;"""9-11""";0.0;0;6.387936193992358;0-2;Active;1;#NV;#NV;#NV;‹berdurchschnitt;10,1 - 15 %;3,1 - 5%;5%-9%
+18-24;F;30.04.2025;Werk;A;Permanent;14.12.2023;"""3-5""";999.0;1;260.998462466979;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;3,1 - 5%;
+31-40;M;;Werk;C;Fixed term contract;;"""12-14""";1.0;1;11.521022988858931;"""12-14""";Active;0;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;kleiner 1%;0%-4%
+31-40;M;14.03.2026;Werk;G;Fixed term contract;;15-17;0.0;1;127.29463964904552;0-2;Active;1;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;;10,1 - 15%;25%-29%
+51-60;M;;HQ;D;Permanent;;33-35;0.0;0;147.7223119383409;18-20;Terminated;0;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;60,01 - 75%;1,0 - 3 %;0%-4%
+31-40;M;;Werk;A;Permanent;;0-2;0.5;0;183.77611793432368;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+31-40;M;30.09.2023;Gesch‰ftsbereich;A;Permanent;;"""9-11""";0.0;1;43.08049627382764;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;20,01 - 40%;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;31.03.2024;15-17;0.0;1;151.766782545468;0-2;Dormant;1;Durchschnitt;#NV;Unrated;Unrated;3,1 - 5%;;5%-9%
+41-50;M;;Werk;E;Fixed term contract;31.05.2022;"""6-8""";0.0;1;4.6459503268680455;"""6-8""";Terminated;0;#NV;#NV;#NV;#NV;;5,1 - 10%;25%-29%
+18-24;M;;Gesch‰ftsbereich;B;Permanent;30.06.2022;0-2;0.0;1;43.52399180740066;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;#NV;;;
+31-40;M;;HQ;A;Permanent;;"""12-14""";0.0;0;96.28528452667581;"""3-5""";Dormant;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;10%-14%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;28.02.2025;"""12-14""";1.0;1;180.91709762218898;"""3-5""";Active;1;Durchschnitt;#NV;#NV;Durchschnitt;10,1 - 15 %;;5%-9%
+51-60;M;31.07.2024;Gesch‰ftsbereich;F;Fixed term contract;31.12.2024;"""12-14""";1.0;1;18.34302010428179;"""12-14""";Terminated;0;#NV;#NV;#NV;Durchschnitt;3,1 - 5%;;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;0-2;0.0;1;50.08150872439227;0-2;Terminated;0;#NV;#NV;‹berdurchschnitt;Unrated;kleiner 1 %;;
+41-50;F;;Werk;F;Fixed term contract;;"""3-5""";0.5;0;0.5894877366680409;"""3-5""";Active;1;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;;5,1 - 10%;
+31-40;M;;Gesch‰ftsbereich;G;Permanent;;"""6-8""";0.0;0;11.078678329979631;"""6-8""";Terminated;0;Durchschnitt;‹berdurchschnitt;Durchschnitt;Durchschnitt;;kleiner 1%;
+31-40;M;;Werk;E;Permanent;;"""12-14""";1.0;0;186.96343599377303;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;15,1 - 20 %;1,0 - 3 %;5%-9%
+‹ber 60;M;;HQ;G;Permanent;14.03.2024;15-17;1.0;0;81.44492743375581;"""3-5""";Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;Durchschnitt;;;
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;21-23;0.0;1;30.774256197476276;"""9-11""";Active;1;Durchschnitt;#NV;Unterdurchschnitt;‹berdurchschnitt;15,1 - 20 %;10,1 - 15%;5%-9%
+41-50;F;;Werk;A;Permanent;;15-17;999.0;1;49.62672184745657;"""6-8""";Active;1;#NV;#NV;#NV;‹berdurchschnitt;;;5%-9%
+31-40;M;;HQ;F;Permanent;;0-2;1.0;1;14.690990054624022;0-2;Active;0;‹berdurchschnitt;#NV;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+31-40;F;;Gesch‰ftsbereich;C;Permanent;30.06.2024;15-17;999.0;0;106.73836331577287;0-2;Active;1;#NV;#NV;#NV;#NV;20,01 - 40%;1,0 - 3 %;15%-19%
+51-60;F;;Gesch‰ftsbereich;C;Permanent;;30-32;999.0;0;6.239822120942863;"""12-14""";Dormant;1;‹berdurchschnitt;#NV;#NV;Durchschnitt;15,1 - 20 %;;0%-4%
+41-50;M;;Werk;B;Permanent;;15-17;0.5;0;29.99771735278246;15-17;Terminated;1;Durchschnitt;Durchschnitt;#NV;#NV;;1,0 - 3 %;5%-9%
+31-40;M;;Gesch‰ftsbereich;D;Permanent;19.06.2024;21-23;1.0;1;151.18356666057625;"""3-5""";Active;0;#NV;#NV;#NV;#NV;3,1 - 5%;;5%-9%
+31-40;M;;HQ;F;Permanent;;0-2;0.0;1;27.20631744559045;0-2;Active;0;‹berdurchschnitt;Unrated;#NV;#NV;15,1 - 20 %;1,0 - 3 %;
+‹ber 60;M;;Gesch‰ftsbereich;F;Fixed term contract;;36-38;999.0;0;83.03107177708166;18-20;Terminated;1;‹berdurchschnitt;Unterdurchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+25-30;F;;HQ;C;Permanent;;"""9-11""";0.0;1;37.01352365466472;"""3-5""";Active;0;Unterdurchschnitt;#NV;Durchschnitt;#NV;10,1 - 15 %;;
+‹ber 60;M;;Werk;B;Permanent;31.03.2024;18-20;999.0;1;191.3350016922198;"""3-5""";Active;1;Unterdurchschnitt;Unrated;#NV;‹berdurchschnitt;1 % - 3 %;;
+51-60;F;;Werk;D;Permanent;30.09.2024;24-26;999.0;0;191.8336977437456;0-2;Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;15,1 - 20%;15%-19%
+31-40;F;;Gesch‰ftsbereich;A;Permanent;;"""9-11""";0.5;0;8.294331402541413;"""9-11""";Dormant;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;5%-9%
+‹ber 60;M;;Werk;B;Fixed term contract;14.10.2024;30-32;0.5;1;44.0458148922754;0-2;Terminated;0;Durchschnitt;Unterdurchschnitt;‹berdurchschnitt;#NV;3,1 - 5%;;
+41-50;M;;Werk;C;Fixed term contract;;27-29;0.5;0;80.00207129717703;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;;5%-9%
+51-60;M;31.01.2024;Gesch‰ftsbereich;B;Permanent;;"""12-14""";999.0;1;25.357405256321822;"""12-14""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;3,1 - 5%;10%-14%
+31-40;M;;Werk;A;Fixed term contract;;"""6-8""";0.0;0;8.389490727889882;"""6-8""";Active;1;#NV;#NV;Durchschnitt;Durchschnitt;;15,1 - 20%;20%-24%
+51-60;M;30.09.2022;Werk;D;Permanent;;24-26;0.0;0;12.12333667662698;"""12-14""";Active;0;#NV;#NV;#NV;#NV;15,1 - 20 %;;5%-9%
+51-60;M;;Werk;E;Permanent;;36-38;0.5;1;68.00148657221808;"""12-14""";Active;1;#NV;#NV;#NV;#NV;;kleiner 1%;10%-14%
+31-40;M;;Werk;B;Permanent;12.07.2024;"""3-5""";0.5;1;15.351067822309405;"""3-5""";Dormant;0;#NV;#NV;#NV;Unrated;3,1 - 5%;1,0 - 3 %;10%-14%
+‹ber 60;F;;Gesch‰ftsbereich;A;Fixed term contract;;39-41;1.0;0;43.91523629183486;"""3-5""";Active;0;Unrated;#NV;#NV;Durchschnitt;;;
+51-60;M;30.09.2025;Werk;E;Fixed term contract;12.10.2022;27-29;0.5;0;3.3480284659375337;"""3-5""";Terminated;1;#NV;#NV;Durchschnitt;#NV;;1,0 - 3 %;5%-9%
+25-30;F;;Gesch‰ftsbereich;C;Permanent;14.10.2024;"""3-5""";0.5;1;52.18795812014365;"""3-5""";Terminated;1;#NV;Durchschnitt;‹berdurchschnitt;#NV;20,01 - 40%;;20%-24%
+51-60;F;30.09.2024;Gesch‰ftsbereich;B;Permanent;;30-32;0.5;1;64.0511769392853;0-2;Active;1;#NV;#NV;‹berdurchschnitt;#NV;;;5%-9%
+31-40;M;;Werk;F;Permanent;;"""3-5""";999.0;0;10.40855810627799;"""3-5""";Dormant;0;#NV;#NV;#NV;‹berdurchschnitt;5,1 - 10%;1,0 - 3 %;
+‹ber 60;M;;Gesch‰ftsbereich;F;Fixed term contract;;21-23;999.0;1;42.70630822361697;"""3-5""";Active;1;#NV;Durchschnitt;#NV;Unrated;;kleiner 1%;
+‹ber 60;F;31.07.2022;Werk;E;Permanent;;42-44;0.0;1;39.5573373124725;18-20;Dormant;0;#NV;#NV;‹berdurchschnitt;#NV;kleiner 1 %;1,0 - 3 %;
+31-40;M;28.02.2023;Gesch‰ftsbereich;E;Permanent;;"""9-11""";0.5;1;22.42101777918889;"""6-8""";Terminated;1;#NV;Durchschnitt;#NV;Durchschnitt;;;15%-19%
+51-60;F;31.01.2025;HQ;D;Permanent;;27-29;999.0;0;77.51780681054436;"""3-5""";Terminated;1;#NV;#NV;#NV;#NV;;;5%-9%
+51-60;M;;Werk;D;Permanent;;18-20;0.5;0;20.63818097376592;"""3-5""";Active;1;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;3,1 - 5%;3,1 - 5%;5%-9%
+31-40;F;;HQ;G;Permanent;;"""6-8""";0.0;1;119.52544664780642;"""3-5""";Active;0;#NV;Durchschnitt;Unrated;#NV;5,1 - 10%;;10%-14%
+41-50;F;;Werk;D;Fixed term contract;;27-29;0.0;0;13.172733116713502;"""3-5""";Active;1;#NV;Durchschnitt;#NV;Durchschnitt;5,1 - 10%;;5%-9%
+18-24;M;;Werk;A;Permanent;15.07.2024;0-2;0.5;1;261.0482804378384;0-2;Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;kleiner 1 %;;
+41-50;M;;Gesch‰ftsbereich;E;Permanent;;24-26;0.0;0;191.61142123403533;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;Durchschnitt;;20,1 - 40%;5%-9%
+51-60;M;;Werk;F;Permanent;20.12.2024;"""6-8""";0.5;1;14.291010800145127;"""6-8""";Active;0;#NV;Durchschnitt;#NV;Unterdurchschnitt;;1,0 - 3 %;5%-9%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";999.0;1;11.421871745426108;0-2;Terminated;1;Durchschnitt;#NV;‹berdurchschnitt;‹berdurchschnitt;;;15%-19%
+51-60;M;;Gesch‰ftsbereich;D;Permanent;;39-41;0.0;0;58.852636092336006;18-20;Active;1;Durchschnitt;#NV;#NV;Unrated;20,01 - 40%;;5%-9%
+Unter 18;M;;Werk;D;Permanent;;0-2;0.5;1;261.62680642413545;0-2;Terminated;0;#NV;#NV;Unrated;‹berdurchschnitt;;;
+31-40;M;;Werk;E;Fixed term contract;;"""6-8""";1.0;0;5.852043195666227;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;;"""-30%-26%"""
+51-60;F;;Werk;A;Permanent;;39-41;0.0;1;50.367458515072876;15-17;Terminated;1;Durchschnitt;#NV;#NV;Durchschnitt;;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;C;Fixed term contract;;"""12-14""";0.0;0;14.370986594408679;"""12-14""";Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;Durchschnitt;1 % - 3 %;;5%-9%
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;"""9-11""";999.0;0;139.86403784021132;"""6-8""";Active;1;#NV;#NV;#NV;#NV;;;15%-19%
+51-60;M;31.08.2024;Gesch‰ftsbereich;B;Permanent;31.05.2023;30-32;0.0;1;68.95322686820298;"""3-5""";Dormant;1;‹berdurchschnitt;#NV;‹berdurchschnitt;‹berdurchschnitt;;1,0 - 3 %;5%-9%
+41-50;M;;Gesch‰ftsbereich;E;Permanent;;0-2;999.0;0;9.91907845464537;0-2;Terminated;0;Unrated;#NV;#NV;#NV;5,1 - 10%;1,0 - 3 %;
+51-60;F;;HQ;A;Permanent;;"""6-8""";999.0;1;41.849090169253124;"""3-5""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;;;
+31-40;M;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";1.0;1;29.45792986931572;0-2;Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;Unrated;1 % - 3 %;;10%-14%
+41-50;M;;Gesch‰ftsbereich;C;Fixed term contract;28.02.2025;"""3-5""";0.0;0;156.00017195026186;0-2;Terminated;0;#NV;Durchschnitt;Durchschnitt;#NV;;10,1 - 15%;
+51-60;M;;Werk;F;Permanent;;30-32;1.0;0;82.68935321166607;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;5%-9%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.5;0;176.77355605366952;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;kleiner 1%;5%-9%
+‹ber 60;M;;Werk;E;Permanent;;39-41;0.5;1;29.531645330953342;15-17;Active;1;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;;
+51-60;M;30.06.2025;Werk;A;Permanent;;33-35;0.5;0;6.763658372013014;18-20;Active;1;‹berdurchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;5,1 - 10%;0%-4%
+31-40;M;;Werk;E;Fixed term contract;;"""12-14""";1.0;0;3.853637277039843;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;;1,0 - 3 %;
+51-60;F;29.02.2024;Gesch‰ftsbereich;G;Permanent;;24-26;1.0;1;9.983458681202737;18-20;Terminated;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;5,1 - 10%;5%-9%
+‹ber 60;M;;HQ;D;Fixed term contract;;39-41;0.0;1;109.33888567915933;"""3-5""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;kleiner 1 %;kleiner 1%;
+51-60;M;;Werk;C;Permanent;;33-35;0.0;0;57.467340077163485;0-2;Active;1;‹berdurchschnitt;#NV;Durchschnitt;Durchschnitt;1 % - 3 %;;5%-9%
+31-40;M;;Werk;A;Permanent;;"""12-14""";0.0;1;67.71788591462848;0-2;Terminated;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;kleiner 1 %;;15%-19%
+51-60;M;30.11.2025;Werk;A;Permanent;31.10.2022;27-29;1.0;1;8.43148040718576;0-2;Active;0;#NV;Unrated;#NV;#NV;;;10%-14%
+41-50;M;;Werk;D;Permanent;31.12.2022;18-20;0.5;1;13.78063433239068;18-20;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;10,1 - 15 %;;5%-9%
+‹ber 60;M;;Werk;G;Permanent;;18-20;1.0;0;158.79079226460786;0-2;Terminated;1;#NV;#NV;#NV;#NV;10,1 - 15 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;G;Permanent;;21-23;999.0;1;103.09771227435954;"""3-5""";Active;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;;;5%-9%
+51-60;F;;Werk;E;Fixed term contract;;18-20;999.0;1;95.6952668592539;"""9-11""";Active;0;#NV;#NV;#NV;#NV;;10,1 - 15%;10%-14%
+41-50;M;;Werk;D;Permanent;;21-23;1.0;0;27.412215118070534;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;20,01 - 40%;kleiner 1%;
+‹ber 60;M;;Gesch‰ftsbereich;D;Permanent;;33-35;1.0;0;155.67781049433006;"""3-5""";Terminated;0;‹berdurchschnitt;#NV;#NV;#NV;;3,1 - 5%;
+25-30;F;;HQ;B;Permanent;;"""12-14""";999.0;0;147.4417456377893;"""9-11""";Terminated;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;;kleiner 1%;20%-24%
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;0-2;0.0;0;9.93294379627806;0-2;Active;1;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;Durchschnitt;20,01 - 40%;;
+25-30;F;31.03.2024;Werk;B;Permanent;;"""3-5""";999.0;0;56.31603358448079;"""3-5""";Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;;5%-9%
+31-40;M;;Werk;F;Fixed term contract;;"""6-8""";0.0;0;67.90308573531463;"""6-8""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;1 % - 3 %;1,0 - 3 %;5%-9%
+51-60;M;;Werk;E;Permanent;;27-29;0.5;1;52.675899399374444;"""3-5""";Active;1;#NV;#NV;#NV;Durchschnitt;10,1 - 15 %;;5%-9%
+31-40;M;;HQ;G;Permanent;;"""6-8""";1.0;0;99.962452123461;0-2;Active;1;#NV;Durchschnitt;#NV;#NV;;;10%-14%
+41-50;M;;HQ;E;Permanent;;"""6-8""";1.0;1;10.31788030834539;0-2;Active;1;#NV;#NV;‹berdurchschnitt;#NV;;;25%-29%
+51-60;M;;Werk;C;Permanent;;"""12-14""";0.0;0;11.265259280024253;"""9-11""";Active;1;Durchschnitt;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;5%-9%
+25-30;M;;Werk;G;Permanent;30.04.2025;"""9-11""";0.5;1;72.48076586733076;0-2;Terminated;1;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;30%-34%
+31-40;M;;Werk;D;Fixed term contract;30.06.2023;0-2;999.0;1;198.52077397537857;0-2;Active;0;Unrated;#NV;#NV;#NV;;kleiner 1%;
+25-30;F;31.08.2022;Gesch‰ftsbereich;A;Permanent;;"""3-5""";999.0;0;55.13426686393243;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+51-60;M;;HQ;D;Permanent;;0-2;0.0;1;199.18580519813477;0-2;Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;20,1 - 40%;
+31-40;M;;Gesch‰ftsbereich;B;Permanent;14.03.2025;15-17;0.5;0;18.868254486368045;"""6-8""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;1,0 - 3 %;10%-14%
+25-30;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";0.5;0;16.941018002169987;0-2;Active;0;#NV;#NV;#NV;#NV;;1,0 - 3 %;25%-29%
+25-30;M;;Werk;C;Fixed term contract;;0-2;0.0;1;64.76166875913492;0-2;Terminated;0;#NV;#NV;#NV;#NV;;1,0 - 3 %;
+31-40;M;;Werk;G;Permanent;;"""3-5""";1.0;0;9.298896711447389;"""3-5""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+31-40;M;;Werk;F;Permanent;;"""3-5""";1.0;1;9.242369872945067;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;;1,0 - 3 %;25%-29%
+18-24;M;;Werk;D;Permanent;;0-2;0.5;0;262.3346838728449;0-2;Active;1;#NV;Durchschnitt;#NV;‹berdurchschnitt;kleiner 1 %;5,1 - 10%;
+51-60;M;;Werk;A;Permanent;;33-35;1.0;0;203.00792111619444;"""3-5""";Active;1;#NV;#NV;‹berdurchschnitt;Unrated;;;
+41-50;F;;Werk;G;Permanent;;"""9-11""";999.0;0;19.715313527313697;"""3-5""";Active;1;Durchschnitt;‹berdurchschnitt;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;15%-19%
+51-60;M;;Werk;B;Permanent;;24-26;0.0;1;21.991453209990883;"""9-11""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;kleiner 1%;5%-9%
+51-60;M;14.05.2025;Werk;A;Fixed term contract;;"""3-5""";999.0;1;12.646320879549545;"""3-5""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;3,1 - 5%;5%-9%
+18-24;M;;Gesch‰ftsbereich;E;Permanent;;"""3-5""";999.0;1;83.68782322974488;0-2;Active;1;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;;5,1 - 10%;70%-74%
+41-50;M;;Gesch‰ftsbereich;B;Fixed term contract;;21-23;1.0;0;33.78497430019273;0-2;Terminated;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;1 % - 3 %;;10%-14%
+18-24;M;;Werk;G;Permanent;31.12.2024;"""3-5""";999.0;1;25.877569054686077;"""3-5""";Active;0;#NV;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;3,1 - 5%;;
+31-40;F;;Werk;C;Fixed term contract;28.02.2025;"""6-8""";1.0;0;19.673211096635782;"""6-8""";Active;0;Durchschnitt;#NV;#NV;#NV;20,01 - 40%;;
+41-50;M;;Werk;A;Permanent;01.06.2022;0-2;0.5;0;8.997544642263152;0-2;Active;0;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;kleiner 1 %;3,1 - 5%;
+25-30;M;;HQ;D;Permanent;31.12.2022;"""3-5""";0.5;1;6.612337148899092;0-2;Active;0;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;5,1 - 10%;;
+41-50;M;;HQ;C;Permanent;30.06.2022;"""12-14""";0.5;0;21.056639981262094;"""9-11""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;5,1 - 10%;15%-19%
+41-50;M;;Werk;D;Permanent;;21-23;1.0;0;139.41137409296937;"""12-14""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;3,1 - 5%;1,0 - 3 %;5%-9%
+31-40;M;31.07.2025;Werk;F;Permanent;;15-17;0.5;1;103.46641577969935;"""6-8""";Active;1;‹berdurchschnitt;#NV;#NV;#NV;;;15%-19%
+25-30;M;;Werk;C;Permanent;;"""6-8""";999.0;1;30.86251221096159;"""6-8""";Active;0;#NV;Durchschnitt;Durchschnitt;#NV;;1,0 - 3 %;
+‹ber 60;M;31.07.2024;HQ;B;Permanent;;33-35;0.0;1;115.58212383166871;"""3-5""";Terminated;0;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;3,1 - 5%;
+41-50;M;;Werk;C;Fixed term contract;;24-26;0.5;1;119.14873386294303;"""3-5""";Terminated;0;‹berdurchschnitt;#NV;#NV;#NV;;;
+18-24;M;31.08.2023;Werk;A;Permanent;;0-2;0.0;1;64.97625886726819;0-2;Active;1;‹berdurchschnitt;#NV;#NV;#NV;5,1 - 10%;;
+31-40;M;;HQ;C;Permanent;;"""12-14""";999.0;1;164.57729172744033;0-2;Terminated;1;#NV;#NV;#NV;‹berdurchschnitt;;5,1 - 10%;20%-24%
+25-30;M;30.11.2023;HQ;A;Permanent;29.08.2022;"""6-8""";999.0;1;151.00167959512092;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;Durchschnitt;1 % - 3 %;3,1 - 5%;15%-19%
+‹ber 60;M;;HQ;G;Permanent;;33-35;999.0;1;74.73786856501538;0-2;Dormant;1;#NV;‹berdurchschnitt;Unrated;#NV;1 % - 3 %;;
+31-40;M;;HQ;C;Permanent;;"""6-8""";0.5;0;11.030967908742333;"""3-5""";Terminated;1;#NV;Durchschnitt;#NV;#NV;;;15%-19%
+25-30;M;;HQ;F;Permanent;;"""3-5""";999.0;1;3.4863446201045742;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;
+51-60;M;;Werk;D;Permanent;;24-26;0.5;0;52.30572350587516;0-2;Terminated;1;#NV;Durchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;5%-9%
+25-30;M;;Werk;E;Permanent;14.10.2024;0-2;1.0;0;62.88411820972931;0-2;Terminated;0;Durchschnitt;#NV;#NV;Durchschnitt;3,1 - 5%;5,1 - 10%;
+18-24;M;31.03.2025;Werk;A;Permanent;31.12.2024;"""3-5""";999.0;1;260.92942600855093;0-2;Active;0;Unterdurchschnitt;‹berdurchschnitt;Unrated;#NV;5,1 - 10%;1,0 - 3 %;
+41-50;M;;Werk;C;Permanent;31.10.2024;21-23;0.5;0;196.50869891446632;0-2;Dormant;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;3,1 - 5%;5%-9%
+51-60;M;;Werk;B;Fixed term contract;;33-35;1.0;0;40.28646658654324;0-2;Terminated;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;
+31-40;M;;Werk;G;Permanent;;0-2;1.0;0;53.44856597955654;0-2;Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;3,1 - 5%;5,1 - 10%;
+41-50;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";0.0;0;14.029513681824673;"""6-8""";Active;0;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+51-60;M;31.05.2025;Gesch‰ftsbereich;D;Fixed term contract;07.07.2022;36-38;0.0;0;5.725058626579989;18-20;Active;1;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;
+18-24;M;;Gesch‰ftsbereich;E;Fixed term contract;31.12.2024;0-2;999.0;1;-0.4815493524710721;0-2;Terminated;0;#NV;#NV;#NV;#NV;;;
+25-30;F;30.04.2024;HQ;C;Permanent;;0-2;1.0;0;23.407586320755428;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;5,1 - 10%;10,1 - 15%;
+41-50;M;15.03.2023;HQ;C;Permanent;;18-20;0.5;0;159.22314310839488;"""9-11""";Active;0;#NV;#NV;#NV;Durchschnitt;;10,1 - 15%;20%-24%
+41-50;M;;Gesch‰ftsbereich;G;Permanent;;15-17;999.0;1;49.85582978152173;"""6-8""";Active;1;#NV;Durchschnitt;#NV;#NV;kleiner 1 %;;10%-14%
+‹ber 60;M;;Gesch‰ftsbereich;B;Fixed term contract;21.07.2024;39-41;0.5;1;181.1973508296924;0-2;Active;1;Unrated;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+31-40;M;;HQ;D;Permanent;;"""6-8""";999.0;1;16.40464193932355;0-2;Active;0;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;3,1 - 5%;5,1 - 10%;20%-24%
+31-40;F;;Werk;B;Permanent;;"""3-5""";0.5;0;27.588370803826045;"""3-5""";Active;0;Durchschnitt;#NV;‹berdurchschnitt;Durchschnitt;1 % - 3 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;"""3-5""";0.0;0;6.55475922937644;"""3-5""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;3,1 - 5%;1,0 - 3 %;
+41-50;M;;HQ;E;Permanent;;"""9-11""";1.0;1;11.147360196378392;"""9-11""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;;5%-9%
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;"""12-14""";0.5;0;49.070604946198486;0-2;Active;0;Unrated;‹berdurchschnitt;#NV;#NV;;;10%-14%
+18-24;F;;Gesch‰ftsbereich;D;Fixed term contract;;0-2;0.5;1;6.49185495612726;"""3-5""";Dormant;0;#NV;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;
+31-40;M;;Werk;D;Permanent;31.12.2024;"""12-14""";0.5;0;84.04123840688514;0-2;Terminated;1;#NV;Unrated;Unrated;#NV;;;15%-19%
+41-50;M;;HQ;A;Permanent;31.05.2024;18-20;0.5;1;154.19072431740665;"""3-5""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;20,01 - 40%;;
+25-30;F;;Werk;D;Fixed term contract;;"""3-5""";1.0;1;103.80252144754829;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;10,1 - 15 %;1,0 - 3 %;10%-14%
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;"""6-8""";0.5;1;8.888161106204809;"""6-8""";Terminated;1;#NV;‹berdurchschnitt;#NV;#NV;3,1 - 5%;;5%-9%
+51-60;M;;Gesch‰ftsbereich;D;Permanent;;21-23;1.0;0;164.9722520873181;0-2;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;3,1 - 5%;1,0 - 3 %;"""-10%-6%"""
+51-60;M;;Werk;C;Permanent;;36-38;1.0;1;10.889044318111612;18-20;Active;1;Durchschnitt;#NV;#NV;#NV;;5,1 - 10%;10%-14%
+18-24;F;;HQ;B;Permanent;;"""3-5""";0.0;1;83.72034587237371;"""3-5""";Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+41-50;M;;HQ;C;Permanent;;"""12-14""";999.0;0;26.842032239844222;0-2;Active;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;;;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;28.02.2023;0-2;0.5;1;122.3364411038348;0-2;Active;0;#NV;Unrated;#NV;Durchschnitt;1 % - 3 %;10,1 - 15%;
+41-50;F;30.04.2024;Gesch‰ftsbereich;D;Fixed term contract;;"""12-14""";999.0;0;54.486806864538096;"""9-11""";Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;Unterdurchschnitt;15,1 - 20 %;;5%-9%
+51-60;M;;Werk;G;Permanent;31.10.2024;36-38;999.0;0;195.80741968638304;"""3-5""";Terminated;1;#NV;#NV;#NV;#NV;;;5%-9%
+31-40;F;30.04.2025;Gesch‰ftsbereich;D;Permanent;;0-2;1.0;0;180.64893501422782;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;kleiner 1 %;;
+41-50;M;;Gesch‰ftsbereich;F;Permanent;;27-29;0.5;1;159.69143889562457;"""3-5""";Active;1;Durchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;5,1 - 10%;5%-9%
+41-50;M;31.01.2024;HQ;F;Permanent;;"""12-14""";0.5;1;4.90953690965144;"""12-14""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;;;
+31-40;M;31.03.2025;Werk;D;Permanent;;"""6-8""";0.0;1;14.056508569299348;"""6-8""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;;"""-10%-6%"""
+25-30;M;;Gesch‰ftsbereich;D;Permanent;;0-2;999.0;0;24.773994311698885;0-2;Active;0;#NV;Durchschnitt;#NV;Durchschnitt;;1,0 - 3 %;
+31-40;F;;Werk;F;Permanent;;"""3-5""";0.5;1;17.454469610303295;0-2;Terminated;1;#NV;#NV;Durchschnitt;#NV;5,1 - 10%;3,1 - 5%;25%-29%
+31-40;F;;HQ;B;Permanent;;"""6-8""";0.5;1;87.3350503177755;0-2;Terminated;1;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;15%-19%
+41-50;M;;Gesch‰ftsbereich;F;Permanent;;0-2;0.5;1;28.526395183756026;0-2;Active;0;#NV;‹berdurchschnitt;Unrated;Durchschnitt;;;
+41-50;M;27.09.2024;HQ;B;Permanent;08.02.2023;"""6-8""";1.0;1;33.21906990549449;0-2;Active;0;#NV;#NV;#NV;#NV;;;20%-24%
+51-60;M;;Werk;E;Permanent;;33-35;999.0;1;184.38648407041842;15-17;Terminated;1;#NV;#NV;#NV;Unrated;;;5%-9%
+31-40;M;;HQ;B;Permanent;31.12.2023;"""6-8""";0.0;0;22.804463806237607;"""6-8""";Active;0;Unrated;‹berdurchschnitt;#NV;#NV;;;10%-14%
+‹ber 60;F;;HQ;C;Fixed term contract;;33-35;1.0;1;159.1975484270577;0-2;Active;1;Durchschnitt;#NV;Durchschnitt;‹berdurchschnitt;1 % - 3 %;;
+18-24;M;;HQ;A;Permanent;30.09.2023;0-2;0.0;0;13.252866393108663;0-2;Terminated;0;#NV;Durchschnitt;#NV;#NV;;;
+41-50;M;;Werk;D;Permanent;;24-26;999.0;0;119.66229047919258;0-2;Active;0;Durchschnitt;Unrated;Durchschnitt;#NV;;;60%-64%
+31-40;M;;Werk;A;Permanent;;18-20;0.5;1;36.86858751239068;15-17;Active;1;‹berdurchschnitt;Unrated;‹berdurchschnitt;#NV;5,1 - 10%;kleiner 1%;20%-24%
+31-40;M;30.09.2022;HQ;D;Permanent;31.08.2024;15-17;1.0;1;29.95844233235101;"""6-8""";Active;0;Unterdurchschnitt;#NV;Durchschnitt;Durchschnitt;3,1 - 5%;;10%-14%
+31-40;M;29.02.2024;HQ;G;Fixed term contract;;18-20;0.0;1;62.10969606616996;"""6-8""";Terminated;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;;;20%-24%
+51-60;F;;Gesch‰ftsbereich;C;Permanent;;27-29;1.0;0;200.74533545630095;0-2;Terminated;1;#NV;Unrated;‹berdurchschnitt;Durchschnitt;;kleiner 1%;5%-9%
+25-30;M;02.09.2023;Werk;A;Permanent;;"""9-11""";999.0;1;21.08640180330672;"""3-5""";Active;0;Durchschnitt;#NV;#NV;Durchschnitt;;;15%-19%
+‹ber 60;F;;Werk;F;Permanent;29.02.2024;27-29;999.0;0;40.38467220244522;0-2;Active;1;#NV;#NV;Unrated;#NV;kleiner 1 %;3,1 - 5%;
+51-60;F;;Gesch‰ftsbereich;A;Permanent;28.02.2023;33-35;0.5;0;80.83882634005093;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;#NV;3,1 - 5%;;5%-9%
+‹ber 60;F;;HQ;E;Permanent;;33-35;0.0;0;198.79211692076868;0-2;Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;10,1 - 15%;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;"""12-14""";1.0;1;7.702699737165187;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;3,1 - 5%;
+‹ber 60;M;;Werk;B;Permanent;;"""12-14""";0.0;0;182.52392266804702;"""3-5""";Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;kleiner 1 %;;
+18-24;M;;Gesch‰ftsbereich;B;Permanent;;"""6-8""";0.5;0;168.8817970915564;"""3-5""";Active;0;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;
+‹ber 60;M;;Werk;G;Fixed term contract;30.04.2022;45-47;1.0;0;57.50113396568707;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;5,1 - 10%;3,1 - 5%;
+25-30;M;;Werk;A;Permanent;;0-2;999.0;1;200.19588533221474;0-2;Active;0;#NV;Unrated;Durchschnitt;#NV;;3,1 - 5%;
+41-50;M;;Werk;G;Permanent;;0-2;0.5;1;61.02054554390543;0-2;Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+41-50;M;;HQ;C;Permanent;;"""12-14""";0.0;1;69.73690697734946;"""12-14""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;5%-9%
+‹ber 60;M;31.12.2024;Werk;E;Permanent;;36-38;0.0;1;21.971650286512713;18-20;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;kleiner 1 %;3,1 - 5%;
+31-40;F;;Werk;F;Fixed term contract;;"""12-14""";0.0;0;203.43407581320298;"""3-5""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;10%-14%
+‹ber 60;M;;Werk;G;Permanent;;45-47;0.5;0;56.494362460529004;0-2;Terminated;0;#NV;#NV;Unrated;#NV;;;
+31-40;M;;Werk;A;Permanent;;"""3-5""";999.0;1;13.185396706119063;"""3-5""";Terminated;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;;15,1 - 20%;5%-9%
+31-40;M;30.04.2025;Werk;E;Permanent;;"""6-8""";1.0;1;11.234156819931084;"""6-8""";Active;1;#NV;#NV;#NV;Durchschnitt;;3,1 - 5%;15%-19%
+25-30;M;;Gesch‰ftsbereich;E;Permanent;;0-2;999.0;0;141.9162851205301;0-2;Dormant;1;#NV;#NV;#NV;#NV;;;
+31-40;M;;Werk;C;Fixed term contract;;"""6-8""";1.0;0;74.90621615278684;"""3-5""";Active;0;‹berdurchschnitt;#NV;Durchschnitt;#NV;1 % - 3 %;10,1 - 15%;
+41-50;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.5;1;17.16784270882883;0-2;Active;1;#NV;‹berdurchschnitt;#NV;Unrated;20,01 - 40%;;
+41-50;M;31.08.2025;Werk;E;Permanent;;24-26;0.5;0;70.92335369349505;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;;;5%-9%
+41-50;F;;HQ;B;Fixed term contract;;"""3-5""";1.0;1;20.54281106163677;"""3-5""";Active;0;‹berdurchschnitt;Unterdurchschnitt;#NV;#NV;10,1 - 15 %;;
+‹ber 60;M;;HQ;B;Permanent;;33-35;0.0;1;180.9735297996198;"""3-5""";Active;1;Durchschnitt;‹berdurchschnitt;Unterdurchschnitt;‹berdurchschnitt;;;5%-9%
+41-50;M;;Werk;F;Permanent;31.08.2025;0-2;1.0;1;54.78007001156958;0-2;Active;0;#NV;#NV;Durchschnitt;Durchschnitt;1 % - 3 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;0-2;0.0;0;13.424425331290642;0-2;Active;0;#NV;#NV;#NV;Unrated;3,1 - 5%;1,0 - 3 %;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""12-14""";1.0;0;16.931090361060996;"""3-5""";Dormant;0;Durchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;
+18-24;F;;Werk;A;Fixed term contract;;0-2;0.5;0;260.12531331832776;0-2;Active;1;‹berdurchschnitt;#NV;#NV;Durchschnitt;;;
+41-50;M;;Werk;G;Permanent;;"""6-8""";0.0;1;164.43114207813485;"""3-5""";Active;1;‹berdurchschnitt;Unrated;#NV;‹berdurchschnitt;3,1 - 5%;;20%-24%
+41-50;F;31.05.2025;HQ;E;Permanent;;"""9-11""";1.0;1;99.04675731802335;"""3-5""";Active;0;#NV;Unrated;#NV;#NV;5,1 - 10%;20,1 - 40%;
+18-24;M;30.09.2023;Werk;D;Permanent;30.11.2022;0-2;0.0;1;23.267517257564037;0-2;Active;0;Durchschnitt;#NV;#NV;Durchschnitt;kleiner 1 %;;
+51-60;M;;HQ;F;Fixed term contract;31.07.2024;21-23;0.5;1;188.41746053410293;0-2;Dormant;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;5%-9%
+25-30;M;;Werk;G;Permanent;;"""3-5""";0.0;1;57.92149305078218;0-2;Dormant;0;#NV;Durchschnitt;#NV;Durchschnitt;1 % - 3 %;;
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;0-2;1.0;1;41.60631468878154;0-2;Terminated;0;#NV;#NV;#NV;#NV;40,01 - 60 %;;
+18-24;M;;HQ;A;Permanent;31.03.2025;"""6-8""";0.0;1;57.83709826456109;"""3-5""";Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;;kleiner 1%;20%-24%
+25-30;M;17.02.2025;Gesch‰ftsbereich;E;Permanent;;0-2;999.0;0;130.3636525280451;0-2;Active;1;Unrated;‹berdurchschnitt;#NV;Durchschnitt;;1,0 - 3 %;
+25-30;M;;Werk;B;Permanent;;"""3-5""";0.5;0;-1.5461166101506514;"""3-5""";Active;0;#NV;Durchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;;
+51-60;M;;Werk;B;Permanent;;33-35;1.0;1;119.23144342144492;15-17;Active;1;#NV;#NV;‹berdurchschnitt;#NV;;5,1 - 10%;5%-9%
+51-60;M;;HQ;E;Permanent;;36-38;999.0;1;45.119372428631756;18-20;Terminated;1;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;40,1 - 60%;"""-5%-1%"""
+‹ber 60;M;;Werk;A;Permanent;;39-41;0.5;1;138.52746980532027;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;;;
+18-24;M;;Werk;C;Permanent;;"""3-5""";999.0;1;266.0040998627261;"""3-5""";Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;;20%-24%
+51-60;F;;Gesch‰ftsbereich;D;Permanent;;36-38;1.0;1;24.1772460746246;"""3-5""";Terminated;1;Durchschnitt;#NV;Durchschnitt;Durchschnitt;;1,0 - 3 %;5%-9%
+31-40;F;30.09.2026;Werk;E;Permanent;;"""6-8""";0.5;0;64.01519366910829;"""6-8""";Active;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;;kleiner 1%;20%-24%
+51-60;M;;HQ;A;Permanent;;27-29;999.0;1;26.814680094600263;0-2;Active;0;Unterdurchschnitt;Durchschnitt;#NV;#NV;1 % - 3 %;;10%-14%
+31-40;M;;Werk;A;Fixed term contract;;"""9-11""";0.0;0;31.974622878508217;"""9-11""";Dormant;1;#NV;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;30%-34%
+41-50;F;;Werk;F;Permanent;;"""12-14""";0.0;1;98.41952084056639;"""3-5""";Terminated;0;‹berdurchschnitt;#NV;Durchschnitt;‹berdurchschnitt;15,1 - 20 %;5,1 - 10%;25%-29%
+31-40;M;;Werk;F;Permanent;;15-17;1.0;0;11.405876851228674;"""3-5""";Active;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;kleiner 1 %;1,0 - 3 %;10%-14%
+25-30;M;;Gesch‰ftsbereich;F;Permanent;;0-2;999.0;0;19.288900297338323;0-2;Active;1;#NV;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;
+25-30;M;;Gesch‰ftsbereich;F;Permanent;31.01.2024;"""9-11""";0.0;1;118.87904580509779;"""3-5""";Active;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;;;
+51-60;F;;Werk;B;Fixed term contract;;24-26;999.0;1;9.340993288131715;18-20;Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;3,1 - 5%;20,1 - 40%;10%-14%
+41-50;M;28.06.2022;HQ;C;Permanent;31.08.2023;"""6-8""";0.5;1;33.58000476091969;"""6-8""";Active;0;#NV;#NV;#NV;Durchschnitt;;3,1 - 5%;
+31-40;M;;Gesch‰ftsbereich;A;Permanent;;0-2;0.0;0;184.869398151259;0-2;Active;0;Unterdurchschnitt;#NV;Unterdurchschnitt;#NV;;;
+31-40;M;;HQ;B;Permanent;;"""6-8""";999.0;0;22.921912930845952;0-2;Active;0;#NV;#NV;‹berdurchschnitt;Durchschnitt;1 % - 3 %;;25%-29%
+51-60;M;31.08.2022;Werk;E;Permanent;29.02.2024;33-35;0.0;1;114.40183650463788;0-2;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;5%-9%
+25-30;M;;Gesch‰ftsbereich;G;Fixed term contract;;"""3-5""";0.0;0;14.169918993547864;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;"""12-14""";0.5;1;37.021054635369126;"""12-14""";Active;0;#NV;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;5%-9%
+51-60;M;30.04.2023;Gesch‰ftsbereich;F;Permanent;;39-41;1.0;0;38.875046518525416;18-20;Active;1;#NV;#NV;Durchschnitt;#NV;;;
+31-40;M;;Werk;D;Permanent;;15-17;0.0;0;-2.528559311227758;"""12-14""";Active;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;kleiner 1%;
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;;15-17;999.0;0;9.773599255303154;"""9-11""";Terminated;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;3,1 - 5%;75,01 - 100 %;5%-9%
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;31.12.2024;15-17;0.0;1;149.65896162885753;"""9-11""";Active;1;Durchschnitt;#NV;#NV;#NV;;3,1 - 5%;5%-9%
+51-60;M;;Gesch‰ftsbereich;A;Permanent;;30-32;1.0;0;75.33494439711248;"""3-5""";Active;1;#NV;#NV;Unterdurchschnitt;‹berdurchschnitt;10,1 - 15 %;;5%-9%
+25-30;M;30.04.2024;HQ;F;Permanent;31.10.2024;"""3-5""";0.5;0;7.441381958636449;"""3-5""";Active;1;#NV;#NV;#NV;#NV;;;20%-24%
+51-60;M;;Werk;G;Fixed term contract;;"""3-5""";1.0;1;-1.9792977025113503;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+51-60;M;;HQ;A;Fixed term contract;;33-35;0.0;1;22.967859246592027;"""9-11""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;;5%-9%
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;27-29;1.0;0;160.29600844410575;"""3-5""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;Durchschnitt;;;5%-9%
+25-30;M;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.0;0;185.85126812688884;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;5,1 - 10%;10%-14%
+51-60;M;30.04.2025;HQ;G;Permanent;;24-26;0.0;1;76.22355598805751;"""3-5""";Active;1;Durchschnitt;Unrated;#NV;Durchschnitt;;1,0 - 3 %;5%-9%
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;39-41;1.0;1;54.26077336171851;18-20;Terminated;0;#NV;#NV;Durchschnitt;#NV;;3,1 - 5%;10%-14%
+31-40;F;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.5;1;31.510054393621807;"""3-5""";Active;1;#NV;Durchschnitt;Durchschnitt;Unterdurchschnitt;;kleiner 1%;15%-19%
+41-50;F;;Werk;F;Permanent;;30-32;1.0;1;7.22921478341196;0-2;Terminated;1;‹berdurchschnitt;‹berdurchschnitt;#NV;Unterdurchschnitt;;;10%-14%
+41-50;M;;Werk;C;Permanent;;"""12-14""";0.0;1;16.662128722411413;"""12-14""";Active;0;#NV;#NV;#NV;#NV;;;5%-9%
+31-40;M;31.05.2022;Werk;B;Permanent;31.01.2025;0-2;1.0;0;161.82505445769775;0-2;Terminated;0;Unterdurchschnitt;‹berdurchschnitt;#NV;#NV;;20,1 - 40%;
+31-40;F;;HQ;E;Permanent;;"""9-11""";0.0;1;17.701019440644476;"""9-11""";Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;;5%-9%
+31-40;M;;Werk;F;Permanent;31.08.2023;"""9-11""";0.0;0;58.36026539722128;"""6-8""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;20,1 - 40%;20%-24%
+31-40;M;28.02.2025;Gesch‰ftsbereich;G;Permanent;14.09.2024;0-2;0.0;1;61.12945641324348;0-2;Active;1;#NV;#NV;#NV;#NV;;10,1 - 15%;
+41-50;F;28.02.2027;Gesch‰ftsbereich;C;Permanent;03.05.2023;0-2;999.0;1;105.46043020535612;0-2;Terminated;1;#NV;#NV;#NV;#NV;1 % - 3 %;;
+31-40;M;;Werk;E;Permanent;;"""3-5""";1.0;1;12.518938518867484;"""3-5""";Dormant;0;#NV;#NV;Durchschnitt;#NV;20,01 - 40%;3,1 - 5%;10%-14%
+25-30;M;;Werk;G;Permanent;;0-2;999.0;0;10.870503088958444;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";1.0;0;16.918325021793827;0-2;Terminated;0;#NV;#NV;#NV;Durchschnitt;10,1 - 15 %;;5%-9%
+41-50;F;31.07.2025;HQ;A;Permanent;;30-32;999.0;1;30.250005390691932;"""9-11""";Active;1;Durchschnitt;#NV;#NV;Durchschnitt;;;10%-14%
+41-50;M;;Werk;F;Permanent;;18-20;1.0;1;99.18929677429682;"""6-8""";Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;10,1 - 15%;10%-14%
+51-60;M;;HQ;G;Permanent;;"""9-11""";999.0;0;33.81912705485759;"""9-11""";Dormant;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;5,1 - 10%;0%-4%
+31-40;F;;Werk;F;Permanent;;"""6-8""";999.0;1;19.198930926253;"""6-8""";Terminated;1;#NV;#NV;‹berdurchschnitt;#NV;;1,0 - 3 %;15%-19%
+51-60;M;;Gesch‰ftsbereich;F;Fixed term contract;;"""12-14""";0.0;1;8.955209987199366;"""9-11""";Terminated;1;‹berdurchschnitt;#NV;#NV;Durchschnitt;;40,1 - 60%;"""-15%-11%"""
+18-24;M;;Werk;B;Permanent;;"""3-5""";1.0;0;265.6667076660925;0-2;Active;0;‹berdurchschnitt;#NV;#NV;Unterdurchschnitt;5,1 - 10%;5,1 - 10%;30%-34%
+31-40;M;;Werk;C;Permanent;;0-2;0.5;0;61.0225985990371;0-2;Dormant;1;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;1,0 - 3 %;
+31-40;M;;Werk;A;Permanent;31.10.2024;15-17;0.5;1;185.0127447470735;0-2;Dormant;0;‹berdurchschnitt;Unrated;#NV;Unrated;;kleiner 1%;
+31-40;M;;Werk;G;Permanent;;0-2;1.0;0;176.70344342765495;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;10,1 - 15 %;20,1 - 40%;
+31-40;F;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";0.5;0;39.88035738779871;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;;
+41-50;M;;Werk;C;Permanent;;24-26;1.0;0;17.3424391048508;15-17;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;10,1 - 15 %;;5%-9%
+51-60;M;;HQ;G;Permanent;;"""12-14""";0.5;0;184.03748163893925;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;5,1 - 10%;5,1 - 10%;10%-14%
+‹ber 60;M;25.08.2023;Gesch‰ftsbereich;G;Permanent;31.12.2024;33-35;1.0;1;152.10485431795416;15-17;Active;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;
+51-60;M;;HQ;C;Permanent;31.07.2022;33-35;1.0;0;15.005085388803902;15-17;Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;15,1 - 20 %;;10%-14%
+18-24;M;;Werk;A;Permanent;;0-2;1.0;1;268.0510565610477;0-2;Terminated;0;‹berdurchschnitt;‹berdurchschnitt;Unrated;Unrated;;kleiner 1%;
+‹ber 60;F;;HQ;G;Permanent;;39-41;1.0;0;149.6251230907915;"""3-5""";Active;1;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;;10,1 - 15%;
+25-30;M;;HQ;G;Permanent;;"""3-5""";0.0;0;5.719534374628577;"""3-5""";Terminated;1;Durchschnitt;Durchschnitt;#NV;Durchschnitt;kleiner 1 %;;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;30.04.2022;18-20;0.5;1;14.102523547867243;"""9-11""";Active;0;#NV;Durchschnitt;#NV;#NV;10,1 - 15 %;;"""-30%-26%"""
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";0.5;0;9.356072793387046;"""9-11""";Terminated;1;#NV;Durchschnitt;#NV;‹berdurchschnitt;;;20%-24%
+31-40;F;;Werk;A;Permanent;31.12.2023;"""6-8""";1.0;0;16.727682497380414;0-2;Terminated;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;;;25%-29%
+51-60;M;;Werk;B;Permanent;;27-29;999.0;1;68.5841065669718;"""12-14""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;;10,1 - 15%;5%-9%
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;;15-17;0.0;0;10.113738140685925;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;;;
+31-40;M;30.06.2024;Werk;B;Fixed term contract;;"""9-11""";0.5;1;6.041325237621286;0-2;Active;0;Unterdurchschnitt;#NV;#NV;#NV;;;15%-19%
+25-30;M;;Werk;D;Permanent;30.09.2022;0-2;0.5;0;159.25428963030782;0-2;Active;0;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;;
+31-40;M;;Werk;C;Permanent;;0-2;0.0;0;9.788091431801384;0-2;Terminated;0;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;3,1 - 5%;
+31-40;M;;Werk;D;Permanent;;"""9-11""";999.0;1;44.41262516523636;"""6-8""";Terminated;0;#NV;Durchschnitt;‹berdurchschnitt;#NV;3,1 - 5%;kleiner 1%;10%-14%
+41-50;M;;HQ;G;Permanent;30.11.2023;24-26;0.0;1;50.67337700652105;"""3-5""";Active;1;#NV;#NV;#NV;‹berdurchschnitt;;;15%-19%
+31-40;M;23.07.2025;Werk;E;Permanent;;"""6-8""";0.0;1;179.43534377729742;0-2;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;;;15%-19%
+51-60;M;;Gesch‰ftsbereich;F;Permanent;;24-26;999.0;0;151.63673590010583;15-17;Active;1;Durchschnitt;#NV;Unrated;Durchschnitt;;1,0 - 3 %;5%-9%
+31-40;F;;HQ;B;Permanent;;"""12-14""";0.5;1;25.81733601895368;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;;;"""-15%-11%"""
+31-40;F;;Werk;G;Permanent;;0-2;0.5;1;121.67408510307413;0-2;Dormant;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;
+51-60;M;;Werk;F;Permanent;30.09.2024;27-29;0.0;0;4.400949690682139;"""3-5""";Active;1;#NV;Durchschnitt;#NV;Unrated;1 % - 3 %;3,1 - 5%;5%-9%
+41-50;M;;HQ;F;Permanent;31.12.2022;0-2;0.0;0;22.858921771131136;0-2;Active;0;#NV;#NV;#NV;#NV;kleiner 1 %;3,1 - 5%;
+25-30;M;;Gesch‰ftsbereich;E;Permanent;31.01.2025;0-2;0.5;1;6.548461500553674;0-2;Terminated;0;#NV;#NV;#NV;#NV;;;
+31-40;M;;Werk;F;Permanent;;21-23;999.0;0;8.291537680193112;18-20;Active;1;‹berdurchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;;kleiner 1%;5%-9%
+31-40;M;31.05.2022;Gesch‰ftsbereich;A;Permanent;;0-2;999.0;1;128.2908232223161;0-2;Terminated;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;;
+‹ber 60;M;;HQ;E;Permanent;;33-35;999.0;1;9.803262887835272;18-20;Active;1;#NV;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;
+31-40;M;;Werk;C;Permanent;;"""3-5""";1.0;0;13.595470685633982;0-2;Active;0;#NV;#NV;#NV;#NV;10,1 - 15 %;5,1 - 10%;15%-19%
+25-30;M;;HQ;G;Permanent;;0-2;0.5;1;8.793233157028473;0-2;Active;0;#NV;#NV;‹berdurchschnitt;#NV;;;
+‹ber 60;M;;Gesch‰ftsbereich;A;Permanent;;21-23;0.5;1;16.1873827585396;"""3-5""";Active;1;Durchschnitt;Durchschnitt;Durchschnitt;#NV;1 % - 3 %;;
+25-30;M;;HQ;A;Permanent;;0-2;1.0;1;46.79754637824212;0-2;Active;1;#NV;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+41-50;M;;HQ;G;Permanent;;18-20;0.0;0;53.744063096095154;"""9-11""";Terminated;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;;10%-14%
+31-40;M;;Gesch‰ftsbereich;D;Permanent;;"""12-14""";1.0;1;28.266573133769132;0-2;Active;0;#NV;#NV;Durchschnitt;‹berdurchschnitt;kleiner 1 %;1,0 - 3 %;10%-14%
+18-24;M;;HQ;A;Permanent;31.07.2024;0-2;0.5;0;25.389022174831275;0-2;Active;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;;5,1 - 10%;
+31-40;M;;Werk;A;Fixed term contract;;"""9-11""";1.0;0;0.9696443588434063;0-2;Terminated;0;‹berdurchschnitt;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+31-40;F;;HQ;A;Permanent;;15-17;999.0;0;199.0420287097581;0-2;Active;0;#NV;‹berdurchschnitt;Durchschnitt;Unrated;;5,1 - 10%;20%-24%
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;"""6-8""";0.0;1;52.98972489407736;"""6-8""";Dormant;0;#NV;#NV;#NV;#NV;kleiner 1 %;75,01 - 100 %;"""-70%-66%"""
+31-40;F;;Werk;G;Fixed term contract;;15-17;0.0;1;45.14040511509098;"""9-11""";Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;kleiner 1%;5%-9%
+41-50;M;;Gesch‰ftsbereich;A;Fixed term contract;31.12.2022;18-20;1.0;1;8.006021745188933;0-2;Terminated;1;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;15%-19%
+51-60;M;;HQ;C;Permanent;;24-26;0.0;1;13.205120912415051;18-20;Active;1;Durchschnitt;Durchschnitt;‹berdurchschnitt;Unrated;1 % - 3 %;kleiner 1%;"""-10%-6%"""
+31-40;M;;HQ;A;Permanent;;"""6-8""";1.0;1;6.079147315172124;0-2;Active;0;#NV;#NV;#NV;#NV;;kleiner 1%;15%-19%
+51-60;F;31.08.2025;Gesch‰ftsbereich;G;Permanent;;"""12-14""";999.0;0;43.645606181923114;"""3-5""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;15%-19%
+41-50;M;;HQ;B;Permanent;30.06.2024;18-20;999.0;1;34.68636649600438;"""12-14""";Active;1;Durchschnitt;#NV;#NV;Durchschnitt;10,1 - 15 %;;10%-14%
+31-40;M;;HQ;A;Permanent;;"""12-14""";999.0;0;187.3227119072133;0-2;Dormant;1;#NV;‹berdurchschnitt;#NV;#NV;;;15%-19%
+31-40;M;;Gesch‰ftsbereich;G;Permanent;28.02.2025;"""3-5""";999.0;1;162.47973970981815;"""3-5""";Terminated;0;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;;20%-24%
+51-60;F;31.08.2024;Werk;B;Permanent;;18-20;999.0;1;42.904552045686984;18-20;Active;0;#NV;#NV;Durchschnitt;#NV;5,1 - 10%;;
+25-30;M;;Werk;A;Permanent;;0-2;999.0;1;7.5434213579110745;0-2;Active;0;Durchschnitt;#NV;‹berdurchschnitt;#NV;3,1 - 5%;;
+41-50;M;;HQ;G;Permanent;;24-26;0.0;0;68.51604792656636;18-20;Terminated;1;#NV;‹berdurchschnitt;Unrated;#NV;;10,1 - 15%;5%-9%
+41-50;M;;Werk;G;Permanent;07.07.2024;15-17;0.0;1;6.338694849774392;"""12-14""";Active;0;Durchschnitt;Durchschnitt;#NV;#NV;1 % - 3 %;;"""-10%-6%"""
+31-40;M;;Gesch‰ftsbereich;A;Fixed term contract;;"""12-14""";0.5;0;188.79244839883532;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;10%-14%
+51-60;M;14.10.2025;Gesch‰ftsbereich;A;Permanent;;33-35;0.5;0;140.6497433998809;"""6-8""";Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;5%-9%
+31-40;M;;HQ;D;Fixed term contract;15.01.2025;"""9-11""";1.0;0;69.44387011945004;"""9-11""";Active;0;#NV;Durchschnitt;Durchschnitt;#NV;1 % - 3 %;3,1 - 5%;5%-9%
+51-60;F;;Werk;C;Permanent;;21-23;0.0;1;15.715855082414746;18-20;Terminated;1;#NV;Durchschnitt;Unrated;#NV;20,01 - 40%;3,1 - 5%;40%-44%
+51-60;M;;Gesch‰ftsbereich;B;Permanent;;21-23;0.0;0;25.08552195661346;"""9-11""";Terminated;1;#NV;#NV;#NV;#NV;;;5%-9%
+41-50;M;;Werk;D;Fixed term contract;;33-35;1.0;1;9.34087782574052;18-20;Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;20,1 - 40%;5%-9%
+31-40;M;;HQ;A;Permanent;;0-2;0.0;0;155.0210645796593;0-2;Terminated;0;Durchschnitt;Unrated;#NV;‹berdurchschnitt;;15,1 - 20%;
+41-50;M;;Werk;F;Permanent;;21-23;0.0;1;27.2311650817174;"""3-5""";Active;1;#NV;#NV;#NV;#NV;;10,1 - 15%;10%-14%
+18-24;M;14.03.2027;HQ;G;Permanent;31.05.2023;"""6-8""";0.0;1;141.09657202909327;0-2;Active;0;#NV;#NV;Durchschnitt;#NV;;;
+31-40;M;30.04.2024;HQ;F;Fixed term contract;;"""9-11""";999.0;0;129.94974606646255;0-2;Active;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;;;
+31-40;M;;HQ;A;Fixed term contract;;"""3-5""";999.0;0;15.780458397116835;0-2;Terminated;1;Unrated;Durchschnitt;Unrated;Durchschnitt;;3,1 - 5%;
+18-24;M;;Gesch‰ftsbereich;B;Permanent;;"""3-5""";999.0;1;177.5512378563395;0-2;Terminated;0;Unrated;Durchschnitt;#NV;#NV;3,1 - 5%;kleiner 1%;60%-64%
+31-40;M;;Werk;E;Permanent;;0-2;1.0;0;96.31803827359637;0-2;Terminated;1;#NV;Durchschnitt;#NV;#NV;;;
+41-50;M;;Werk;B;Permanent;;0-2;0.5;1;26.710599769210507;0-2;Active;0;Unrated;#NV;#NV;#NV;;;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;"""9-11""";0.0;0;63.05155880837758;"""9-11""";Active;1;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;1,0 - 3 %;15%-19%
+41-50;F;;Werk;D;Fixed term contract;;15-17;0.5;1;66.73693692099306;15-17;Active;1;#NV;#NV;#NV;#NV;10,1 - 15 %;1,0 - 3 %;5%-9%
+31-40;M;31.08.2024;Werk;D;Fixed term contract;;"""12-14""";1.0;1;30.98168141347317;0-2;Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;;3,1 - 5%;0%-4%
+31-40;M;;Gesch‰ftsbereich;F;Permanent;31.10.2022;"""12-14""";1.0;1;27.014088955016003;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;;5%-9%
+31-40;F;31.05.2025;Werk;B;Permanent;;"""3-5""";0.0;0;25.738967676817662;0-2;Active;0;#NV;#NV;#NV;Durchschnitt;15,1 - 20 %;;
+31-40;M;;Gesch‰ftsbereich;A;Permanent;31.12.2022;"""12-14""";0.5;0;13.069980303492475;"""12-14""";Active;1;#NV;#NV;Unrated;#NV;;;5%-9%
+51-60;M;;HQ;C;Permanent;;27-29;999.0;1;18.888697687222102;0-2;Dormant;0;‹berdurchschnitt;#NV;Durchschnitt;‹berdurchschnitt;;5,1 - 10%;
+31-40;M;;Gesch‰ftsbereich;F;Permanent;;18-20;0.5;1;5.189149124794323;"""3-5""";Terminated;1;#NV;#NV;Durchschnitt;Unterdurchschnitt;;3,1 - 5%;10%-14%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""3-5""";1.0;1;24.473309939212587;"""3-5""";Active;0;#NV;Durchschnitt;‹berdurchschnitt;#NV;kleiner 1 %;;
+51-60;M;28.02.2025;Gesch‰ftsbereich;D;Permanent;;33-35;999.0;0;142.2008499679948;0-2;Terminated;1;#NV;‹berdurchschnitt;Durchschnitt;Unrated;15,1 - 20 %;;5%-9%
+‹ber 60;M;;Werk;C;Permanent;;27-29;1.0;1;90.25255407458869;0-2;Active;1;Durchschnitt;Durchschnitt;#NV;#NV;15,1 - 20 %;;
+31-40;F;;HQ;C;Permanent;;"""9-11""";0.0;1;34.64829063315473;0-2;Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;3,1 - 5%;"""-15%-11%"""
+31-40;M;;Werk;E;Permanent;;15-17;0.0;0;115.77700787199198;"""6-8""";Terminated;0;#NV;#NV;#NV;Durchschnitt;;;5%-9%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;"""9-11""";999.0;0;28.548204694437374;0-2;Active;0;#NV;#NV;Unrated;#NV;10,1 - 15 %;;15%-19%
+41-50;F;28.02.2025;Werk;A;Permanent;;0-2;0.0;0;182.76831793729932;0-2;Active;0;Durchschnitt;#NV;#NV;Unterdurchschnitt;1 % - 3 %;kleiner 1%;
+51-60;M;;Gesch‰ftsbereich;A;Permanent;15.07.2022;27-29;999.0;0;78.55723466349447;"""3-5""";Terminated;0;#NV;#NV;Unrated;Unrated;;;5%-9%
+41-50;F;;HQ;G;Permanent;;"""12-14""";999.0;1;19.45368522288701;0-2;Active;0;Durchschnitt;#NV;#NV;Durchschnitt;5,1 - 10%;;
+41-50;M;;HQ;D;Permanent;31.08.2022;"""12-14""";1.0;0;151.3068717307678;"""3-5""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;;10,1 - 15%;5%-9%
+31-40;M;;Werk;E;Permanent;15.05.2022;"""3-5""";0.5;1;62.25284822162066;0-2;Dormant;0;#NV;#NV;#NV;#NV;;kleiner 1%;15%-19%
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;39-41;999.0;1;11.142505933218866;0-2;Terminated;1;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;;
+51-60;M;;Werk;D;Permanent;;36-38;0.5;1;19.882654806508988;15-17;Active;0;‹berdurchschnitt;Durchschnitt;Durchschnitt;#NV;;1,0 - 3 %;"""-10%-6%"""
+25-30;M;;Werk;F;Permanent;;0-2;1.0;0;10.416495736119096;0-2;Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;;;
+41-50;M;;HQ;G;Permanent;31.03.2025;15-17;0.0;1;57.55389292697774;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;;;15%-19%
+18-24;M;;Werk;C;Permanent;;0-2;999.0;0;261.2805654706029;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;20,1 - 40%;
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;24-26;999.0;0;137.68296243486043;15-17;Dormant;1;#NV;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;3,1 - 5%;1,0 - 3 %;5%-9%
+41-50;M;;Werk;E;Permanent;30.04.2025;24-26;0.0;0;185.22247678116497;0-2;Active;1;#NV;#NV;#NV;#NV;;;"""-10%-6%"""
+31-40;F;;Werk;B;Fixed term contract;;"""6-8""";0.5;1;6.081377840566391;0-2;Dormant;0;#NV;#NV;#NV;#NV;;;
+31-40;M;;HQ;G;Permanent;30.04.2025;"""3-5""";0.5;1;157.6770911865982;0-2;Active;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;;20%-24%
+‹ber 60;M;;Gesch‰ftsbereich;D;Permanent;;39-41;0.5;0;159.5509656082967;"""3-5""";Active;1;#NV;#NV;#NV;‹berdurchschnitt;;;
+‹ber 60;M;;Werk;A;Permanent;;"""9-11""";999.0;1;131.77443811631156;0-2;Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;
+25-30;M;;Gesch‰ftsbereich;F;Permanent;;0-2;1.0;0;23.085052174651214;0-2;Terminated;0;#NV;Durchschnitt;Durchschnitt;#NV;;5,1 - 10%;
+51-60;M;;Gesch‰ftsbereich;C;Permanent;01.06.2023;33-35;1.0;0;199.5654016805693;"""3-5""";Terminated;1;#NV;#NV;‹berdurchschnitt;#NV;3,1 - 5%;;5%-9%
+51-60;F;;Gesch‰ftsbereich;E;Permanent;09.08.2022;"""12-14""";999.0;1;24.998207761215703;"""12-14""";Active;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;;;5%-9%
+25-30;F;;Gesch‰ftsbereich;D;Permanent;28.02.2023;"""3-5""";1.0;0;72.39547325939935;"""3-5""";Terminated;0;#NV;Unrated;#NV;#NV;5,1 - 10%;1,0 - 3 %;
+31-40;F;;HQ;D;Permanent;;0-2;1.0;0;124.75821548641743;0-2;Active;0;Durchschnitt;#NV;Durchschnitt;#NV;1 % - 3 %;1,0 - 3 %;
+41-50;M;;HQ;E;Permanent;;"""12-14""";999.0;0;39.6488607791646;0-2;Terminated;1;‹berdurchschnitt;‹berdurchschnitt;#NV;Unrated;;;15%-19%
+41-50;F;31.08.2023;Gesch‰ftsbereich;D;Fixed term contract;31.08.2024;"""3-5""";0.5;1;171.63924685327817;"""3-5""";Terminated;1;Durchschnitt;#NV;#NV;#NV;5,1 - 10%;15,1 - 20%;
+51-60;M;;Werk;E;Permanent;;21-23;1.0;0;63.727717767619794;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;;kleiner 1%;5%-9%
+25-30;M;;HQ;C;Permanent;;0-2;999.0;0;11.17375102556937;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;kleiner 1 %;kleiner 1%;
+41-50;M;;Gesch‰ftsbereich;D;Permanent;;21-23;1.0;1;60.392545824401715;15-17;Active;1;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;1,0 - 3 %;0%-4%
+41-50;M;;Gesch‰ftsbereich;G;Permanent;30.04.2024;21-23;1.0;0;117.77093442604425;0-2;Active;0;‹berdurchschnitt;#NV;Unrated;#NV;;1,0 - 3 %;10%-14%
+‹ber 60;F;14.09.2024;Gesch‰ftsbereich;G;Permanent;;33-35;1.0;1;197.97502201815468;"""3-5""";Dormant;1;Durchschnitt;#NV;#NV;#NV;;;5%-9%
+25-30;M;28.02.2025;HQ;A;Permanent;;"""3-5""";1.0;1;270.088567292041;"""3-5""";Active;0;#NV;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;0-2;0.5;0;139.89155499008848;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;Durchschnitt;3,1 - 5%;kleiner 1%;
+41-50;F;;HQ;E;Fixed term contract;30.04.2024;"""12-14""";0.5;1;160.87486452685167;0-2;Active;1;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;10,1 - 15%;20%-24%
+51-60;M;;Werk;E;Permanent;;18-20;0.5;0;21.195087072555744;"""6-8""";Terminated;1;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;#NV;;;5%-9%
+51-60;F;;HQ;F;Permanent;;33-35;0.0;0;71.65460118383623;"""9-11""";Active;1;‹berdurchschnitt;Durchschnitt;Durchschnitt;Durchschnitt;5,1 - 10%;3,1 - 5%;5%-9%
+31-40;M;;Werk;G;Fixed term contract;;"""6-8""";999.0;0;44.27397000365039;"""6-8""";Active;1;‹berdurchschnitt;Unrated;#NV;‹berdurchschnitt;;;25%-29%
+51-60;M;31.08.2025;Werk;E;Permanent;31.01.2025;30-32;999.0;0;19.278331755450544;"""3-5""";Active;0;Durchschnitt;#NV;Durchschnitt;#NV;kleiner 1 %;;"""-15%-11%"""
+51-60;M;;Werk;A;Fixed term contract;;33-35;1.0;0;190.29047138764406;0-2;Active;0;#NV;‹berdurchschnitt;Unrated;#NV;;5,1 - 10%;
+‹ber 60;F;;Werk;B;Fixed term contract;;27-29;999.0;1;9.020691860916322;18-20;Terminated;1;#NV;#NV;#NV;#NV;;;
+31-40;F;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";999.0;1;197.79603713300673;"""6-8""";Active;0;#NV;Unrated;Durchschnitt;#NV;5,1 - 10%;5,1 - 10%;15%-19%
+31-40;M;;Werk;D;Permanent;;0-2;0.0;1;18.72254233742089;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;3,1 - 5%;;95%-100%
+41-50;M;;Werk;B;Permanent;;"""6-8""";0.0;1;19.08694745488834;"""3-5""";Active;0;‹berdurchschnitt;#NV;#NV;#NV;1 % - 3 %;1,0 - 3 %;10%-14%
+18-24;F;;Gesch‰ftsbereich;E;Fixed term contract;;"""3-5""";0.0;1;33.70169634785183;0-2;Terminated;1;‹berdurchschnitt;#NV;Durchschnitt;Durchschnitt;;;70%-74%
+41-50;F;;Werk;F;Permanent;15.08.2023;"""9-11""";999.0;0;62.67848852889216;"""9-11""";Active;1;#NV;‹berdurchschnitt;Durchschnitt;Unrated;1 % - 3 %;3,1 - 5%;5%-9%
+41-50;M;;Gesch‰ftsbereich;E;Permanent;;15-17;1.0;0;80.1598516434791;"""12-14""";Terminated;1;Durchschnitt;#NV;Durchschnitt;Durchschnitt;1 % - 3 %;;10%-14%
+51-60;M;;HQ;F;Permanent;;42-44;1.0;0;64.6835907530551;15-17;Terminated;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;5,1 - 10%;;10%-14%
+31-40;M;;Werk;E;Permanent;;"""6-8""";0.0;1;14.118502996567408;0-2;Active;0;#NV;#NV;Durchschnitt;Durchschnitt;;1,0 - 3 %;5%-9%
+25-30;M;;Werk;B;Permanent;31.01.2023;0-2;999.0;0;52.06298695287755;0-2;Active;0;‹berdurchschnitt;#NV;#NV;#NV;;3,1 - 5%;
+25-30;M;;Werk;B;Permanent;14.03.2025;0-2;1.0;1;146.87258019238993;0-2;Active;0;‹berdurchschnitt;Unrated;#NV;#NV;5,1 - 10%;1,0 - 3 %;
+51-60;F;;HQ;G;Permanent;30.09.2024;36-38;0.0;1;144.3098327497682;0-2;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;15,1 - 20 %;5,1 - 10%;5%-9%
+18-24;M;;Gesch‰ftsbereich;E;Permanent;31.12.2024;0-2;1.0;0;262.570674029792;0-2;Active;1;#NV;#NV;‹berdurchschnitt;Unrated;3,1 - 5%;20,1 - 40%;
+31-40;M;;Werk;D;Permanent;;"""9-11""";1.0;0;34.02538738128492;"""6-8""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;5,1 - 10%;1,0 - 3 %;10%-14%
+31-40;M;;HQ;C;Permanent;18.07.2023;"""12-14""";0.0;1;25.01823682304547;"""6-8""";Terminated;1;#NV;Durchschnitt;Durchschnitt;#NV;;5,1 - 10%;5%-9%
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;;"""12-14""";1.0;1;62.463264798404936;0-2;Active;1;Durchschnitt;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;kleiner 1%;5%-9%
+41-50;M;;Werk;A;Permanent;;27-29;1.0;0;32.9208252132645;15-17;Active;1;#NV;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;;10%-14%
+18-24;M;;Gesch‰ftsbereich;B;Permanent;;0-2;0.5;1;32.11215467024662;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;3,1 - 5%;5,1 - 10%;
+31-40;F;;Werk;C;Permanent;;"""9-11""";0.5;1;7.113613619182395;"""9-11""";Terminated;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;40,01 - 60 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;F;Permanent;;0-2;1.0;1;3.0612130649852203;0-2;Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;;;
+41-50;M;30.06.2023;Werk;G;Permanent;;"""12-14""";1.0;1;55.034873097952584;"""12-14""";Active;1;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;;10%-14%
+41-50;M;31.03.2025;HQ;D;Permanent;30.09.2025;21-23;1.0;0;15.354610101088568;"""3-5""";Dormant;1;Durchschnitt;Unrated;Unterdurchschnitt;#NV;1 % - 3 %;kleiner 1%;40%-44%
+25-30;F;;Werk;F;Permanent;;"""3-5""";0.0;1;127.59130903087426;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;;
+51-60;M;;Gesch‰ftsbereich;F;Permanent;;36-38;999.0;1;29.668074805391925;"""6-8""";Active;1;#NV;Durchschnitt;#NV;#NV;;;10%-14%
+31-40;M;;Werk;E;Permanent;;"""12-14""";1.0;0;62.281903369967125;0-2;Active;1;#NV;Durchschnitt;Durchschnitt;‹berdurchschnitt;kleiner 1 %;kleiner 1%;15%-19%
+‹ber 60;M;;Werk;G;Permanent;;33-35;999.0;0;11.976317441499951;0-2;Active;1;#NV;‹berdurchschnitt;#NV;Unrated;;;
+41-50;F;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";999.0;0;35.801370276773234;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;5,1 - 10%;5%-9%
+31-40;M;;HQ;B;Permanent;;"""3-5""";0.0;1;60.5334159559729;"""3-5""";Active;0;‹berdurchschnitt;#NV;Durchschnitt;Durchschnitt;3,1 - 5%;;20%-24%
+51-60;M;;HQ;D;Permanent;;36-38;0.5;1;10.414514590450153;"""9-11""";Active;1;#NV;#NV;#NV;#NV;;;20%-24%
+51-60;F;;Werk;C;Permanent;31.08.2024;33-35;999.0;0;29.603056337606937;15-17;Active;1;Durchschnitt;#NV;#NV;Durchschnitt;;;5%-9%
+51-60;M;;Werk;C;Permanent;;15-17;1.0;0;44.75421604834394;"""3-5""";Terminated;1;#NV;#NV;Durchschnitt;#NV;;;5%-9%
+31-40;F;;HQ;D;Permanent;;"""9-11""";1.0;0;48.61439042613652;0-2;Terminated;0;#NV;#NV;#NV;Durchschnitt;3,1 - 5%;;
+‹ber 60;M;;Werk;G;Fixed term contract;;30-32;0.0;1;58.537752364575546;"""3-5""";Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;;5%-9%
+25-30;M;;Gesch‰ftsbereich;C;Permanent;;0-2;0.5;1;76.65496649255624;0-2;Active;1;#NV;Durchschnitt;#NV;Durchschnitt;20,01 - 40%;1,0 - 3 %;
+51-60;M;;Gesch‰ftsbereich;E;Permanent;31.12.2024;0-2;1.0;0;179.33075669924392;0-2;Active;0;Durchschnitt;#NV;Durchschnitt;‹berdurchschnitt;3,1 - 5%;;
+31-40;M;;Werk;F;Fixed term contract;;"""6-8""";0.5;1;47.46084851173577;"""3-5""";Terminated;0;#NV;#NV;#NV;Durchschnitt;;1,0 - 3 %;25%-29%
+31-40;M;;Werk;D;Permanent;;15-17;999.0;0;38.98449258971466;0-2;Active;1;#NV;#NV;Durchschnitt;#NV;;;20%-24%
+51-60;F;;Gesch‰ftsbereich;E;Permanent;30.06.2023;"""12-14""";1.0;1;12.826430206397417;"""12-14""";Terminated;0;#NV;#NV;Durchschnitt;#NV;;20,1 - 40%;
+51-60;M;;HQ;D;Permanent;31.05.2023;36-38;0.0;0;27.93136534465037;"""3-5""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;10%-14%
+51-60;M;;Gesch‰ftsbereich;C;Permanent;;15-17;999.0;1;22.862058394789806;"""9-11""";Active;1;#NV;#NV;Unrated;#NV;20,01 - 40%;15,1 - 20%;10%-14%
+18-24;M;;HQ;D;Permanent;;0-2;1.0;1;268.90297887954625;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;;;
+41-50;F;;Werk;B;Fixed term contract;;21-23;0.5;1;17.183673060909403;"""6-8""";Active;0;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;kleiner 1%;5%-9%
+41-50;M;;HQ;A;Permanent;;"""9-11""";0.0;1;143.10115264637363;0-2;Dormant;1;‹berdurchschnitt;‹berdurchschnitt;#NV;Durchschnitt;;3,1 - 5%;5%-9%
+41-50;M;;Werk;G;Permanent;;15-17;1.0;0;37.872911336674896;0-2;Terminated;0;Durchschnitt;#NV;Unrated;Durchschnitt;kleiner 1 %;5,1 - 10%;30%-34%
+51-60;M;;Werk;C;Permanent;;33-35;1.0;1;62.357030678304895;18-20;Dormant;1;Durchschnitt;#NV;Unterdurchschnitt;#NV;1 % - 3 %;1,0 - 3 %;5%-9%
+51-60;M;28.02.2027;HQ;F;Permanent;;24-26;999.0;0;62.05173335202029;"""3-5""";Terminated;0;Durchschnitt;#NV;Durchschnitt;Durchschnitt;;1,0 - 3 %;5%-9%
+18-24;M;;HQ;D;Permanent;;0-2;0.5;0;142.60658860886267;0-2;Active;1;#NV;‹berdurchschnitt;Durchschnitt;Durchschnitt;20,01 - 40%;;
+‹ber 60;M;;HQ;F;Permanent;;42-44;1.0;1;13.028378829663872;0-2;Dormant;0;#NV;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;
+51-60;M;31.08.2025;Werk;E;Permanent;;36-38;0.5;0;15.899470242800794;"""6-8""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;Durchschnitt;5,1 - 10%;;5%-9%
+25-30;M;;Werk;C;Permanent;30.09.2024;"""3-5""";0.0;1;32.46665773784655;0-2;Terminated;0;#NV;Durchschnitt;Unrated;#NV;1 % - 3 %;;
+51-60;F;;Gesch‰ftsbereich;A;Permanent;30.11.2023;39-41;999.0;0;32.94159198775106;0-2;Terminated;1;‹berdurchschnitt;#NV;‹berdurchschnitt;‹berdurchschnitt;;;10%-14%
+31-40;M;;Werk;E;Fixed term contract;;24-26;0.5;1;194.89936982135296;0-2;Terminated;0;‹berdurchschnitt;#NV;‹berdurchschnitt;Durchschnitt;;1,0 - 3 %;10%-14%
+‹ber 60;F;31.12.2023;Gesch‰ftsbereich;C;Permanent;;39-41;999.0;0;137.99892926141683;0-2;Active;1;‹berdurchschnitt;#NV;Durchschnitt;Unrated;60,01 - 75%;;
+51-60;F;;Werk;C;Permanent;;33-35;1.0;0;181.30466210899831;0-2;Terminated;1;#NV;#NV;#NV;Unterdurchschnitt;;;15%-19%
+18-24;F;;Gesch‰ftsbereich;C;Fixed term contract;31.08.2022;"""3-5""";1.0;1;15.192093243948134;0-2;Terminated;0;Durchschnitt;Durchschnitt;Durchschnitt;Durchschnitt;;10,1 - 15%;65%-69%
+25-30;M;;Werk;B;Permanent;;"""6-8""";0.0;0;104.49338861346045;"""3-5""";Active;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;1 % - 3 %;;10%-14%
+51-60;M;;Gesch‰ftsbereich;G;Permanent;;33-35;0.5;0;154.20524864832285;18-20;Terminated;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;;;10%-14%
+25-30;M;;Gesch‰ftsbereich;D;Permanent;;0-2;1.0;0;3.896978892305722;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;10,1 - 15%;
+31-40;M;;Werk;D;Permanent;;21-23;999.0;0;8.282564625701374;"""6-8""";Dormant;0;#NV;Durchschnitt;#NV;Durchschnitt;1 % - 3 %;5,1 - 10%;10%-14%
+31-40;M;;Werk;A;Permanent;;0-2;0.5;0;163.74915198010706;0-2;Terminated;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;
+18-24;F;31.01.2023;Gesch‰ftsbereich;F;Permanent;;0-2;0.0;1;70.67994885411902;0-2;Terminated;0;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;;;
+51-60;M;;Werk;D;Permanent;;24-26;0.0;0;21.28590799251176;"""9-11""";Dormant;0;#NV;Durchschnitt;#NV;#NV;;;5%-9%
+41-50;M;;HQ;A;Permanent;;18-20;1.0;1;19.30239070191339;"""6-8""";Active;1;#NV;Durchschnitt;#NV;Unrated;5,1 - 10%;10,1 - 15%;5%-9%
+31-40;M;;HQ;D;Permanent;;"""3-5""";999.0;1;41.49665000083128;"""3-5""";Active;0;‹berdurchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;;95%-100%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;30.06.2022;"""3-5""";0.0;1;15.152966607882014;0-2;Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;;3,1 - 5%;
+18-24;M;;Werk;C;Permanent;31.07.2022;0-2;1.0;0;173.79030216019208;0-2;Active;1;#NV;#NV;#NV;#NV;3,1 - 5%;3,1 - 5%;
+31-40;M;;HQ;A;Permanent;;"""6-8""";1.0;1;11.806499438370402;"""6-8""";Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;5,1 - 10%;1,0 - 3 %;20%-24%
+51-60;M;;Gesch‰ftsbereich;C;Permanent;;"""12-14""";1.0;1;20.86411407288391;"""12-14""";Active;0;Durchschnitt;#NV;#NV;#NV;;;5%-9%
+41-50;M;;Werk;F;Permanent;;15-17;1.0;0;151.9767476464369;0-2;Active;1;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;1,0 - 3 %;5%-9%
+31-40;F;;Gesch‰ftsbereich;E;Permanent;;24-26;0.0;1;57.29878952051811;"""9-11""";Active;1;#NV;#NV;#NV;‹berdurchschnitt;20,01 - 40%;;5%-9%
+51-60;M;;Werk;C;Permanent;;24-26;1.0;1;41.41990620501493;"""9-11""";Active;1;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;;
+41-50;M;;Werk;F;Permanent;;0-2;1.0;1;56.2058009346278;0-2;Active;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;3,1 - 5%;;
+‹ber 60;M;;Gesch‰ftsbereich;B;Permanent;;33-35;1.0;0;6.605335622812641;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;#NV;;;5%-9%
+41-50;F;31.08.2024;Werk;E;Permanent;;30-32;0.5;0;58.06248042146234;15-17;Active;1;#NV;#NV;#NV;#NV;1 % - 3 %;;5%-9%
+41-50;F;;Gesch‰ftsbereich;A;Fixed term contract;;0-2;0.5;0;25.592681159769114;0-2;Active;1;#NV;Unrated;#NV;‹berdurchschnitt;5,1 - 10%;;
+41-50;M;30.09.2024;HQ;D;Permanent;31.01.2025;0-2;0.0;1;65.21451912074967;0-2;Active;1;#NV;#NV;#NV;#NV;;;
+41-50;M;;Werk;A;Permanent;;0-2;0.5;0;152.86682508458813;0-2;Active;0;Durchschnitt;Unrated;#NV;Durchschnitt;20,01 - 40%;3,1 - 5%;
+‹ber 60;M;;HQ;B;Permanent;30.09.2023;24-26;0.5;1;143.84657873814197;0-2;Active;1;#NV;#NV;‹berdurchschnitt;#NV;3,1 - 5%;5,1 - 10%;
+41-50;M;;Gesch‰ftsbereich;G;Permanent;;18-20;0.5;0;8.495782666326727;"""3-5""";Active;0;#NV;‹berdurchschnitt;Durchschnitt;Durchschnitt;;3,1 - 5%;5%-9%
+41-50;F;31.08.2024;HQ;D;Permanent;;"""6-8""";1.0;1;146.1581782279138;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;;;10%-14%
+31-40;M;;Werk;F;Permanent;31.10.2026;"""12-14""";999.0;1;9.730279512370545;0-2;Active;0;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;;;"""-45%-41%"""
+31-40;M;;Gesch‰ftsbereich;D;Permanent;;"""9-11""";0.5;0;18.594303298546603;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;kleiner 1 %;;
+41-50;M;30.06.2025;Gesch‰ftsbereich;D;Permanent;;"""6-8""";0.0;0;5.217880707959252;"""3-5""";Active;0;Durchschnitt;#NV;Unrated;#NV;;;
+51-60;M;;Werk;F;Permanent;;36-38;0.5;0;189.8975516546179;"""3-5""";Active;0;‹berdurchschnitt;Durchschnitt;#NV;Durchschnitt;kleiner 1 %;10,1 - 15%;5%-9%
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.5;0;10.338086264475486;"""6-8""";Terminated;1;#NV;#NV;#NV;#NV;;5,1 - 10%;5%-9%
+31-40;F;;Gesch‰ftsbereich;G;Permanent;29.02.2024;21-23;0.5;0;2.9669045827544993;18-20;Active;1;‹berdurchschnitt;Unrated;#NV;#NV;1 % - 3 %;;"""-10%-6%"""
+18-24;M;29.02.2024;Werk;F;Permanent;31.10.2022;0-2;999.0;1;7.330132988736726;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;10,1 - 15 %;3,1 - 5%;
+51-60;M;;Werk;D;Permanent;;30-32;0.0;1;6.198431969315228;"""6-8""";Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;;5,1 - 10%;5%-9%
+31-40;M;;HQ;D;Permanent;30.09.2023;"""3-5""";0.5;1;11.943255564833546;"""3-5""";Active;0;‹berdurchschnitt;Durchschnitt;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;10%-14%
+51-60;M;31.12.2022;Gesch‰ftsbereich;E;Permanent;;30-32;0.5;1;7.248191932023062;"""6-8""";Active;0;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+‹ber 60;M;;Gesch‰ftsbereich;F;Permanent;;15-17;999.0;0;46.49047707619339;"""3-5""";Active;0;Durchschnitt;#NV;‹berdurchschnitt;Durchschnitt;3,1 - 5%;3,1 - 5%;
+25-30;M;;HQ;B;Permanent;;"""12-14""";1.0;0;63.420410900821;0-2;Terminated;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;;5,1 - 10%;30%-34%
+31-40;M;;Gesch‰ftsbereich;G;Permanent;31.05.2024;"""3-5""";1.0;1;158.17690327368157;0-2;Active;1;‹berdurchschnitt;Durchschnitt;#NV;‹berdurchschnitt;5,1 - 10%;1,0 - 3 %;
+‹ber 60;F;31.08.2024;HQ;C;Permanent;31.12.2022;21-23;0.0;1;181.21920091232855;15-17;Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;Unrated;kleiner 1 %;40,1 - 60%;
+31-40;M;;Werk;G;Permanent;;"""6-8""";999.0;0;1.7687538350694125;0-2;Active;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;1 % - 3 %;;
+51-60;M;;Werk;G;Permanent;;"""6-8""";999.0;1;14.9858222975089;"""6-8""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;;;10%-14%
+31-40;M;;HQ;G;Permanent;;"""9-11""";0.0;1;24.300060321158604;"""6-8""";Active;1;#NV;Durchschnitt;‹berdurchschnitt;Unrated;;;15%-19%
+18-24;M;;HQ;C;Permanent;;0-2;1.0;1;266.52177350447994;0-2;Terminated;0;Durchschnitt;‹berdurchschnitt;#NV;Durchschnitt;;1,0 - 3 %;
+25-30;M;;Werk;D;Permanent;;"""12-14""";999.0;1;3.7905186829057973;"""3-5""";Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;10,1 - 15 %;;
+51-60;M;;Werk;D;Permanent;;24-26;999.0;0;12.559194433120156;15-17;Active;1;‹berdurchschnitt;#NV;#NV;#NV;5,1 - 10%;10,1 - 15%;0%-4%
+51-60;M;;Gesch‰ftsbereich;F;Permanent;;24-26;1.0;0;203.8018522035084;"""3-5""";Dormant;1;#NV;Unterdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;;;5%-9%
+41-50;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.0;0;147.66086973295475;"""3-5""";Terminated;0;#NV;Durchschnitt;#NV;#NV;;;20%-24%
+41-50;F;23.06.2023;Werk;B;Permanent;;24-26;0.0;1;177.17220304771806;"""3-5""";Terminated;0;Durchschnitt;‹berdurchschnitt;#NV;Unterdurchschnitt;;;10%-14%
+41-50;M;19.09.2025;Werk;A;Permanent;;0-2;0.5;0;162.49460231227928;0-2;Active;1;Unrated;#NV;Unrated;#NV;;3,1 - 5%;
+51-60;M;;HQ;G;Permanent;31.08.2024;0-2;999.0;1;180.82345751281667;0-2;Active;1;Durchschnitt;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;kleiner 1 %;;
+51-60;M;;Werk;C;Permanent;;27-29;999.0;0;6.927708557024253;0-2;Terminated;1;#NV;#NV;#NV;Unrated;1 % - 3 %;;
+41-50;M;;HQ;A;Fixed term contract;;15-17;0.5;0;37.90788854210242;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;10%-14%
+41-50;F;;Gesch‰ftsbereich;B;Permanent;;0-2;0.5;0;7.82789568985058;0-2;Active;1;‹berdurchschnitt;#NV;Unrated;‹berdurchschnitt;;;
+41-50;F;31.12.2023;HQ;D;Permanent;;21-23;0.5;1;7.1044956372967185;"""3-5""";Active;0;#NV;Durchschnitt;‹berdurchschnitt;#NV;1 % - 3 %;;15%-19%
+51-60;M;;Werk;F;Permanent;31.01.2023;0-2;0.0;1;54.72658302025673;0-2;Active;0;#NV;#NV;#NV;#NV;;;
+31-40;M;10.03.2024;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.0;0;31.16198460278517;"""6-8""";Active;0;Durchschnitt;#NV;‹berdurchschnitt;Unrated;15,1 - 20 %;1,0 - 3 %;
+18-24;M;;HQ;B;Permanent;;"""3-5""";999.0;1;78.32531954093876;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;70%-74%
+51-60;F;;Werk;A;Permanent;;"""12-14""";0.5;1;29.329400908871833;"""12-14""";Active;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;3,1 - 5%;
+31-40;F;;Werk;D;Permanent;;"""6-8""";0.5;0;187.9827771326966;"""3-5""";Terminated;0;#NV;#NV;#NV;#NV;5,1 - 10%;;15%-19%
+18-24;F;;Gesch‰ftsbereich;E;Permanent;;"""6-8""";1.0;0;29.62664319041816;"""3-5""";Dormant;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;;;25%-29%
+41-50;M;;Werk;F;Permanent;;21-23;999.0;1;119.99011734845075;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;3,1 - 5%;1,0 - 3 %;5%-9%
+31-40;F;;Werk;G;Permanent;;"""3-5""";0.5;1;6.682307296456793;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;5,1 - 10%;10,1 - 15%;"""-10%-6%"""
+25-30;M;;Gesch‰ftsbereich;F;Fixed term contract;;"""3-5""";0.5;1;11.521538847958627;"""3-5""";Active;0;Durchschnitt;#NV;Durchschnitt;#NV;;1,0 - 3 %;20%-24%
+31-40;M;;Werk;G;Permanent;;"""9-11""";999.0;0;12.794315334007644;"""6-8""";Active;0;Durchschnitt;Durchschnitt;Durchschnitt;Durchschnitt;5,1 - 10%;;
+41-50;M;;Werk;A;Fixed term contract;;"""12-14""";1.0;0;155.55426714313282;0-2;Active;0;‹berdurchschnitt;#NV;#NV;Unterdurchschnitt;;;20%-24%
+18-24;M;;HQ;E;Permanent;;"""3-5""";1.0;1;1.0474466939790867;"""3-5""";Active;1;#NV;‹berdurchschnitt;#NV;#NV;;;
+51-60;M;;Werk;F;Permanent;31.01.2024;"""12-14""";1.0;0;6.533857502889034;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;5,1 - 10%;3,1 - 5%;
+31-40;M;14.03.2025;Gesch‰ftsbereich;C;Permanent;;"""6-8""";0.0;0;14.734540376340096;"""3-5""";Active;1;#NV;#NV;Durchschnitt;#NV;;10,1 - 15%;
+41-50;M;;Werk;A;Permanent;;"""9-11""";0.5;0;105.8928570293872;"""3-5""";Active;0;#NV;‹berdurchschnitt;Unrated;#NV;1 % - 3 %;;0%-4%
+51-60;M;20.09.2024;HQ;E;Permanent;;"""3-5""";0.0;1;59.67182515575971;"""3-5""";Dormant;1;#NV;#NV;#NV;#NV;;1,0 - 3 %;10%-14%
+41-50;M;;Werk;D;Permanent;;24-26;0.5;0;58.8292273231521;0-2;Active;1;#NV;Durchschnitt;#NV;Unrated;;10,1 - 15%;15%-19%
+31-40;M;;Werk;B;Permanent;;15-17;0.0;0;20.03620340413812;"""6-8""";Terminated;1;‹berdurchschnitt;Unrated;#NV;Durchschnitt;kleiner 1 %;;40%-44%
+18-24;M;;Werk;F;Permanent;30.09.2024;"""3-5""";1.0;1;190.6769335038777;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;;;75%-79%
+25-30;M;31.07.2024;Werk;F;Permanent;30.09.2024;"""9-11""";0.0;1;17.086852614273802;"""6-8""";Active;0;#NV;#NV;#NV;#NV;;3,1 - 5%;0%-4%
+31-40;F;;Werk;F;Permanent;;"""9-11""";0.0;1;80.50757428179234;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;20,01 - 40%;1,0 - 3 %;"""-50%-46%"""
+‹ber 60;M;;HQ;C;Permanent;;33-35;0.5;0;54.006391998148466;"""3-5""";Active;0;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;kleiner 1%;
+‹ber 60;F;;Werk;G;Permanent;;"""3-5""";999.0;0;1.0824628032614672;0-2;Terminated;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;15,1 - 20 %;;"""-50%-46%"""
+31-40;M;;HQ;F;Permanent;;"""6-8""";1.0;1;97.16626510331474;0-2;Active;1;Durchschnitt;Durchschnitt;‹berdurchschnitt;#NV;;;10%-14%
+31-40;M;28.02.2027;Werk;G;Permanent;;"""3-5""";999.0;0;181.9884349977663;0-2;Terminated;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;;1,0 - 3 %;45%-49%
+51-60;M;;Werk;C;Permanent;;39-41;1.0;0;19.652169712235974;18-20;Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+51-60;M;;Werk;B;Fixed term contract;31.08.2024;27-29;0.0;1;29.967313354371584;18-20;Active;1;#NV;#NV;Unrated;#NV;10,1 - 15 %;;10%-14%
+18-24;M;14.03.2025;HQ;A;Fixed term contract;;0-2;999.0;1;6.025706279829587;0-2;Active;1;#NV;‹berdurchschnitt;#NV;#NV;5,1 - 10%;kleiner 1%;
+18-24;F;;HQ;F;Permanent;;"""3-5""";999.0;0;23.037536428169854;0-2;Active;0;#NV;#NV;‹berdurchschnitt;Unrated;kleiner 1 %;3,1 - 5%;65%-69%
+18-24;M;15.08.2023;Gesch‰ftsbereich;B;Permanent;;0-2;1.0;0;198.36331055555493;0-2;Active;0;#NV;Durchschnitt;Durchschnitt;‹berdurchschnitt;;;
+31-40;F;;Werk;A;Permanent;;"""12-14""";0.0;0;4.341358757237377;"""3-5""";Active;0;#NV;#NV;#NV;#NV;;;15%-19%
+31-40;M;;Gesch‰ftsbereich;G;Permanent;;0-2;0.5;1;17.591229487251976;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;#NV;;kleiner 1%;
+51-60;F;;Werk;C;Fixed term contract;;24-26;999.0;1;8.262929111932628;"""3-5""";Terminated;1;#NV;‹berdurchschnitt;Durchschnitt;#NV;3,1 - 5%;kleiner 1%;"""-15%-11%"""
+31-40;F;;HQ;A;Permanent;31.03.2024;0-2;0.5;0;197.79152934868793;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;;;
+41-50;M;;Werk;A;Permanent;;0-2;0.0;1;30.139281761612366;0-2;Active;1;#NV;#NV;#NV;#NV;;;
+18-24;M;30.09.2024;Gesch‰ftsbereich;A;Fixed term contract;30.04.2025;0-2;999.0;0;104.04827243287315;0-2;Active;0;#NV;Durchschnitt;Durchschnitt;Unrated;20,01 - 40%;1,0 - 3 %;
+‹ber 60;M;28.02.2025;Gesch‰ftsbereich;C;Fixed term contract;31.03.2023;33-35;1.0;1;45.029264020705526;"""3-5""";Active;1;Durchschnitt;‹berdurchschnitt;Durchschnitt;Durchschnitt;;;
+18-24;M;;Werk;C;Permanent;;0-2;999.0;0;40.983195238992245;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;;;
+31-40;M;;Werk;F;Permanent;;"""6-8""";0.0;1;65.4281027479834;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;kleiner 1 %;;10%-14%
+31-40;M;;Werk;D;Permanent;;"""12-14""";0.5;0;178.75643512065201;"""3-5""";Active;0;Durchschnitt;Durchschnitt;#NV;‹berdurchschnitt;;3,1 - 5%;5%-9%
+41-50;M;;Werk;F;Permanent;;"""3-5""";1.0;1;22.32217169614035;"""3-5""";Terminated;1;Durchschnitt;Unrated;#NV;#NV;;;5%-9%
+41-50;M;;Werk;C;Permanent;;18-20;0.5;1;58.00004160770444;"""6-8""";Dormant;0;#NV;#NV;#NV;Unrated;;kleiner 1%;10%-14%
+41-50;M;;HQ;B;Permanent;;"""9-11""";0.0;0;32.73575884546528;"""9-11""";Terminated;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;5%-9%
+51-60;F;;Werk;B;Permanent;;24-26;999.0;0;111.36322641343256;0-2;Terminated;1;#NV;#NV;#NV;‹berdurchschnitt;;;"""-80%-76%"""
+31-40;M;31.03.2024;HQ;B;Permanent;30.11.2024;"""9-11""";0.0;1;64.5691217398844;"""9-11""";Active;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;;3,1 - 5%;5%-9%
+31-40;M;;HQ;G;Permanent;31.08.2022;15-17;1.0;0;14.135988547101308;15-17;Terminated;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;15%-19%
+25-30;F;;Gesch‰ftsbereich;D;Fixed term contract;31.10.2023;0-2;0.5;1;10.433151958320972;0-2;Active;0;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;3,1 - 5%;
+51-60;M;;HQ;B;Permanent;30.04.2024;27-29;999.0;1;29.901158828782442;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;;;0%-4%
+18-24;M;;Werk;G;Permanent;;"""3-5""";0.5;1;43.62546091020423;0-2;Active;0;Durchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;;70%-74%
+51-60;M;;Werk;B;Permanent;;27-29;1.0;1;84.54517825652664;"""3-5""";Active;1;‹berdurchschnitt;#NV;Durchschnitt;#NV;1 % - 3 %;1,0 - 3 %;10%-14%
+41-50;F;;Werk;G;Permanent;;"""3-5""";0.5;0;160.10909366321403;"""3-5""";Terminated;0;#NV;#NV;#NV;#NV;1 % - 3 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;E;Permanent;31.05.2023;21-23;0.0;0;62.82610008110688;"""6-8""";Dormant;1;#NV;‹berdurchschnitt;Unrated;#NV;;;5%-9%
+51-60;M;;Werk;C;Permanent;;"""3-5""";0.5;1;51.007537602935855;"""3-5""";Active;1;Unrated;#NV;Durchschnitt;‹berdurchschnitt;;1,0 - 3 %;5%-9%
+31-40;M;;Gesch‰ftsbereich;A;Permanent;31.12.2023;"""12-14""";1.0;0;24.272145022345615;"""9-11""";Active;1;#NV;Durchschnitt;#NV;#NV;;;0%-4%
+‹ber 60;M;;Gesch‰ftsbereich;D;Permanent;;27-29;1.0;0;83.11763595569309;"""3-5""";Active;0;#NV;‹berdurchschnitt;#NV;#NV;20,01 - 40%;3,1 - 5%;
+41-50;F;;HQ;E;Permanent;;21-23;0.5;1;45.60117403675887;"""6-8""";Terminated;1;Durchschnitt;Unrated;‹berdurchschnitt;#NV;5,1 - 10%;;"""-10%-6%"""
+‹ber 60;F;;HQ;D;Permanent;;39-41;999.0;1;66.56842943177814;15-17;Dormant;1;#NV;Durchschnitt;#NV;#NV;;;"""-5%-1%"""
+51-60;M;30.04.2025;Gesch‰ftsbereich;A;Permanent;;27-29;999.0;1;100.94378356838577;18-20;Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;20,01 - 40%;10,1 - 15%;5%-9%
+18-24;M;;Gesch‰ftsbereich;G;Permanent;;0-2;999.0;1;97.2785789073947;0-2;Dormant;0;Durchschnitt;#NV;Unrated;#NV;3,1 - 5%;1,0 - 3 %;
+41-50;M;;HQ;A;Permanent;;15-17;0.0;1;62.25817083419816;"""3-5""";Terminated;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;;;10%-14%
+31-40;M;28.02.2025;Werk;G;Fixed term contract;;"""3-5""";0.5;1;16.100142544735434;"""3-5""";Dormant;1;#NV;#NV;#NV;‹berdurchschnitt;1 % - 3 %;;
+31-40;M;;Werk;D;Permanent;30.06.2022;"""3-5""";0.5;0;127.41790573216822;"""3-5""";Active;1;#NV;#NV;#NV;#NV;;15,1 - 20%;
+41-50;M;;Werk;A;Permanent;31.03.2023;21-23;0.0;0;9.986166985870952;15-17;Active;1;Durchschnitt;Durchschnitt;#NV;#NV;kleiner 1 %;3,1 - 5%;"""-10%-6%"""
+31-40;M;;Gesch‰ftsbereich;B;Permanent;;0-2;1.0;1;13.303979728419847;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;#NV;3,1 - 5%;3,1 - 5%;95%-100%
+25-30;F;;HQ;F;Permanent;05.03.2023;0-2;1.0;0;185.74232598278587;0-2;Terminated;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;kleiner 1 %;;
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""3-5""";0.0;0;89.62239429350292;0-2;Active;0;Unrated;#NV;#NV;#NV;;;40%-44%
+18-24;M;30.09.2024;Werk;E;Permanent;;0-2;999.0;0;266.5851729789208;0-2;Active;1;Durchschnitt;‹berdurchschnitt;#NV;Durchschnitt;1 % - 3 %;3,1 - 5%;
+25-30;F;;Werk;D;Permanent;31.03.2023;"""9-11""";1.0;0;43.4015658661103;0-2;Active;0;#NV;#NV;#NV;#NV;;;15%-19%
+25-30;M;;Werk;F;Permanent;;0-2;1.0;0;14.791458300347465;0-2;Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;15,1 - 20 %;3,1 - 5%;
+31-40;M;08.09.2024;HQ;E;Permanent;;"""12-14""";0.0;0;35.388525939454375;0-2;Terminated;0;#NV;#NV;Unterdurchschnitt;#NV;;kleiner 1%;15%-19%
+41-50;M;31.08.2022;Werk;A;Permanent;;21-23;0.5;1;69.66959070327496;"""9-11""";Active;1;#NV;#NV;#NV;#NV;15,1 - 20 %;;5%-9%
+51-60;M;;Gesch‰ftsbereich;D;Permanent;31.05.2022;"""3-5""";0.5;1;31.446966646646896;"""3-5""";Active;0;#NV;#NV;Durchschnitt;#NV;1 % - 3 %;;5%-9%
+51-60;F;;Gesch‰ftsbereich;E;Permanent;;21-23;0.0;0;34.06270830912142;18-20;Terminated;1;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;3,1 - 5%;10%-14%
+25-30;F;;Werk;G;Permanent;31.08.2022;"""6-8""";999.0;0;69.71983037252534;0-2;Terminated;0;#NV;#NV;#NV;#NV;;;25%-29%
+51-60;M;;Gesch‰ftsbereich;D;Permanent;;36-38;0.0;0;70.743405063717;"""3-5""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;;15,1 - 20%;
+41-50;M;;HQ;D;Permanent;;"""9-11""";1.0;0;63.14253697856957;"""3-5""";Dormant;0;#NV;#NV;#NV;‹berdurchschnitt;10,1 - 15 %;1,0 - 3 %;5%-9%
+51-60;M;;Werk;G;Permanent;;21-23;999.0;1;55.723644350606264;0-2;Terminated;1;‹berdurchschnitt;#NV;#NV;#NV;;kleiner 1%;15%-19%
+41-50;F;;Werk;E;Permanent;31.03.2023;"""9-11""";1.0;0;45.4191816207347;"""9-11""";Terminated;0;#NV;#NV;‹berdurchschnitt;Unrated;1 % - 3 %;kleiner 1%;5%-9%
+25-30;F;;Werk;C;Fixed term contract;;"""9-11""";0.5;0;101.72144229620487;0-2;Terminated;1;#NV;‹berdurchschnitt;#NV;#NV;;5,1 - 10%;20%-24%
+31-40;M;;HQ;B;Permanent;;"""6-8""";0.5;1;30.27076186921835;"""3-5""";Terminated;0;‹berdurchschnitt;‹berdurchschnitt;#NV;Durchschnitt;10,1 - 15 %;3,1 - 5%;10%-14%
+25-30;M;;HQ;A;Permanent;;"""9-11""";1.0;1;150.30077674480256;"""6-8""";Active;1;#NV;#NV;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;15%-19%
+18-24;M;11.03.2025;HQ;B;Fixed term contract;;0-2;0.0;0;145.9452958701597;0-2;Active;0;‹berdurchschnitt;#NV;Durchschnitt;‹berdurchschnitt;;;
+31-40;F;;Gesch‰ftsbereich;C;Permanent;;"""12-14""";1.0;0;200.83701899929815;0-2;Active;0;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;#NV;3,1 - 5%;15,1 - 20%;30%-34%
+41-50;M;;Werk;F;Permanent;;30-32;999.0;0;16.20522385438493;15-17;Active;0;#NV;#NV;#NV;#NV;1 % - 3 %;10,1 - 15%;5%-9%
+‹ber 60;F;;Gesch‰ftsbereich;F;Permanent;;39-41;1.0;1;35.47980972881256;15-17;Terminated;0;‹berdurchschnitt;#NV;#NV;Durchschnitt;;;
+41-50;F;31.12.2023;HQ;D;Permanent;;21-23;0.0;1;51.94340429364007;"""9-11""";Active;1;#NV;#NV;Durchschnitt;‹berdurchschnitt;5,1 - 10%;5,1 - 10%;10%-14%
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;36-38;0.0;1;33.472120695859736;"""12-14""";Active;0;#NV;#NV;#NV;Durchschnitt;;;5%-9%
+25-30;M;;Werk;F;Permanent;;0-2;0.0;0;12.880933670379452;0-2;Terminated;0;#NV;#NV;Durchschnitt;Unrated;;;
+51-60;M;;HQ;C;Permanent;30.09.2023;36-38;999.0;1;57.353584645647636;"""9-11""";Terminated;1;Durchschnitt;#NV;#NV;Unterdurchschnitt;kleiner 1 %;kleiner 1%;5%-9%
+41-50;F;01.03.2023;Werk;F;Permanent;;27-29;0.0;1;75.32147165691151;"""3-5""";Active;0;#NV;#NV;#NV;Durchschnitt;;kleiner 1%;5%-9%
+31-40;M;;HQ;G;Permanent;;18-20;0.5;0;60.97816621595906;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;;;"""-90%-86%"""
+51-60;M;;Gesch‰ftsbereich;A;Permanent;30.11.2024;"""6-8""";999.0;1;33.97310121586624;"""6-8""";Active;0;#NV;#NV;#NV;Durchschnitt;kleiner 1 %;;
+‹ber 60;M;;Werk;E;Permanent;;36-38;0.5;1;62.53205226618283;15-17;Active;1;#NV;#NV;#NV;Durchschnitt;;;
+51-60;F;;Werk;D;Fixed term contract;;33-35;0.5;1;44.89503619963763;"""3-5""";Active;1;‹berdurchschnitt;Durchschnitt;#NV;#NV;3,1 - 5%;;5%-9%
+31-40;M;;HQ;D;Permanent;;"""9-11""";1.0;0;167.83598586801077;0-2;Active;1;#NV;Durchschnitt;#NV;Durchschnitt;5,1 - 10%;;10%-14%
+31-40;M;30.09.2023;Werk;D;Permanent;31.08.2023;21-23;0.5;1;7.7332228872284325;0-2;Active;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;15,1 - 20%;
+51-60;M;;HQ;G;Permanent;;24-26;1.0;1;24.271128732887867;"""3-5""";Active;1;#NV;#NV;#NV;Unterdurchschnitt;5,1 - 10%;5,1 - 10%;10%-14%
+31-40;M;28.04.2023;Gesch‰ftsbereich;D;Permanent;;"""6-8""";0.0;0;33.80439071868956;"""6-8""";Active;1;Durchschnitt;#NV;#NV;‹berdurchschnitt;3,1 - 5%;1,0 - 3 %;5%-9%
+51-60;M;;Gesch‰ftsbereich;B;Permanent;;"""3-5""";0.0;1;4.436624883087219;"""3-5""";Active;0;#NV;#NV;#NV;Unrated;;;
+‹ber 60;M;30.09.2024;Gesch‰ftsbereich;F;Permanent;;33-35;999.0;1;35.08745231202599;18-20;Active;1;#NV;#NV;#NV;Unrated;;kleiner 1%;
+51-60;M;;Werk;B;Permanent;;27-29;1.0;1;61.147826397059426;"""9-11""";Active;1;#NV;Durchschnitt;‹berdurchschnitt;Unrated;5,1 - 10%;;5%-9%
+41-50;M;28.02.2028;Gesch‰ftsbereich;C;Permanent;;0-2;1.0;1;19.447992265693777;0-2;Active;1;‹berdurchschnitt;Unrated;#NV;Unrated;5,1 - 10%;;
+25-30;M;;Gesch‰ftsbereich;G;Permanent;;"""9-11""";999.0;1;166.7810039149445;0-2;Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;3,1 - 5%;;25%-29%
+25-30;F;;Gesch‰ftsbereich;D;Permanent;;0-2;0.0;1;130.29332806602036;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;#NV;;;
+18-24;M;30.09.2027;Werk;F;Permanent;31.08.2024;0-2;0.5;1;267.33775569312076;0-2;Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;kleiner 1 %;1,0 - 3 %;
+25-30;F;;Gesch‰ftsbereich;F;Permanent;;"""6-8""";0.5;0;71.84916302948493;0-2;Active;1;#NV;#NV;Unrated;#NV;;;75%-79%
+51-60;M;;Werk;E;Permanent;;"""12-14""";0.0;1;161.26152074553156;"""3-5""";Active;1;#NV;#NV;#NV;Durchschnitt;10,1 - 15 %;;20%-24%
+31-40;M;;Werk;B;Fixed term contract;;"""6-8""";999.0;1;48.63027618437222;0-2;Active;0;Durchschnitt;Durchschnitt;#NV;#NV;;;"""-40%-36%"""
+‹ber 60;M;;Gesch‰ftsbereich;A;Permanent;;24-26;0.0;1;157.20438041745308;"""3-5""";Active;1;#NV;Durchschnitt;#NV;Durchschnitt;15,1 - 20 %;3,1 - 5%;
+41-50;F;;Gesch‰ftsbereich;F;Permanent;;15-17;0.5;1;155.83554950242842;"""3-5""";Active;0;#NV;#NV;#NV;Durchschnitt;;;5%-9%
+51-60;F;;HQ;B;Permanent;;33-35;0.5;1;15.294517334586143;18-20;Active;1;#NV;Durchschnitt;#NV;Durchschnitt;;;5%-9%
+41-50;F;;Gesch‰ftsbereich;C;Permanent;;24-26;999.0;1;119.94448040146608;0-2;Active;1;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;5%-9%
+25-30;M;;Gesch‰ftsbereich;F;Permanent;30.06.2024;"""9-11""";1.0;0;12.230735696495216;"""6-8""";Dormant;1;#NV;#NV;#NV;#NV;;;20%-24%
+18-24;M;;Gesch‰ftsbereich;B;Permanent;;"""3-5""";1.0;1;151.28561445139545;0-2;Terminated;0;Durchschnitt;Durchschnitt;‹berdurchschnitt;#NV;3,1 - 5%;kleiner 1%;
+Unter 18;M;;Gesch‰ftsbereich;E;Permanent;;0-2;999.0;0;266.78755841395645;0-2;Active;0;#NV;#NV;Durchschnitt;‹berdurchschnitt;1 % - 3 %;;
+51-60;F;;HQ;A;Permanent;;39-41;1.0;0;9.09316195047995;15-17;Active;0;#NV;Durchschnitt;Durchschnitt;#NV;;15,1 - 20%;0%-4%
+18-24;F;;HQ;C;Permanent;;0-2;1.0;0;65.05629033452811;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;;
+41-50;M;;HQ;B;Fixed term contract;31.12.2023;"""12-14""";0.5;1;103.08421422761161;"""3-5""";Active;0;Unterdurchschnitt;‹berdurchschnitt;#NV;#NV;;1,0 - 3 %;5%-9%
+‹ber 60;M;01.03.2023;HQ;E;Permanent;;39-41;1.0;0;198.42712934414536;0-2;Dormant;1;‹berdurchschnitt;‹berdurchschnitt;Durchschnitt;#NV;5,1 - 10%;;
+31-40;F;;HQ;F;Permanent;;"""3-5""";999.0;0;8.841847759198393;0-2;Terminated;0;#NV;#NV;Durchschnitt;Durchschnitt;75,01 - 100 %;;
+31-40;M;31.05.2025;Werk;G;Fixed term contract;;"""6-8""";0.5;0;34.672158758498995;0-2;Active;0;#NV;#NV;#NV;#NV;kleiner 1 %;3,1 - 5%;10%-14%
+‹ber 60;M;;HQ;E;Permanent;;36-38;1.0;1;147.0197525324709;18-20;Active;1;Unrated;#NV;Durchschnitt;Durchschnitt;;1,0 - 3 %;5%-9%
+41-50;F;;Gesch‰ftsbereich;A;Permanent;31.10.2022;27-29;1.0;1;58.185171216340876;0-2;Terminated;0;#NV;#NV;#NV;‹berdurchschnitt;;;5%-9%
+51-60;F;;Werk;G;Permanent;;"""12-14""";999.0;0;24.194173947597342;"""12-14""";Active;0;#NV;Durchschnitt;#NV;Durchschnitt;;;5%-9%
+25-30;M;;Werk;B;Permanent;31.03.2023;"""3-5""";1.0;1;9.7156442427459;"""3-5""";Active;1;Unrated;#NV;#NV;#NV;1 % - 3 %;;15%-19%
+25-30;M;;Werk;A;Fixed term contract;31.03.2023;"""6-8""";999.0;1;134.10582346304489;0-2;Dormant;1;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;;25%-29%
+31-40;F;;HQ;E;Permanent;;"""6-8""";0.0;0;33.408897165658814;"""6-8""";Active;0;Durchschnitt;#NV;#NV;Durchschnitt;;3,1 - 5%;20%-24%
+31-40;M;;Werk;F;Permanent;;0-2;0.0;0;174.3674190658631;0-2;Active;1;#NV;‹berdurchschnitt;#NV;Durchschnitt;1 % - 3 %;1,0 - 3 %;
+31-40;M;28.02.2026;HQ;A;Permanent;;"""12-14""";0.5;0;58.28181868746816;"""6-8""";Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;;;20%-24%
+31-40;M;14.04.2023;Werk;G;Permanent;;0-2;0.5;1;19.926693191942075;0-2;Terminated;0;#NV;#NV;#NV;#NV;1 % - 3 %;5,1 - 10%;
+25-30;F;;Gesch‰ftsbereich;C;Permanent;;"""12-14""";999.0;0;57.82267747008258;"""9-11""";Active;0;#NV;#NV;#NV;#NV;;;5%-9%
+‹ber 60;M;;Gesch‰ftsbereich;E;Permanent;;27-29;999.0;0;8.297455754573758;18-20;Active;1;#NV;Unterdurchschnitt;#NV;Durchschnitt;1 % - 3 %;;
+41-50;F;;Gesch‰ftsbereich;F;Permanent;;21-23;0.0;1;12.224618217867638;"""12-14""";Active;1;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;;5%-9%
+41-50;M;;Werk;C;Permanent;31.12.2022;21-23;999.0;1;117.77970793378093;"""3-5""";Active;0;Durchschnitt;#NV;‹berdurchschnitt;#NV;5,1 - 10%;;5%-9%
+31-40;F;;Gesch‰ftsbereich;A;Permanent;19.05.2022;0-2;0.5;0;97.44886956364569;0-2;Terminated;0;#NV;Unrated;‹berdurchschnitt;Durchschnitt;1 % - 3 %;;
+51-60;M;;Werk;D;Fixed term contract;;21-23;0.0;0;155.31613572028195;0-2;Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+51-60;M;31.12.2022;Werk;E;Permanent;;36-38;1.0;0;8.181981976102444;0-2;Active;1;#NV;#NV;‹berdurchschnitt;#NV;;;10%-14%
+41-50;M;;Gesch‰ftsbereich;A;Permanent;;"""6-8""";999.0;0;99.39247464135552;0-2;Dormant;1;#NV;#NV;#NV;#NV;10,1 - 15 %;;10%-14%
+‹ber 60;F;;Werk;F;Permanent;;24-26;999.0;0;117.88867391216829;"""3-5""";Terminated;1;Durchschnitt;Unrated;#NV;#NV;;kleiner 1%;
+18-24;M;;Werk;G;Permanent;;0-2;0.5;1;3.5155908488401755;0-2;Active;0;‹berdurchschnitt;‹berdurchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;
+25-30;F;;Gesch‰ftsbereich;E;Permanent;;0-2;0.0;0;159.58278575326884;0-2;Terminated;0;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;5,1 - 10%;
+41-50;M;;Werk;B;Fixed term contract;;21-23;0.0;1;19.847923271927336;18-20;Active;1;#NV;#NV;‹berdurchschnitt;#NV;kleiner 1 %;10,1 - 15%;5%-9%
+31-40;M;;HQ;E;Permanent;;18-20;1.0;0;45.09178477545;0-2;Active;0;#NV;‹berdurchschnitt;Durchschnitt;#NV;1 % - 3 %;15,1 - 20%;"""-15%-11%"""
+41-50;M;;Gesch‰ftsbereich;E;Permanent;30.06.2024;15-17;1.0;1;52.431469718122074;"""6-8""";Active;1;Durchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;;15%-19%
+41-50;M;;Werk;A;Permanent;31.07.2023;0-2;999.0;1;182.86378064267416;0-2;Terminated;1;#NV;#NV;#NV;#NV;1 % - 3 %;kleiner 1%;
+25-30;M;;HQ;C;Fixed term contract;31.12.2024;"""3-5""";1.0;0;133.49195588379214;0-2;Active;1;Durchschnitt;#NV;‹berdurchschnitt;#NV;;;25%-29%
+51-60;M;;Werk;B;Fixed term contract;;33-35;999.0;1;41.09364943546742;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;#NV;;;5%-9%
+31-40;M;;Gesch‰ftsbereich;F;Permanent;31.05.2024;"""6-8""";1.0;1;26.976082345725526;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;10,1 - 15 %;;"""-70%-66%"""
+18-24;F;;Werk;F;Permanent;;0-2;0.5;0;31.044368330752587;0-2;Active;0;Durchschnitt;‹berdurchschnitt;Durchschnitt;#NV;;3,1 - 5%;
+18-24;F;31.03.2025;Werk;A;Permanent;;"""3-5""";1.0;1;271.0204062295133;"""3-5""";Active;0;#NV;#NV;#NV;‹berdurchschnitt;3,1 - 5%;5,1 - 10%;20%-24%
+18-24;M;;Gesch‰ftsbereich;E;Permanent;;0-2;1.0;0;52.78663829728921;0-2;Active;0;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;;;
+51-60;F;;Gesch‰ftsbereich;B;Permanent;;21-23;999.0;1;120.9919754466297;"""3-5""";Active;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;;"""-15%-11%"""
+31-40;M;;Werk;D;Permanent;;0-2;1.0;0;21.562413632570557;0-2;Active;0;#NV;#NV;Durchschnitt;#NV;15,1 - 20 %;1,0 - 3 %;
+31-40;M;;Gesch‰ftsbereich;C;Permanent;;"""9-11""";999.0;1;63.26917845669651;0-2;Active;1;#NV;#NV;‹berdurchschnitt;Unrated;5,1 - 10%;;5%-9%
+51-60;M;;Werk;D;Permanent;;"""9-11""";0.5;0;143.31227815163408;"""9-11""";Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+41-50;M;14.03.2024;HQ;C;Permanent;;21-23;1.0;1;61.05210108615914;"""12-14""";Terminated;0;Durchschnitt;Durchschnitt;Durchschnitt;#NV;20,01 - 40%;3,1 - 5%;5%-9%
+41-50;M;30.09.2025;Werk;E;Permanent;14.09.2024;15-17;0.0;0;59.49719760052694;"""6-8""";Terminated;0;Unrated;‹berdurchschnitt;#NV;#NV;5,1 - 10%;5,1 - 10%;10%-14%
+‹ber 60;F;;HQ;G;Permanent;;33-35;1.0;1;3.7657306697899546;"""9-11""";Terminated;0;#NV;Unrated;#NV;#NV;;;
+51-60;M;;Werk;A;Permanent;;39-41;0.0;0;26.47008305034425;15-17;Active;1;#NV;#NV;#NV;#NV;;;5%-9%
+25-30;M;30.09.2023;Gesch‰ftsbereich;A;Permanent;31.12.2022;"""3-5""";1.0;0;38.920066042874154;0-2;Terminated;0;‹berdurchschnitt;Unrated;Durchschnitt;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;24-26;0.0;0;12.737329236973206;15-17;Active;1;#NV;#NV;#NV;Unrated;;kleiner 1%;10%-14%
+41-50;M;;Werk;C;Permanent;;21-23;999.0;0;60.853903815972814;"""3-5""";Dormant;0;#NV;Durchschnitt;Durchschnitt;Durchschnitt;kleiner 1 %;;5%-9%
+‹ber 60;M;30.11.2023;HQ;E;Permanent;;24-26;0.5;1;16.355730578151878;15-17;Terminated;1;#NV;#NV;#NV;Durchschnitt;;3,1 - 5%;0%-4%
+18-24;M;28.02.2025;Gesch‰ftsbereich;A;Permanent;;0-2;0.0;0;272.78157001029973;0-2;Active;0;#NV;#NV;#NV;#NV;;;
+31-40;M;;Werk;E;Permanent;;0-2;0.0;1;152.3348758075265;0-2;Active;0;#NV;#NV;#NV;‹berdurchschnitt;;3,1 - 5%;
+41-50;M;;Gesch‰ftsbereich;C;Permanent;;15-17;1.0;0;23.41668494338854;0-2;Active;1;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;;
+25-30;M;;Gesch‰ftsbereich;C;Permanent;;0-2;0.0;0;96.4455171075;0-2;Active;1;#NV;#NV;#NV;Durchschnitt;5,1 - 10%;1,0 - 3 %;
+31-40;M;;Werk;D;Permanent;31.12.2024;24-26;0.5;1;22.080021967997002;"""12-14""";Terminated;1;‹berdurchschnitt;#NV;‹berdurchschnitt;#NV;3,1 - 5%;3,1 - 5%;5%-9%
+51-60;M;;Werk;G;Permanent;30.06.2023;39-41;0.0;0;57.757702657159875;0-2;Terminated;1;#NV;Durchschnitt;#NV;#NV;3,1 - 5%;20,1 - 40%;5%-9%
+31-40;M;14.08.2022;HQ;F;Permanent;;15-17;0.5;1;97.50964130781263;"""3-5""";Active;0;#NV;‹berdurchschnitt;Unrated;‹berdurchschnitt;3,1 - 5%;;20%-24%
+41-50;M;;HQ;E;Permanent;;"""9-11""";0.0;0;147.7590608004303;"""6-8""";Active;0;Durchschnitt;#NV;#NV;Unrated;3,1 - 5%;kleiner 1%;15%-19%
+31-40;M;;Gesch‰ftsbereich;E;Permanent;;"""12-14""";0.0;1;9.243999768868807;0-2;Active;0;#NV;#NV;‹berdurchschnitt;Unrated;5,1 - 10%;5,1 - 10%;20%-24%
+31-40;F;31.08.2026;Werk;F;Permanent;;"""6-8""";0.0;1;141.79355358494828;0-2;Active;1;#NV;#NV;‹berdurchschnitt;Durchschnitt;60,01 - 75%;;5%-9%
+25-30;M;;Gesch‰ftsbereich;E;Permanent;;0-2;0.0;1;105.06944384086792;0-2;Terminated;1;#NV;Durchschnitt;Durchschnitt;#NV;;;
+51-60;M;31.05.2025;Gesch‰ftsbereich;F;Permanent;;"""12-14""";0.5;0;161.40731716141036;"""3-5""";Terminated;0;‹berdurchschnitt;‹berdurchschnitt;#NV;‹berdurchschnitt;;;20%-24%
+51-60;F;;Werk;D;Permanent;;39-41;1.0;1;8.157668846266034;0-2;Dormant;0;#NV;#NV;#NV;#NV;1 % - 3 %;1,0 - 3 %;"""-25%-21%"""
+51-60;F;;Gesch‰ftsbereich;F;Permanent;;21-23;999.0;0;195.32150009882105;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;#NV;1 % - 3 %;;5%-9%
+41-50;M;;HQ;F;Fixed term contract;21.07.2022;"""6-8""";1.0;0;59.227698184491324;0-2;Active;1;Durchschnitt;‹berdurchschnitt;Unrated;#NV;;;30%-34%
+41-50;M;;Gesch‰ftsbereich;D;Permanent;30.04.2025;27-29;0.5;1;152.91078078801863;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;‹berdurchschnitt;;;5%-9%
+41-50;M;;HQ;G;Permanent;;"""12-14""";0.0;0;66.09062222476093;"""12-14""";Terminated;0;#NV;‹berdurchschnitt;Durchschnitt;‹berdurchschnitt;1 % - 3 %;1,0 - 3 %;
+41-50;M;30.09.2022;HQ;E;Permanent;;15-17;999.0;0;22.71060176125035;"""6-8""";Active;0;Durchschnitt;‹berdurchschnitt;#NV;#NV;kleiner 1 %;;10%-14%
+31-40;M;30.09.2026;Werk;G;Permanent;30.09.2024;"""9-11""";0.0;1;152.308625222282;"""3-5""";Active;0;#NV;#NV;‹berdurchschnitt;Unrated;10,1 - 15 %;;5%-9%
+‹ber 60;F;;HQ;A;Permanent;;42-44;1.0;1;176.48400816345674;0-2;Active;1;‹berdurchschnitt;#NV;#NV;Unrated;;3,1 - 5%;
+51-60;F;;Werk;G;Permanent;31.05.2024;30-32;999.0;0;34.37079989276734;"""9-11""";Active;1;#NV;Durchschnitt;#NV;#NV;5,1 - 10%;;5%-9%
+25-30;M;;Werk;A;Permanent;;0-2;999.0;1;56.26148859828482;0-2;Active;0;#NV;Unrated;Durchschnitt;‹berdurchschnitt;;;
+31-40;F;30.09.2024;Gesch‰ftsbereich;F;Permanent;;18-20;0.5;1;7.4035483370995205;"""6-8""";Active;1;#NV;Durchschnitt;#NV;#NV;20,01 - 40%;1,0 - 3 %;
+41-50;M;;Werk;F;Permanent;;"""12-14""";0.0;1;47.36394001442713;"""12-14""";Terminated;1;#NV;Unrated;#NV;Durchschnitt;;;10%-14%
+18-24;M;;Werk;G;Fixed term contract;;0-2;0.0;0;160.6929928805935;0-2;Terminated;1;‹berdurchschnitt;#NV;Durchschnitt;‹berdurchschnitt;3,1 - 5%;3,1 - 5%;
+25-30;M;;Gesch‰ftsbereich;E;Permanent;;0-2;0.5;1;17.535028119339216;0-2;Active;0;#NV;Unrated;#NV;Durchschnitt;kleiner 1 %;10,1 - 15%;
+31-40;F;;Gesch‰ftsbereich;E;Permanent;;"""9-11""";0.5;1;5.463110074943337;"""3-5""";Active;0;#NV;#NV;#NV;#NV;3,1 - 5%;5,1 - 10%;
+41-50;M;;HQ;E;Permanent;;24-26;0.5;1;198.05549261411062;"""3-5""";Active;1;‹berdurchschnitt;#NV;#NV;‹berdurchschnitt;3,1 - 5%;1,0 - 3 %;5%-9%
+31-40;F;;Werk;F;Permanent;30.11.2023;"""6-8""";999.0;1;37.59344338139393;"""3-5""";Terminated;0;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;5,1 - 10%;;
+41-50;M;31.08.2023;HQ;C;Permanent;;24-26;1.0;1;27.36301214988198;"""6-8""";Active;0;#NV;‹berdurchschnitt;#NV;Unrated;5,1 - 10%;kleiner 1%;20%-24%
+41-50;M;;Gesch‰ftsbereich;B;Permanent;30.04.2022;30-32;0.5;0;22.55663879835332;"""6-8""";Active;1;#NV;‹berdurchschnitt;‹berdurchschnitt;#NV;;1,0 - 3 %;5%-9%
+18-24;M;;HQ;F;Permanent;;0-2;0.0;1;29.078238031056586;0-2;Active;0;Unrated;#NV;#NV;Durchschnitt;10,1 - 15 %;;
+41-50;M;;Gesch‰ftsbereich;F;Permanent;;"""3-5""";1.0;0;101.36826343738385;0-2;Active;0;#NV;#NV;#NV;#NV;3,1 - 5%;;10%-14%
+51-60;M;;Gesch‰ftsbereich;E;Permanent;;21-23;0.0;1;15.479265858870562;18-20;Active;0;‹berdurchschnitt;‹berdurchschnitt;Unrated;‹berdurchschnitt;20,01 - 40%;1,0 - 3 %;
+41-50;M;;Werk;D;Permanent;31.08.2024;15-17;0.0;1;15.473534777925174;"""3-5""";Active;0;Durchschnitt;Durchschnitt;‹berdurchschnitt;‹berdurchschnitt;1 % - 3 %;;5%-9%
+25-30;M;28.02.2027;Werk;C;Permanent;;0-2;1.0;1;17.769506900388468;0-2;Active;0;#NV;‹berdurchschnitt;#NV;#NV;;3,1 - 5%;
+41-50;M;;Gesch‰ftsbereich;E;Fixed term contract;;18-20;999.0;0;8.538473992182066;"""6-8""";Terminated;0;#NV;#NV;‹berdurchschnitt;#NV;;;5%-9%
+‹ber 60;M;;HQ;B;Permanent;;27-29;0.5;0;11.956613300003497;18-20;Active;1;#NV;‹berdurchschnitt;#NV;#NV;3,1 - 5%;3,1 - 5%;
+‹ber 60;M;;HQ;D;Permanent;;39-41;0.5;1;152.65405255431688;0-2;Active;1;‹berdurchschnitt;Durchschnitt;#NV;Durchschnitt;;;
+41-50;F;;Werk;G;Permanent;;24-26;0.0;0;147.91740619859954;"""6-8""";Active;0;Durchschnitt;#NV;#NV;‹berdurchschnitt;10,1 - 15 %;5,1 - 10%;10%-14%
+25-30;M;;Gesch‰ftsbereich;C;Permanent;;"""3-5""";0.0;1;65.7496303177865;0-2;Active;0;Durchschnitt;Unrated;#NV;#NV;;;25%-29%
+51-60;M;;Werk;B;Permanent;;33-35;0.0;1;47.92798973990319;"""9-11""";Active;1;Durchschnitt;#NV;#NV;Unrated;1 % - 3 %;;5%-9%
+41-50;M;;HQ;G;Fixed term contract;;24-26;1.0;0;175.35003746724993;"""9-11""";Dormant;1;#NV;#NV;#NV;Unrated;;1,0 - 3 %;5%-9%
+18-24;F;;Gesch‰ftsbereich;B;Permanent;;0-2;999.0;1;13.686381757176349;0-2;Active;0;#NV;Unrated;Durchschnitt;Unterdurchschnitt;;1,0 - 3 %;
+31-40;M;;Gesch‰ftsbereich;B;Fixed term contract;;"""3-5""";1.0;0;97.72597318681287;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;5,1 - 10%;10,1 - 15%;
+18-24;M;;HQ;A;Permanent;;0-2;999.0;0;17.78118767452812;0-2;Active;0;#NV;#NV;‹berdurchschnitt;#NV;5,1 - 10%;5,1 - 10%;
+41-50;M;;Werk;F;Permanent;;"""9-11""";0.5;0;42.627291367007025;0-2;Active;0;#NV;#NV;#NV;#NV;5,1 - 10%;1,0 - 3 %;10%-14%
+31-40;M;;Werk;D;Permanent;;"""9-11""";0.5;1;97.06010401655493;0-2;Active;0;Durchschnitt;#NV;#NV;#NV;;3,1 - 5%;"""-25%-21%"""
+51-60;M;;Werk;C;Permanent;;39-41;999.0;1;99.3530108056617;18-20;Active;1;#NV;Durchschnitt;#NV;#NV;10,1 - 15 %;kleiner 1%;15%-19%
+‹ber 60;M;;Gesch‰ftsbereich;C;Permanent;;39-41;0.5;1;48.67741805761312;18-20;Active;1;Durchschnitt;#NV;#NV;#NV;5,1 - 10%;;
+41-50;F;;Gesch‰ftsbereich;A;Permanent;;30-32;0.5;0;11.01170037424803;15-17;Active;1;#NV;#NV;‹berdurchschnitt;#NV;1 % - 3 %;;15%-19%
+25-30;M;;Werk;E;Permanent;;0-2;1.0;1;13.529405800683394;0-2;Terminated;0;Unrated;‹berdurchschnitt;#NV;‹berdurchschnitt;;;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;;"""12-14""";0.0;0;146.14367892744988;0-2;Dormant;1;#NV;#NV;#NV;#NV;3,1 - 5%;1,0 - 3 %;20%-24%
+51-60;M;;Werk;F;Permanent;;27-29;999.0;1;17.920751138893625;18-20;Terminated;1;#NV;Durchschnitt;Unrated;‹berdurchschnitt;20,01 - 40%;1,0 - 3 %;5%-9%
+31-40;M;;Werk;C;Permanent;;0-2;0.5;0;182.48412457760836;0-2;Active;1;#NV;#NV;#NV;#NV;;1,0 - 3 %;
+25-30;M;;Werk;E;Permanent;;"""3-5""";999.0;0;65.57158516165838;"""3-5""";Active;0;‹berdurchschnitt;#NV;#NV;Unrated;kleiner 1 %;kleiner 1%;
+31-40;M;30.06.2025;Gesch‰ftsbereich;G;Permanent;30.06.2022;0-2;0.5;1;176.22666729427206;0-2;Active;0;‹berdurchschnitt;#NV;Durchschnitt;‹berdurchschnitt;;60,1 - 75 %;
+18-24;M;;Werk;B;Permanent;;"""3-5""";1.0;0;268.50692500404284;"""3-5""";Dormant;0;#NV;‹berdurchschnitt;#NV;#NV;1 % - 3 %;;
+18-24;M;30.05.2024;Gesch‰ftsbereich;C;Fixed term contract;;0-2;1.0;0;7.583261850052867;0-2;Active;0;#NV;Durchschnitt;‹berdurchschnitt;Durchschnitt;;;
+31-40;M;;Gesch‰ftsbereich;D;Permanent;;0-2;1.0;0;24.184058675589853;0-2;Active;1;#NV;#NV;#NV;#NV;10,1 - 15 %;;
+‹ber 60;F;30.04.2023;Werk;D;Permanent;;39-41;1.0;1;54.25078616441709;0-2;Active;0;‹berdurchschnitt;#NV;#NV;#NV;1 % - 3 %;;
+18-24;M;28.02.2025;Gesch‰ftsbereich;C;Permanent;;"""3-5""";0.5;1;23.51099496336293;0-2;Terminated;0;#NV;‹berdurchschnitt;#NV;#NV;20,01 - 40%;40,1 - 60%;70%-74%
+31-40;M;;Werk;D;Permanent;;18-20;0.0;0;26.9487880714465;15-17;Active;1;#NV;#NV;#NV;Durchschnitt;;;"""-10%-6%"""
+51-60;F;;Gesch‰ftsbereich;D;Permanent;;21-23;999.0;1;100.74342855176134;"""3-5""";Active;0;#NV;#NV;Durchschnitt;#NV;;;10%-14%
+31-40;M;;Werk;A;Permanent;;"""6-8""";1.0;0;27.559173643397642;"""6-8""";Active;1;#NV;#NV;Unrated;#NV;;kleiner 1%;
+31-40;F;;Gesch‰ftsbereich;B;Permanent;;"""6-8""";0.5;1;10.866778850459376;0-2;Active;0;#NV;‹berdurchschnitt;#NV;Durchschnitt;;;25%-29%
+41-50;M;;HQ;G;Permanent;31.12.2022;15-17;0.0;1;43.02690611287448;"""9-11""";Terminated;1;‹berdurchschnitt;#NV;#NV;Durchschnitt;1 % - 3 %;;5%-9%
+31-40;M;;HQ;D;Permanent;;"""3-5""";1.0;0;70.26188283143809;"""3-5""";Active;0;#NV;#NV;#NV;Durchschnitt;;;10%-14%
+‹ber 60;M;;HQ;F;Permanent;;21-23;999.0;1;35.6414785405986;15-17;Terminated;1;#NV;#NV;Durchschnitt;#NV;3,1 - 5%;;"""-5%-1%"""
+18-24;F;;HQ;B;Permanent;;0-2;1.0;1;200.75741162134403;0-2;Active;0;‹berdurchschnitt;Durchschnitt;#NV;#NV;3,1 - 5%;5,1 - 10%;
+25-30;F;;HQ;C;Permanent;;"""3-5""";0.0;1;130.23039225685963;0-2;Terminated;0;‹berdurchschnitt;#NV;#NV;#NV;5,1 - 10%;5,1 - 10%;
+41-50;M;;Gesch‰ftsbereich;B;Permanent;;0-2;999.0;1;65.09260509083069;0-2;Active;1;‹berdurchschnitt;‹berdurchschnitt;‹berdurchschnitt;#NV;3,1 - 5%;;
+18-24;M;;HQ;G;Permanent;;0-2;1.0;1;197.40672589255985;0-2;Active;1;#NV;#NV;#NV;#NV;;10,1 - 15%;
+51-60;M;31.08.2025;Werk;C;Permanent;;27-29;0.5;1;143.8852987940765;"""12-14""";Active;1;Durchschnitt;Unrated;#NV;#NV;1 % - 3 %;5,1 - 10%;5%-9%
+41-50;M;;Gesch‰ftsbereich;G;Permanent;;21-23;0.0;1;101.51696967650707;18-20;Active;1;‹berdurchschnitt;Unrated;#NV;#NV;;;20%-24%
+51-60;M;;Gesch‰ftsbereich;A;Permanent;14.03.2023;"""12-14""";0.5;1;47.613768427845606;"""6-8""";Dormant;1;#NV;#NV;‹berdurchschnitt;‹berdurchschnitt;5,1 - 10%;;5%-9%
+51-60;F;;HQ;D;Permanent;;18-20;1.0;1;26.270976964360553;"""3-5""";Terminated;0;Durchschnitt;#NV;#NV;#NV;1 % - 3 %;kleiner 1%;10%-14%
+Unter 18;M;30.09.2022;Gesch‰ftsbereich;G;Permanent;31.08.2023;0-2;0.0;0;261.9684029945621;0-2;Terminated;0;Durchschnitt;Unterdurchschnitt;#NV;#NV;;;
+31-40;M;;Gesch‰ftsbereich;C;Fixed term contract;;"""6-8""";999.0;0;24.92194019726074;"""6-8""";Active;0;Durchschnitt;#NV;‹berdurchschnitt;#NV;;;5%-9%
+31-40;M;;Werk;E;Permanent;;"""6-8""";1.0;1;74.09701095417392;"""6-8""";Dormant;1;#NV;Durchschnitt;#NV;#NV;1 % - 3 %;5,1 - 10%;10%-14%
