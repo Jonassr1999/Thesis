@@ -38,6 +38,7 @@ Weitere Bibliotheken können je nach verwendetem Modul oder Notebook benötigt w
 ## Nutzung
 - Die wichtigsten Skripte und Notebooks:
 	- `App.py`: Hauptanwendung
+  	- `App_test.py`: Testanwendung
 	- `ml_forest.py`, `ml_lightgbm.py`, ...: Verschiedene ML-Modelle
 	- `shap_analysis.py`: Modellinterpretation mit SHAP
     - `preprocessing_ordinal.py`: Datenvorverarbeitung
