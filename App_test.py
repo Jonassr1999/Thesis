@@ -986,7 +986,7 @@ def clear_all_cache():
     except Exception as e:
         st.error(f" Fehler beim Löschen des Caches: {e}")
         return False
-# Fügen Sie diese Funktion zu Ihrer Sidebar hinzu
+
 show_model_cache_status()
 
 # ---------------------------------------------------------
@@ -1836,18 +1836,14 @@ def check_dependencies():
     except ImportError as e:
         st.error(f"""
         Fehlende Abhängigkeiten für Modell-Persistierung: {e}
-        
-        Installieren Sie die fehlenden Pakete:
-        ```
-        pip install joblib
-        ```
+
         
         Modelle werden nur im Session State gespeichert.
         """)
         st.session_state["use_model_persistence"] = False
         return False
 
-# Führen Sie diese Prüfung am Anfang aus
+# Prüfung am Anfang
 if not check_dependencies():
     st.session_state["use_model_persistence"] = False     
 
