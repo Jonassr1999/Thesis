@@ -43,7 +43,7 @@ Weitere Bibliotheken können je nach verwendetem Modul oder Notebook benötigt w
 	- `shap_analysis.py`: Modellinterpretation mit SHAP
     - `preprocessing_ordinal.py`: Datenvorverarbeitung
     - `PUB_ML.ipynb`: Notebook zur Untersuchung der ML Modelle
-	- `PUB_CausalML_Gehaltsentwicklung.ipynb`, `PUB_CausalML_zeitaufPos.ipynb`: Notebook zur kausalen Untersuchung von Gehaltsentwicklung
+	- `PUB_CausalML_Gehaltsentwicklung.ipynb`, `PUB_CausalML_zeitaufPos.ipynb`: Notebook zur kausalen Untersuchung
 
 *Weitere Hinweise zur Ausführung und zu den Daten können hier ergänzt werden.*
 ## Daten
