@@ -49,4 +49,3 @@ Weitere Bibliotheken können je nach verwendetem Modul oder Notebook benötigt w
 ## Daten
 - Die Analyse basiert auf historischen HR-Daten (z. B. `data_randomized.csv`).
 - Bitte sicherstellen, dass die Daten im richtigen Format vorliegen.
-# Thesis
